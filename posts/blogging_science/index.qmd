@@ -1,9 +1,9 @@
 ---
 title: "On Scientific Writing and Blogs"
 author: "Peter Raidl"
-date: "2024-08-25"
+date: "2024-09-14"
 categories: [news, blog, science, collaboration]
-image: "image.jpg"
+image: "Freud_Hysterie.png"
 ---
 
 ## Scientific Writing
@@ -47,5 +47,4 @@ We can and should leverage all those problems into **unrestricted publications**
 
 [^3]: Higher levels of Bloom's taxonomy of knowledge: apply, analyze, evaluate, and create [@krathwohlRevisionBloomTaxonomy2002]
 
-**Writing blog posts about your research:** Traditional scientific journal articles can only withstand so much information. The general consensus in many fields is not to spoil the reader with too much personal experience, different challenges during different phases of the project. I think even in pre-prints and other publishing formats that are more researcher centered, we hold on to the traditional writing style like using passive voice as if everything was executed by a emotionless and error-free research-robot. In reality there is often some kind of thinking, tweaking, rethinking and frustration involved. Sharing those things might improve project science. Writing those protocols in a personal way might not only help yourself resolving some of the project related issues but also make the work of the grad-student working on a similar project at another university easier. *Humanizing* our daily work by writing about it, is also a way to make science and scientists more relate-able for people outside of academia. We do have this problem of trust towards science and just informing people "how reality works" does not do the trick to improve that, in my opinion. But being relate-able is also something we should work for within *Team Science*. Seeing that all science (not only my project) is messy. There are struggles that go beyond low statistical power and deadlines.
-I personally would love to see more unrestricted, writing from scientists. I would love to see less profit oriented side-gigs and more real content - raw, personal and messy as it is and I hope you do too. Because that is what I will be trying with this blog.
+**Writing blog posts about your research:** Traditional scientific journal articles can only withstand so much information. The general consensus in many fields is not to spoil the reader with too much personal experience, different challenges during different phases of the project. I think even in pre-prints and other publishing formats that are more researcher centered, we hold on to the traditional writing style like using passive voice as if everything was executed by a emotionless and error-free research-robot. In reality there is often some kind of thinking, tweaking, rethinking and frustration involved. Sharing those things might improve project science. Writing those protocols in a personal way might not only help yourself resolving some of the project related issues but also make the work of the grad-student working on a similar project at another university easier. *Humanizing* our daily work by writing about it, is also a way to make science and scientists more relate-able for people outside of academia. We do have this problem of trust towards science and just informing people "how reality works" does not do the trick to improve that, in my opinion. But being relate-able is also something we should work for within *Team Science*. Seeing that all science (not only my project) is messy. There are struggles that go beyond low statistical power and deadlines. I personally would love to see more unrestricted, writing from scientists. I would love to see less profit oriented side-gigs and more real content - raw, personal and messy as it is and I hope you do too. Because that is what I will be trying with this blog.

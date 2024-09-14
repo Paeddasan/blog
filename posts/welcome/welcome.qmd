@@ -3,6 +3,7 @@ title: "Welcome To My Blog"
 author: "Peter Raidl"
 date: "2024-08-22"
 categories: [news, intro]
+image: "Science_inProgress.png"
 ---
 
 Welcome!
