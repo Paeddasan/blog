@@ -1,0 +1,22 @@
+---
+title: "Welcome To My Blog"
+author: "Peter Raidl"
+date: "2024-08-22"
+categories: [news, intro]
+---
+
+Welcome!
+
+Another blog from a person interested in science. What is different here? Well, let's see. I do not know yet myself. Maybe nothing, except that written blogs run out of fashion anyway and my expectation is that nobody will read it. This reduces the pressure immensely. The old joke is that one should store some money in one's thesis at the library. It's a safe place!
+
+## What can I expect?
+
+I will mostly write about the sciences of exercise and human movement related to health. I also have a strong interest in psychology and statistics but that doesn't mean I am an expert in any of those areas.
+
+Some posts will be of practical importance and deal with physical exercise or athletic training. Others might be more theoretical or philosophical and not give you the definitive answer you are looking for. In any case, I try to back up my ideas with scientific theories or direct findings. I will cite the origin of the knowledge base I tap into as well as possible (*until no original thought can be thought anymore*).
+
+## Why do you write this blog?
+
+Pure scholarship! Allan Watts talked about studying as leisure and how scholarship contradicts itself when playfulness is not invited ([Allan Watts](https://alanwatts.org/transcripts/the-tao-of-philosophy-2/?highlight=scholarship)). It's hard to grasp, but I am trying to follow this principle. The blog is a way to try out ideas - let them sink. It's low risk and cost compared to writing a book or a paper. But I still might get some feedback from outside. That might be the main idea (as far as I understand).
+
+So, I wish myself fun, and I am happy to share it :-)

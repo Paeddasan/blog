@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/welcome.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/blogging_science/index.html",
+      "/posts/welcome/welcome.html"
+    ]
+  }
+]
