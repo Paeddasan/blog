@@ -1,11 +1,10 @@
----
-title: "A discussion of Training"
-author: "Peter Raidl"
-date: "2024-10-01"
-categories: [blog, science, training, exercise, concept]
-draft: true
+# ---
+# title: "A discussion of Training"
+# author: "Peter Raidl"
+# date: "2024-10-01"
+# categories: [blog, science, training, exercise, concept]
 #image: "Training.png"
----
+#---
 
 <!--# 
 * Textbook definition of training
