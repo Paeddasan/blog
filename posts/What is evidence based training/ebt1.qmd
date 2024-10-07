@@ -1,0 +1,23 @@
+
+```{=html}
+<!--# Outline 
+What do I mean with Training?
+How did we find out about training and the improvements that are possible?
+What is scientific evidence?
+What is evidence based decision making?
+How can we blend knowledge from practitioner, trainee and science?
+
+-->
+```
+In the following I want to give a brief introduction to **evidence based training**. This term is already widely used in sport and exercise science but originates from medicine and was popularised mostly by David Sackett [-@sackettEvidenceBasedMedicine1996] and can be viewed as a shift in perspective of how modern medicine should make decisions. The article will start with an introduction to what I mean when I talk about (sports and physical exercise related) training ([@sec-training]). You can easily skip this part if you are familiar with discussions on that topic or you are not interested in terminology and already "know" what *training* means. In [@sec-knowledge] I want to discuss our knowledge base in training before I go into [@sec-scientificmethod] "THE Scientific Method" - a term that started bothering me a little. This part will discuss how we can use scientific evidence (the stuff that you find in research papers) to guide your decisions in training. After that (@sec-ebt) we look at Sackett's ideas of EBM and apply it to training. Finally, I want to discuss how we can blend knowledge from the practitioner, the trainee and science to make the best decisions in training ([@sec-blending]).
+
+As always, this is a blog and represents my personal take on the story. Make up your own mind and keep it with the original founder of Evidence Based Training:
+
+> *"Take what is useful, reject what is useless and add what is specifically yours"* - *Bruce Lee*
+
+
+# Research based training {#sec-scientificmethod}
+
+# Evidence based decision making {#sec-ebt}
+
+# Bring it together {#sec-blending}

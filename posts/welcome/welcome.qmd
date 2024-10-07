@@ -6,8 +6,6 @@ categories: [news, intro]
 image: "Science_inProgress.png"
 ---
 
-Welcome!
-
 Another blog from a person interested in science. What is different here? Well, let's see. I do not know yet myself. Maybe nothing, except that written blogs run out of fashion anyway and my expectation is that nobody will read it. This reduces the pressure immensely. The old joke is that one should store some money in one's thesis at the library. It's a safe place!
 
 ## What can I expect?

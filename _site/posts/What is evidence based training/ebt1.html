@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Paeddasan_Blog - Paeddasan - scientistinprogress</title>
+<title>Paeddasan_Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +20,45 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +86,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Paeddasan_Blog</span>
     </a>
   </div>
@@ -149,7 +109,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -170,196 +130,47 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Paeddasan - scientistinprogress</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(2)</span></div><div class="category" data-category="collaboration">collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="concept">concept <span class="quarto-category-count">(1)</span></div><div class="category" data-category="exercise">exercise <span class="quarto-category-count">(1)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="science">science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="training">training <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
+<!--# Outline 
+What do I mean with Training?
+How did we find out about training and the improvements that are possible?
+What is scientific evidence?
+What is evidence based decision making?
+How can we blend knowledge from practitioner, trainee and science?
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Science_inProgress.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Logo" width="300"></p>
-</figure>
-</div>
+-->
+<p>In the following I want to give a brief introduction to <strong>evidence based training</strong>. This term is already widely used in sport and exercise science but originates from medicine and was popularised mostly by David Sackett <span class="citation" data-cites="sackettEvidenceBasedMedicine1996">(<a href="#ref-sackettEvidenceBasedMedicine1996" role="doc-biblioref">1996</a>)</span> and can be viewed as a shift in perspective of how modern medicine should make decisions. The article will start with an introduction to what I mean when I talk about (sports and physical exercise related) training (<strong>?@sec-training</strong>). You can easily skip this part if you are familiar with discussions on that topic or you are not interested in terminology and already “know” what <em>training</em> means. In <strong>?@sec-knowledge</strong> I want to discuss our knowledge base in training before I go into <a href="#sec-scientificmethod" class="quarto-xref">Section&nbsp;1</a> “THE Scientific Method” - a term that started bothering me a little. This part will discuss how we can use scientific evidence (the stuff that you find in research papers) to guide your decisions in training. After that (<a href="#sec-ebt" class="quarto-xref">Section&nbsp;2</a>) we look at Sackett’s ideas of EBM and apply it to training. Finally, I want to discuss how we can blend knowledge from the practitioner, the trainee and science to make the best decisions in training (<a href="#sec-blending" class="quarto-xref">Section&nbsp;3</a>).</p>
+<p>As always, this is a blog and represents my personal take on the story. Make up your own mind and keep it with the original founder of Evidence Based Training:</p>
+<blockquote class="blockquote">
+<p><em>“Take what is useful, reject what is useless and add what is specifically yours”</em> - <em>Bruce Lee</em></p>
+</blockquote>
+<section id="sec-scientificmethod" class="level1">
+<h1>Research based training</h1>
+</section>
+<section id="sec-ebt" class="level1">
+<h1>Evidence based decision making</h1>
+</section>
+<section id="sec-blending" class="level1">
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1727802463628" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
-<div class="thumbnail">
-<p><a href="./posts/What is evidence based training/ebt1.html" class="no-external"></a></p><a href="./posts/What is evidence based training/ebt1.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/What is evidence based training/ebt1.html" class="no-external"></a></p>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Bring it together</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-sackettEvidenceBasedMedicine1996" class="csl-entry" role="listitem">
+Sackett, D. L., W. M. Rosenberg, J. A. Gray, R. B. Haynes, and W. S. Richardson. 1996. <span>“Evidence Based Medicine: What It Is and What It Isn’t.”</span> <em>BMJ (Clinical Research Ed.)</em> 312 (7023): 71–72. <a href="https://doi.org/10.1136/bmj.312.7023.71">https://doi.org/10.1136/bmj.312.7023.71</a>.
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/What is evidence based training/ebt1.html" class="no-external">Research based training</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/What is evidence based training/ebt1.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/What is evidence based training/ebt1.html" class="no-external">In the following I want to give a brief introduction to <strong>evidence based training</strong>. This term is already widely used in sport and exercise science but originates from medicine…<span class="citation" data-cites="sackettEvidenceBasedMedicine1996"></span><strong></strong><em></em><strong></strong></a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./posts/What is evidence based training/ebt1.html" class="no-external"></a></p><a href="./posts/What is evidence based training/ebt1.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="blog,science,training,exercise,concept" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1727890082191" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1576">
-<div class="thumbnail">
-<p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<p class="card-img-top"><img src="posts\A discussion on Training\modelA.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">A discussion of Training</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('concept'); return false;">
-concept
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with <em>…</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<div class="listing-date">
-Oct 1, 2024
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="news,blog,science,collaboration" data-listing-date-sort="1726264800000" data-listing-file-modified-sort="1726319235148" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1350">
-<div class="thumbnail">
-<p><a href="./posts/blogging_science/index.html" class="no-external"></a></p><a href="./posts/blogging_science/index.html" class="no-external">
-<p><img src="./posts/blogging_science/Freud_Hysterie.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/blogging_science/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/blogging_science/index.html" class="no-external">On Scientific Writing and Blogs</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/blogging_science/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('collaboration'); return false;">
-collaboration
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/blogging_science/index.html" class="no-external">The first scientific journal was installed by the Royal Society in 1665, and today, scientific publications in peer-reviewed journals are the most important currency in…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/blogging_science/index.html" class="no-external">
-<div class="listing-date">
-Sep 14, 2024
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="news,intro" data-listing-date-sort="1724277600000" data-listing-file-modified-sort="1726933106865" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
-<div class="thumbnail">
-<p><a href="./posts/welcome/welcome.html" class="no-external"></a></p><a href="./posts/welcome/welcome.html" class="no-external">
-<p><img src="./posts/welcome/Science_inProgress.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/welcome/welcome.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/welcome.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/welcome.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/welcome.html" class="no-external">Another blog from a person interested in science. What is different here? Well, let’s see. I do not know yet myself. Maybe nothing, except that written blogs run out of…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/welcome.html" class="no-external">
-<div class="listing-date">
-Aug 22, 2024
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

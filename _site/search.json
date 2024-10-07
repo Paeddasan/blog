@@ -46,7 +46,7 @@
     "href": "posts/welcome/welcome.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "Welcome!\nAnother blog from a person interested in science. What is different here? Well, let’s see. I do not know yet myself. Maybe nothing, except that written blogs run out of fashion anyway and my expectation is that nobody will read it. This reduces the pressure immensely. The old joke is that one should store some money in one’s thesis at the library. It’s a safe place!"
+    "text": "Another blog from a person interested in science. What is different here? Well, let’s see. I do not know yet myself. Maybe nothing, except that written blogs run out of fashion anyway and my expectation is that nobody will read it. This reduces the pressure immensely. The old joke is that one should store some money in one’s thesis at the library. It’s a safe place!"
   },
   {
     "objectID": "posts/welcome/welcome.html#what-can-i-exact",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Paeddasan - scientistinprogress",
     "section": "",
-    "text": "On Scientific Writing and Blogs\n\n\n\n\n\n\nnews\n\n\nblog\n\n\nscience\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 14, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nAug 22, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\nNo matching items"
+    "text": "Research based training\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA discussion of Training\n\n\n\n\n\n\nblog\n\n\nscience\n\n\ntraining\n\n\nexercise\n\n\nconcept\n\n\n\n\n\n\n\n\n\nOct 1, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nOn Scientific Writing and Blogs\n\n\n\n\n\n\nnews\n\n\nblog\n\n\nscience\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nSep 14, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nAug 22, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/blogging_science/index.html",
@@ -110,5 +110,33 @@
     "title": "Welcome To My Blog",
     "section": "What can I expect?",
     "text": "What can I expect?\nI will mostly write about the sciences of exercise and human movement related to health. I also have a strong interest in psychology and statistics but that doesn’t mean I am an expert in any of those areas.\nSome posts will be of practical importance and deal with physical exercise or athletic training. Others might be more theoretical or philosophical and not give you the definitive answer you are looking for. In any case, I try to back up my ideas with scientific theories or direct findings. I will cite the origin of the knowledge base I tap into as well as possible (until no original thought can be thought anymore)."
+  },
+  {
+    "objectID": "posts/What is evidence based training/ebt1.html",
+    "href": "posts/What is evidence based training/ebt1.html",
+    "title": "Research based training",
+    "section": "",
+    "text": "In the following I want to give a brief introduction to evidence based training. This term is already widely used in sport and exercise science but originates from medicine and was popularised mostly by David Sackett (1996) and can be viewed as a shift in perspective of how modern medicine should make decisions. The article will start with an introduction to what I mean when I talk about (sports and physical exercise related) training (?@sec-training). You can easily skip this part if you are familiar with discussions on that topic or you are not interested in terminology and already “know” what training means. In ?@sec-knowledge I want to discuss our knowledge base in training before I go into Section 1 “THE Scientific Method” - a term that started bothering me a little. This part will discuss how we can use scientific evidence (the stuff that you find in research papers) to guide your decisions in training. After that (Section 2) we look at Sackett’s ideas of EBM and apply it to training. Finally, I want to discuss how we can blend knowledge from the practitioner, the trainee and science to make the best decisions in training (Section 3).\nAs always, this is a blog and represents my personal take on the story. Make up your own mind and keep it with the original founder of Evidence Based Training:\n\n“Take what is useful, reject what is useless and add what is specifically yours” - Bruce Lee\n\n\nResearch based training\n\n\nEvidence based decision making\n\n\n\n\n\n\n\n\nBring it together\n\nSackett, D. L., W. M. Rosenberg, J. A. Gray, R. B. Haynes, and W. S. Richardson. 1996. “Evidence Based Medicine: What It Is and What It Isn’t.” BMJ (Clinical Research Ed.) 312 (7023): 71–72. https://doi.org/10.1136/bmj.312.7023.71."
+  },
+  {
+    "objectID": "posts/What is evidence based training/ebt1.html#footnotes",
+    "href": "posts/What is evidence based training/ebt1.html#footnotes",
+    "title": "What is evidence based training?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis does not mean that we have to measure it during the training process. But it sould be measurable in principle. For example we could measure the transport of oxygen to a target tissue in the lab. But we will not do that for every intervention we plan for every person undergoing the training intervention.↩︎"
+  },
+  {
+    "objectID": "posts/A discussion on Training/WhatsTraining.html",
+    "href": "posts/A discussion on Training/WhatsTraining.html",
+    "title": "A discussion of Training",
+    "section": "",
+    "text": "Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with training."
+  },
+  {
+    "objectID": "posts/A discussion on Training/WhatsTraining.html#footnotes",
+    "href": "posts/A discussion on Training/WhatsTraining.html#footnotes",
+    "title": "A discussion of Training",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis does not mean that we have to measure it during the training process. But it sould be measurable in principle. For example we could measure the transport of oxygen to a target tissue in the lab. But we will not do that for every intervention we plan for every person undergoing the training intervention.↩︎\nEspecially in the USA. In Europe Gestalt Psychology and other phenomenological approaches were more prominent.↩︎\nWatson famously claimed to be able to make anything out of a healthy infant↩︎\nLet me come back to that.↩︎"
   }
 ]
