@@ -16,7 +16,4 @@ format:
     css: styles.css
 bibliography: blog_Paeddasan.bib
 editor: visual
-project:
-  render:
-    draft: false
 
