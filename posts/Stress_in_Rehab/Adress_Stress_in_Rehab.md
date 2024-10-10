@@ -14,21 +14,25 @@ Mechanistically, the main driver for adverse health outcomes is chronic dysregul
 
 As health care professionals (HCP) we should think of stress as a potential long-term threat to health comparable to high blood pressure. Chronic stress also impacts health behavior and adherence to treatment plans. Stress interventions should incorporate all levels of the discussed models: The demand, the capacity and the response (behavioral, emotional-cognitive and physiological) and should be executed under the umbrella of client-centered care. Lastly, we discuss strategies that can be implemented in rehabilitative and preventetive settings. 
 
-## What is stress?
+## Introduction
 
-The term stress suffered from some nasty inflation in the last decade. Recently, my eight-year-old nephew said it would be stressful to visit us this month and he wants to plan ahead. First, we had a crack over it, but it also made us think about what he is taking from us adults revealing that we are stressed. Stress is generally understood as a state of feeling busy and having a rough time staying ahead of things. The psychologist J.W. Mason (1924 - 2014) described uncontrolability and **uncertainty** as being among five attributes that make a situation stressful. The others are **novelty**, **ambiguity** and **ego-involvement** <mark>SOURCE</mark>. Clearly, no single attribute of the five Mason-facors solely makes a situation stressful.
+**What is stress?**
 
+Since the early days of stress research, there was a debate about what stress is. Research focused mostly on the stress response and the General Adaptation Syndrom, defined by Hans Selye (Selye, xxx). In this school of thought, stress was the biological endresult, that lead to multiple negative health outcomes like ulcrea. On the other hand, some research focuses on the demand to the organism. This is evident in the use of "oxidative stress" or "heat stress" in mostly articles in physiology or related areas. In psychology and related field, stress is often defined as an interactive process between the envirnomental demand, and the organisms reaction, mediated by psychological processes. This view was heavily influenced by Lazarus and Mason. Other Definitions are possible. For example, in their book, @everlyClinicalGuideTreatment2013, define stress as „\[...\] a physiological response that serves as a mechanism of mediation linking any given stressor to its target-organ effect.“ (Everly, and Lating, 2013, p. 17). This is also a response oriented definition but sees the stress response as a general neuroendocinological messenger system. This definition therefore also serves as a representative example of "stress as function". Each of these definitions come with some weaknesses that have already been explored by @masonHistoricalViewStress1975. Little has changed in the last 5 decades and we still hold to his recommendtation to state the definition that is used in the present work.
 
+Here we use the word stress for the link function between the demand, the capacity and the physiological response. The demands, which can be environmetal challanges that are real, imagend or predicted.
 
-<!--# There must also be a connection from dopamine and nor-adrenalin to learning under stress. Check that. -->
+Stress was defined in a variety of ways by different researchers. The model by Lazarus and Folkman (SOURCE) provides the foundation of this article. Based on this model, we introduce stress as stress as an interactive process between stressor, as the demands on the organism, and the final response. The final response can be any form of coping attempt. The physiological stress response was first described by Cannon and later taken up by Seyle. Accordingly, we define the physiological stress response as general responses by the ANS and HPA-axis, sending preparatory signals to the end organs.
 
-The interaction of person, demand, environment and the mental model 
+ Lazarus and Folkman described primary and secondary appraisal as the mediating force between the stessor, response and capacity.
 
-## How can we measure stress?
+**How can we measure stress?**
 
-Subjective vs objective markers of stress.
+<!--# The first definitions of stress by Hans Selye were focused on the stress response. As a physiologist, selye was well aware of the impact of psychological components and how we interpret a situation on  the stress response. But only the psychologist J.W. Mason (1924 - 2014) started to systematically describe the mental components. -->
 
-Can we ask someone if they feel stressed? --> Ask what they can do for regeneration
+@lazarusCognitiveTheoriesStress1986 realized that describing stress only by one component (mostly by stress response (Seyle) or stressor (WHO?) leads to circular arguments and limit scientific progress. Models that focus on the process are able ot detect and describe effects form multiple perspectives. 
+
+**What makes stress stressful**
 
 ## Stress on health outcomes - the evidence
 
