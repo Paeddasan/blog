@@ -1,5 +1,5 @@
 ---
-title: "Paeddasan - scientistinprogress"
+#title: "Scientist in progress"
 listing:
   contents: posts
   sort: "date desc"

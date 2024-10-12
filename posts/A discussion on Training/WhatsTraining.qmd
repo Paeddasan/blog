@@ -1,10 +1,11 @@
-# ---
-# title: "A discussion of Training"
-# author: "Peter Raidl"
-# date: "2024-10-01"
-# categories: [blog, science, training, exercise, concept]
-#image: "Training.png"
-#---
+---
+title: "A discussion of Training"
+author: "Peter Raidl"
+date: "2024-10-01"
+categories: [blog, science, training, exercise, concept]
+image: "Training.png"
+draft: True
+---
 
 <!--# 
 * Textbook definition of training
@@ -15,15 +16,14 @@
 
 
 -->
+
 Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with *training*.
 
 # What is Training {#sec-training}
 
-When referring to training, I talk about to a *process* that is specifically designed to improve, rebuild or stabilize some human **capacity**, **biological function** or **structure**. Breaking down this working definition, I want to emphasize the term *process*.
-This means that training can not be defined without inferring to changes over time. Further, a process does involve multiple components of which none is a sufficient substitute the whole. The components of training might be defined in different ways. I want to create a very simple model (A) and a second model that is a little more sophisticated (B). Keep in mind, that the simple model A implicitly comprises many presuppositions. This is still true for model B. Only that model B is easier revealed as being false.
+When referring to training, I talk about to a *process* that is specifically designed to improve, rebuild or stabilize some human **capacity**, **biological function** or **structure**. Breaking down this working definition, I want to emphasize the term *process*. This means that training can not be defined without inferring to changes over time. Further, a process does involve multiple components of which none is a sufficient substitute the whole. The components of training might be defined in different ways. I want to create a very simple model (A) and a second model that is a little more sophisticated (B). Keep in mind, that the simple model A implicitly comprises many presuppositions. This is still true for model B. Only that model B is easier revealed as being false.
 
-::: {#fig-TPmodels layout-ncol=2}
-
+::: {#fig-TPmodels layout-ncol="2"}
 ![Model A: Training as a Black Box](modelA.png){#fig-modelA}
 
 ![Model B: Training as a function of Demand and Response morated by the capacity](modelB.png){#fig-modelB}
@@ -31,20 +31,17 @@ This means that training can not be defined without inferring to changes over ti
 Working Model for Training Processes
 :::
 
-Model @fig-modelA shows a classical example of a black box. Training can simply be viewed as a input-output function. The input represents the demand we put on the organism and the output the adaptations that happen. There is some undefined (or undefinable) black "magic" happening in the middle, transforming adaptations from demands. This might sound like a vague model but it has the advantage of being hard to falsify. Every model of higher granularity also includes more potential breaking points.
-Model @fig-modelB depicts the different components of the training process. Here I would generalize them as (1) demand to the organism, (2) capacity of the organism at the given situation, (3) response of the system, (4) mental processing and controlling. These four components stand in a circular relationship with each other.
+Model @fig-modelA shows a classical example of a black box. Training can simply be viewed as a input-output function. The input represents the demand we put on the organism and the output the adaptations that happen. There is some undefined (or undefinable) black "magic" happening in the middle, transforming adaptations from demands. This might sound like a vague model but it has the advantage of being hard to falsify. Every model of higher granularity also includes more potential breaking points. Model @fig-modelB depicts the different components of the training process. Here I would generalize them as (1) demand to the organism, (2) capacity of the organism at the given situation, (3) response of the system, (4) mental processing and controlling. These four components stand in a circular relationship with each other.
 
-The mental processing (4) (@fig-modelB) may need further explanation.
-While most of what we see in training happens between nodes (1), (2) and (3), the mental model makes it a training process.
+The mental processing (4) (@fig-modelB) may need further explanation. While most of what we see in training happens between nodes (1), (2) and (3), the mental model makes it a training process.
 
 **We call it training if the intention is a systematic link between demand, capacity and adaptive response.**
 
-The mental processing as a systemic link represents planning, observing and reorganizing the three other nodes. 
+The mental processing as a systemic link represents planning, observing and reorganizing the three other nodes.
 
 ## Measuring a Process
 
 The training *process* can not be operationalized by just looking at one component. Training is represented as the link function of all those points. So it can not be described as a single event in time and this makes it very hard to measure. For the most part only the input (the demand) and the output (the adaptations) can be quantified.
-
 
 ## Three sights of adaptations:
 
