@@ -2,7 +2,9 @@ project:
   type: website
 
 website:
-  title: "Moving Science Blog"
+  title: "The Moving Science Blog"
+  site-url: "https://themovingscienceblog.netlify.app/"
+  description: "Blog on the Science of Human Movement by Peter Raidl"
   navbar:
     right:
       - about.qmd
@@ -10,6 +12,8 @@ website:
         href: https://github.com/Paeddasan
       - icon: twitter
         href: https://x.com/peterraidl
+      - icon: rss
+        href: index.xml
 license: "CC BY 4.0"
 format:
   html:
