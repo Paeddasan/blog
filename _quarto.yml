@@ -9,7 +9,8 @@ website:
       - icon: github
         href: https://github.com/Paeddasan
       - icon: twitter
-        href: https://twitter.com/@peterraidl
+        href: https://x.com/peterraidl
+license: "CC BY 4.0"
 format:
   html:
     theme: cosmo

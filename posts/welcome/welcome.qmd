@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Moving Science Blog"
 author: "Peter Raidl"
-date: "2024-08-22"
+date: "2024-10-13"
 categories: [news, intro]
 image: "Science_inProgress.png"
 ---
@@ -20,8 +20,8 @@ Some posts will be of practical nature and deal with physical exercise, rehabili
 
 ## Why do I write this blog?
 
-Pure scholarship! Allan Watts was talking about studying as leisure and how scholarship contradicts itself when playfulness is not invited [@wattsTaoPhilosophyEdited1995]. It's hard to grasp, but I am trying to follow this principle. The blog is a way to try out ideas - let them express themselves and then rest and sink[\^1]. It seems like low risk and low cost compared to writing a book or a paper. Not writing (or not making it public) would rob me of the whole experience. The intention to publish it makes one think harder and care about the writing.
+Pure scholarship! Allan Watts was talking about studying as leisure and how scholarship contradicts itself when playfulness is not invited [@wattsTaoPhilosophyEdited1995]. It's hard to grasp, but I am trying to follow this principle. The blog is a way to try out ideas - let them express themselves and then rest and sink[^1]. It seems like low risk and low cost compared to writing a book or a paper. Not writing (or not making it public) would rob me of the whole experience. The intention to publish it makes one think harder and care about the writing.
 
 So, I wish myself fun, and I am happy to share it
 
-\[\^1\]: Yes, I might think of ideas as entities sometimes.
+[^1]: Yes, I might think of ideas as entities sometimes.
