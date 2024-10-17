@@ -14,7 +14,11 @@ draft: True
 * Direct link to stress research
 * Older historical ideas about training
 
+What is sports? There are many definitions. In german we use the word Sports for many different movement disciplines not just for clearly structured, performance oriented and competition oriented movement parctices. In every day language we use sports for healthy movement behaviour as well.
+I would like to see a little bit more narrow definitions. My definition for sports:
+An umbrella term for movement practices that are highly structure and follow certain rules (that are not static) and sports always represents and shapes culure or is politically informed.
 
+Movement in  general ist the spatiotemporal change of physical mass or concepts (like thoughts or ideas). In terms of movement sciences we look at transfer of chemical to kinetic energy within living organisms.
 -->
 
 Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with *training*.
