@@ -12,4 +12,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-![](Science_inProgress.png){fig-alt="Logo" fig-align="center" width="300"}
+![](MovingScienceBlog.png){fig-alt="Logo" fig-align="center" width="300"}
