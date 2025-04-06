@@ -4,7 +4,6 @@ author: "Peter Raidl"
 date: "2024-09-14"
 categories: [news, blog, science, collaboration]
 #image: "Freud_Hysterie.png"
-draft: F
 ---
 
 # Double Commitment - Life Outside the Ivory Tower
