@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://themovingscienceblog.netlify.app/posts/welcome/welcome.html</loc>
-    <lastmod>2024-10-13T10:07:39.838Z</lastmod>
+    <lastmod>2025-04-06T15:40:14.811Z</lastmod>
   </url>
   <url>
     <loc>https://themovingscienceblog.netlify.app/index.html</loc>
@@ -11,5 +11,9 @@
   <url>
     <loc>https://themovingscienceblog.netlify.app/about.html</loc>
     <lastmod>2024-10-13T10:25:50.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://themovingscienceblog.netlify.app/posts/Outside Science/Outside Science.html</loc>
+    <lastmod>2025-04-06T17:03:16.095Z</lastmod>
   </url>
 </urlset>
