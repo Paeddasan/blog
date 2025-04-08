@@ -3,7 +3,7 @@ title: "A discussion of Training"
 author: "Peter Raidl"
 date: "2025-04-08"
 categories: [blog, science, training, exercise, concept]
-image: "Training.png"
+image: "modelA.png"
 ---
 
 ```{=html}
