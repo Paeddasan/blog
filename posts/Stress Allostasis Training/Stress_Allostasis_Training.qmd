@@ -1,0 +1,17 @@
+---
+title: "Training Stress Allostasis"
+author: "Peter Raidl"
+categories: [science, training, exercise, concept]
+#image: "Training.png"
+draft: True
+---
+
+<!--# In training science, we look at biomarkers and performance metrics while psychological components are part of the variance we sometimes call error in statistics.  -->
+
+Training, as we view it today is heavily influenceed by physiology and a biomedical framework. The most commonly implemented model to describe adaptations to a training is the **Fitness-Fatigue Model** (FFm) by Bannister [@chiuFitnessFatigueModelRevisited2003]. It is a direct decendent of the **General Adaptation Syndrome** (GAS) by Hans Selye [@selyeStressDistress1976]. The GAS describes the typical stress response. So in exercise science training is always viewed from the perspective of stress. A stimulus has to disrupt the homeostasis[^1] to force the organism to adapt. Repeated exposure to a stimulus that is strong enough to disrupt homeostasis leads to the desired results. The FFm works very well in most physical training situations and can be understood intuitively. But the notion that a disruption of some kind of homeostasis is necessary for adaptations can be challenged. Homeostasis was introduced by Walter Cannon in the 19th century as a more refined version of Bernard's *milieu interieur*. Homeostasis describes how systems/organisms self-organize to reach a stable condition like blood glucose levels or blood pressure [@cannonORGANIZATIONPHYSIOLOGICALHOMEOSTASIS1929, @cooperClaudeBernardWalter2008]. The wording I used here immediately makes clear that also Norbert Wiener with his take on self-organizing systems by feedback (*cybernetics*) was inspired by this lineage of thinking. Bringing this together I want to try to bring the concept of training also in line with the more modern concept of complex systems theory.
+
+[^1]: Let me come back to that.
+
+Training also always follows a structure.
+
+# Our historic and current knowledge of training {#sec-knowledge}

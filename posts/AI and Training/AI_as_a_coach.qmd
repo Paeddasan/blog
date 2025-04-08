@@ -1,0 +1,14 @@
+---
+title: "AI as your Personal Trainer"
+author: "Peter Raidl"
+date: "2025-04-07"
+categories: [training, exercise, AI]
+#image: "Training.png"
+draft: True
+---
+
+# Can AI write your Training plan?
+
+I guess nearly everyone interested in training or fitness tried it out at that point in time. Can your favorite large language model write the training plan for your first marathon? The simple answer to that is yes! For many people and many common goals, AI is doing a great job in writing a training structure. I think it is often even better than some human coaches I have met. Sure, there are concerns with this approach. The current technology of LLMs does not really know what they are doing. They predict words based on their training data and sometimes hallucinate, leading to sometimes dangerous recommendations. They have a clear problem with numbers and "understanding" human physiology. Therefore, some simple repetition schemes are occasionally off by a bit. Otherwise, LLMs are doing great. But this shouldn't even surprise us! There is so much information on the internet about how to run a marathon or train for a bigger bench press. Even before the time of AI and social media, it was relatively easy to write a basic training plan for someone - especially for beginners or specific populations. In the past, you could simply open any book on training and find exactly that. So, don't be surprised that AI is as good as your next best trainer!
+
+## Coaching
