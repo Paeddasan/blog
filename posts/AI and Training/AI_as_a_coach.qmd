@@ -1,7 +1,7 @@
 ---
 title: "Exercise Program by AI"
 author: "Peter Raidl"
-date: "2025-04-07"
+date: "2025-04-14"
 categories: [training, exercise, AI]
 image: "TP_CoachingSteps.png"
 ---

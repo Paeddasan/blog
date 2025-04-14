@@ -10,7 +10,52 @@
 <atom:link href="https://themovingscienceblog.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog on the Science of Human Movement by Peter Raidl</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 07 Apr 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Apr 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Exercise Program by AI</title>
+  <dc:creator>Peter Raidl</dc:creator>
+  <link>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="is-ai-writing-your-exercise-program" class="level1">
+<h1>Is AI writing your exercise program?</h1>
+<p>At the beginning of each semester, I ask students what they expect learning in the seminar <em>Training Processes</em> that I teach at the University of Vienna. The answer I hear most often is that they want to be able to write a good exercise program. At that point in their education, they have already learned the foundations of exercise physiology, biomechanics, and training science. They know the basic training principles, prioritization structures, and recommendations for a specific adaptation. Nevertheless, they do not feel competent writing a training plan for athletes.</p>
+<p>Then, we let LLMs write an exercise program for their hypothetical athlete, and they reflect on the output. Can your favorite large language model plan your training for *pick <em>your goal and athlete*</em>? The simple answer to that is yes! For many people and common goals, AI is doing a great job writing a training structure. It is doing a better job than 80% of human coaches. Sure, there are concerns with this approach. The LLMs do not really “know” training science. They predict words based on their training data, which can sometimes lead to serious hallucinations. They have problems with numbers, and simple repetition recommendations are occasionally off. Otherwise, LLMs are doing great.</p>
+<p>But this shouldn’t even surprise us! There is so much information on the internet about how to run a marathon or train for a bigger bench press. Even before AI and social media, writing a basic exercise program was relatively easy- especially for beginners or some specific populations. You could open any book on training and find a good structure. So don’t be surprised if AI is as good as your next best coach!</p>
+<p>Interestingly, the students can easily fact-check the AI. They can immediately see the major issues with the outlined training structure and correct them. But it is also a mindboggling experience. They want to learn something that the current LLMs already can do well<sup>1</sup>.</p>
+<section id="but-is-ai-a-good-coach" class="level2">
+<h2 class="anchored" data-anchor-id="but-is-ai-a-good-coach">But is AI a good coach?</h2>
+<p>From a coaching perspective, I differentiate the training process into five phases. Each phase has its purpose and order. Naturally, this is just a rough guideline. The order is not fixed, and an experienced coach often jumps between phases. Writing the exercise program is just a tiny part of the process, which I call “drawing the map”. If you have a map, you are ahead of the game - But only if you have a clear destination, know what you are capable of, and can navigate and adjust if the road is blocked.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://themovingscienceblog.netlify.app/posts/AI and Training/TP_CoachingSteps.png" class="img-fluid figure-img" width="300"></p>
+<figcaption>Coaching steps during the training process</figcaption>
+</figure>
+</div>
+<p>Therefore, the more interesting question is, can AI do all that? The only way training can work out long-term is when regular adjustments happen according to the physiological and psychological needs of the person in relation to the goals and environmental constraints given. I am definitely not saying that AI can not do that. But this is the <em>Training Science Turing Test</em> we should think about. It is not interesting if it can write down 10 exercises in the correct order and the right repetition zones according to all the books published about training.</p>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The second learning is that they also already understand what good programs look like. That is a surprise to them.↩︎</p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <category>training</category>
+  <category>exercise</category>
+  <category>AI</category>
+  <guid>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</guid>
+  <pubDate>Sun, 13 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://themovingscienceblog.netlify.app/posts/AI and Training/TP_CoachingSteps.png" medium="image" type="image/png" height="192" width="144"/>
+</item>
 <item>
   <title>A discussion of Training</title>
   <dc:creator>Peter Raidl</dc:creator>
@@ -129,51 +174,6 @@ Krüger, Arnd. 2006. <span>“Training <span>Theory</span> and <span>Why Roger B
   <guid>https://themovingscienceblog.netlify.app/posts/A discussion on Training/WhatsTraining.html</guid>
   <pubDate>Mon, 07 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://themovingscienceblog.netlify.app/posts/A discussion on Training/modelA.png" medium="image" type="image/png" height="73" width="144"/>
-</item>
-<item>
-  <title>Exercise Program by AI</title>
-  <dc:creator>Peter Raidl</dc:creator>
-  <link>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="is-ai-writing-your-exercise-program" class="level1">
-<h1>Is AI writing your exercise program?</h1>
-<p>At the beginning of each semester, I ask students what they expect learning in the seminar <em>Training Processes</em> that I teach at the University of Vienna. The answer I hear most often is that they want to be able to write a good exercise program. At that point in their education, they have already learned the foundations of exercise physiology, biomechanics, and training science. They know the basic training principles, prioritization structures, and recommendations for a specific adaptation. Nevertheless, they do not feel competent writing a training plan for athletes.</p>
-<p>Then, we let LLMs write an exercise program for their hypothetical athlete, and they reflect on the output. Can your favorite large language model plan your training for *pick <em>your goal and athlete*</em>? The simple answer to that is yes! For many people and common goals, AI is doing a great job writing a training structure. It is doing a better job than 80% of human coaches. Sure, there are concerns with this approach. The LLMs do not really “know” training science. They predict words based on their training data, which can sometimes lead to serious hallucinations. They have problems with numbers, and simple repetition recommendations are occasionally off. Otherwise, LLMs are doing great.</p>
-<p>But this shouldn’t even surprise us! There is so much information on the internet about how to run a marathon or train for a bigger bench press. Even before AI and social media, writing a basic exercise program was relatively easy- especially for beginners or some specific populations. You could open any book on training and find a good structure. So don’t be surprised if AI is as good as your next best coach!</p>
-<p>Interestingly, the students can easily fact-check the AI. They can immediately see the major issues with the outlined training structure and correct them. But it is also a mindboggling experience. They want to learn something that the current LLMs already can do well<sup>1</sup>.</p>
-<section id="but-is-ai-a-good-coach" class="level2">
-<h2 class="anchored" data-anchor-id="but-is-ai-a-good-coach">But is AI a good coach?</h2>
-<p>From a coaching perspective, I differentiate the training process into five phases. Each phase has its purpose and order. Naturally, this is just a rough guideline. The order is not fixed, and an experienced coach often jumps between phases. Writing the exercise program is just a tiny part of the process, which I call “drawing the map”. If you have a map, you are ahead of the game - But only if you have a clear destination, know what you are capable of, and can navigate and adjust if the road is blocked.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://themovingscienceblog.netlify.app/posts/AI and Training/TP_CoachingSteps.png" class="img-fluid figure-img" width="300"></p>
-<figcaption>Coaching steps during the training process</figcaption>
-</figure>
-</div>
-<p>Therefore, the more interesting question is, can AI do all that? The only way training can work out long-term is when regular adjustments happen according to the physiological and psychological needs of the person in relation to the goals and environmental constraints given. I am definitely not saying that AI can not do that. But this is the <em>Training Science Turing Test</em> we should think about. It is not interesting if it can write down 10 exercises in the correct order and the right repetition zones according to all the books published about training.</p>
-
-
-</section>
-</section>
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>The second learning is that they also already understand what good programs look like. That is a surprise to them.↩︎</p></li>
-</ol>
-</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
-  <category>training</category>
-  <category>exercise</category>
-  <category>AI</category>
-  <guid>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</guid>
-  <pubDate>Sun, 06 Apr 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://themovingscienceblog.netlify.app/posts/AI and Training/TP_CoachingSteps.png" medium="image" type="image/png" height="192" width="144"/>
 </item>
 <item>
   <title>Outside Academia</title>
