@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "The Moving Science Blog",
     "section": "",
-    "text": "A discussion of Training\n\n\n\n\n\n\nblog\n\n\nscience\n\n\ntraining\n\n\nexercise\n\n\nconcept\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nOutside Academia\n\n\n\n\n\n\nnews\n\n\nblog\n\n\nscience\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nApr 6, 2025\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Moving Science Blog\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\nNo matching items\n\nReuseCC BY 4.0"
+    "text": "A discussion of Training\n\n\n\n\n\n\nblog\n\n\nscience\n\n\ntraining\n\n\nexercise\n\n\nconcept\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nExercise Program by AI\n\n\n\n\n\n\ntraining\n\n\nexercise\n\n\nAI\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nOutside Academia\n\n\n\n\n\n\nnews\n\n\nblog\n\n\nscience\n\n\ncollaboration\n\n\n\n\n\n\n\n\n\nApr 6, 2025\n\n\nPeter Raidl\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Moving Science Blog\n\n\n\n\n\n\nnews\n\n\nintro\n\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nPeter Raidl\n\n\n\n\n\n\nNo matching items\n\nReuseCC BY 4.0"
   },
   {
     "objectID": "posts/blogging_science/index.html",
@@ -208,5 +208,26 @@
     "title": "A discussion of Training",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nThis does not mean that we have to measure it during the training process. But it sould be measurable in principle. For example we could measure the transport of oxygen to a target tissue in the lab. But we will not do that for every intervention we plan for every person undergoing the training intervention.↩︎\nEspecially in the USA. In Europe Gestalt Psychology and other phenomenological approaches were more prominent, as far as I understand.↩︎\nWatson famously claimed to be able to make anything out of a healthy infant↩︎"
+  },
+  {
+    "objectID": "posts/AI and Training/AI_as_a_coach.html",
+    "href": "posts/AI and Training/AI_as_a_coach.html",
+    "title": "Exercise Program by AI",
+    "section": "",
+    "text": "At the beginning of each semester, I ask students what they expect learning in the seminar Training Processes that I teach at the University of Vienna. The answer I hear most often is that they want to be able to write a good exercise program. At that point in their education, they have already learned the foundations of exercise physiology, biomechanics, and training science. They know the basic training principles, prioritization structures, and recommendations for a specific adaptation. Nevertheless, they do not feel competent writing a training plan for athletes.\nThen, we let LLMs write an exercise program for their hypothetical athlete, and they reflect on the output. Can your favorite large language model plan your training for *pick your goal and athlete*? The simple answer to that is yes! For many people and common goals, AI is doing a great job writing a training structure. It is doing a better job than 80% of human coaches. Sure, there are concerns with this approach. The LLMs do not really “know” training science. They predict words based on their training data, which can sometimes lead to serious hallucinations. They have problems with numbers, and simple repetition recommendations are occasionally off. Otherwise, LLMs are doing great.\nBut this shouldn’t even surprise us! There is so much information on the internet about how to run a marathon or train for a bigger bench press. Even before AI and social media, writing a basic exercise program was relatively easy- especially for beginners or some specific populations. You could open any book on training and find a good structure. So don’t be surprised if AI is as good as your next best coach!\nInterestingly, the students can easily fact-check the AI. They can immediately see the major issues with the outlined training structure and correct them. But it is also a mindboggling experience. They want to learn something that the current LLMs already can do well1.\n\n\nFrom a coaching perspective, I differentiate the training process into five phases. Each phase has its purpose and order. Naturally, this is just a rough guideline. The order is not fixed, and an experienced coach often jumps between phases. Writing the exercise program is just a tiny part of the process, which I call “drawing the map”. If you have a map, you are ahead of the game - But only if you have a clear destination, know what you are capable of, and can navigate and adjust if the road is blocked.\n\n\n\nCoaching steps during the training process\n\n\nTherefore, the more interesting question is, can AI do all that? The only way training can work out long-term is when regular adjustments happen according to the physiological and psychological needs of the person in relation to the goals and environmental constraints given. I am definitely not saying that AI can not do that. But this is the Training Science Turing Test we should think about. It is not interesting if it can write down 10 exercises in the correct order and the right repetition zones according to all the books published about training."
+  },
+  {
+    "objectID": "posts/AI and Training/AI_as_a_coach.html#but-is-ai-a-good-coach",
+    "href": "posts/AI and Training/AI_as_a_coach.html#but-is-ai-a-good-coach",
+    "title": "Exercise Program by AI",
+    "section": "",
+    "text": "From a coaching perspective, I differentiate the training process into five phases. Each phase has its purpose and order. Naturally, this is just a rough guideline. The order is not fixed, and an experienced coach often jumps between phases. Writing the exercise program is just a tiny part of the process, which I call “drawing the map”. If you have a map, you are ahead of the game - But only if you have a clear destination, know what you are capable of, and can navigate and adjust if the road is blocked.\n\n\n\nCoaching steps during the training process\n\n\nTherefore, the more interesting question is, can AI do all that? The only way training can work out long-term is when regular adjustments happen according to the physiological and psychological needs of the person in relation to the goals and environmental constraints given. I am definitely not saying that AI can not do that. But this is the Training Science Turing Test we should think about. It is not interesting if it can write down 10 exercises in the correct order and the right repetition zones according to all the books published about training."
+  },
+  {
+    "objectID": "posts/AI and Training/AI_as_a_coach.html#footnotes",
+    "href": "posts/AI and Training/AI_as_a_coach.html#footnotes",
+    "title": "Exercise Program by AI",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThe second learning is that they also already understand what good programs look like. That is a surprise to them.↩︎"
   }
 ]
