@@ -1,5 +1,6 @@
 ---
 title: "A discussion of Training"
+id: whatstraining
 author: "Peter Raidl"
 date: "2025-04-08"
 categories: [blog, science, training, exercise, concept]

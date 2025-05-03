@@ -1,0 +1,33 @@
+---
+title: "The Non-functionality of Exercise"
+author: "Peter Raidl"
+date: "2024-10-01"
+categories: [training, exercise, meaning, motivation]
+#image: "Training.png"
+---
+
+# Terminology of training
+
+In the early 2000s, the term *Functional Training* was in widespread use. The pioneers who brought functional training to the broader community (mostly known are probably: Gray Cook, Mike Boyle, Greg Glassman, and Mark Verstegen) built a conceptual framework for movement practices to serve human movement effectiveness and efficiency. While their approaches differed from each other, their overarching idea was to build a training concept with broad transfer by implementing movements based on tasks or patterns that recur frequently in sports or daily life. Many of their ideas are built around neurology, motor control, and development from the 1960s onward. Most importantly, they broke with the convention at the time to dissect the human body into single muscles or organ systems. But early on, the Functional Training proponents faced criticism [e.i. @ideThereAnyNonfunctional2021; @dominskiFunctionalFitnessTraining2022, @siffFunctionalTrainingRevisited2002]. Especially the name angered many coaches and scientists alike. The argument is that the term *Functional* implies that other forms of training are non-functional. This criticism of "Functional" Training is valid, but I think that the term is as good as many other descriptions of exercise programs we use. Oftentimes we name a training methodology after its intended outcome. The WHY of Functional training is to gain specific functions. A more precise way of talking about a training method is to talk about the WHAT. To give another example, *strength training* would be the **WHY**, while calling it *resistance training* defines **WHAT** you do. **Making this distinction would open the door for a shift of our attention around movement.**
+
+```{=html}
+<!--# For example, "Zone 2 Cardio" seems to be a hot topic recently. The training zones are often sold as well-defined ranges of intensity based on metabolic thresholds. But these thresholds are neither scientifically well-defined nor stable within a person. They dynamically change based on factors such as energy availability, fatigue, and other factors[@borresenQuantificationTrainingLoad2009; jamnickExaminationCritiqueCurrent2020][^1]. The word "cardio" (which is not really used in scientific literature) is used to describe aerobic endurance training and does so by implying the site of adaptation - the heart. As if it is the only organ of interest when it comes to endurance or stamina.
+A similar term that is often used is hypertrophy training, which should describe a training method that leads to a desired outcome of increasing the volume of skeletal muscle. The problem is that hypertrophy can be achieved with a variety of strategies. It is valid to call the primary goal of an exercise program muscle hypertrophy. But it is not useful to call a training methodology like that.
+
+[^1]: The name "Zone 2" is mostly used when refering to a five zone model of training while others argue for only three zones based on the two (more or less) clear lactate or ventilatory thresholds. -->
+```
+
+# Outcome Goals - the WHY
+
+The language we use when talking about exercise and training is important. It drives our attention and intention around what we do. We use *WHY terms* to invoke motivation in athletes and the general population. From a public health perspective, talking about strength training could make a lot of sense as the quality and quantity of the skeletal muscle system is a highly relevant metric when it comes to mortality and quality of life in elderly and patients. The whole language around exercise and training is built around the notion of goals. They represent the WHY. Here we come back to the term "functional training". The dichotomy between functional and non-functional training implies that we know every WHY (i.e., function) that the training has. As I describe in another [post](https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining), this is even part of the definition of training. The goal lets us focus our attention. However, focus also means that we lose the ability to explore.
+
+# Movement practice
+
+By setting goals and calling out the desired outcomes of a training program, we define the **meaning of the movement** based on future outcomes. An alternative is to **let the meaning emerge**. The movement only defines the *search space*, and the interaction with the person creates individual meaning. **Instead of a narrow, hard focus, we stay curious, open, and exploratory.**
+
+Movement does not have to be functional to be meaningful! It can not serve a specific goal in itself. The goal can only be revealed by the person and in a certain situation. The outcomes it has on our lives can not be predicted and shouldn't be. This is for sure not an alternative to "Training" - it is an expansion.
+
+I want to finish this off with a saying Peter Drucker is frequently credited for (see this post by [Danny Buerkli](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6)):\
+**"What gets measured gets managed."**
+
+I think in a sense it is still true, but in reverse: You will often try to manage what you measure. But this also means that you will not even recognize the hidden potential in things you do not measure. A movement practice is a way of opening up to the potential of change we can not foresee. It's a way to embrace meaning by not installing a predefined purpose.

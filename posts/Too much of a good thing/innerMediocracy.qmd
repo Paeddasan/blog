@@ -1,0 +1,85 @@
+---
+title: "Finding Inner Mediocracy"
+author: "Peter Raidl"
+draft: True
+---
+
+# Main Points
+* Everything in life has to be in balance
+* Le milieu int́erieur --> homeostasis
+* Stress eustress distress
+* Chronic changes in demands can change the set point of homeostasis
+* We use this in training and learning
+* There is a dose-response relationship but we do know a specifically a lot of it
+* There must be a law of diminishing returns
+* 
+* We know also about transfer of certain capacities and functions (link blog)
+* The transfer might be positive or negative
+* 
+
+
+
+<!--#
+
+
+Everything in life has to be balanced. In the 1920s the term homeostasis was coined. It describes the bodies constant, autonomic control over a physiological state [@cooperClaudeBernardWalter2008]. A typical example is blood pressure or blood pH. Through complex interplay of regulatory functions, pH is kept at a narrow range of slightly above 7.3. The moment it gets too alkaline or too acid, the body regulates it accordingly. Otherwise things would go south very quickly. In many aspect of bodily function, the set point of homeostasis can be shifted. For example, the number of red blood cells, the size of your heart muscle or bone density in your femur change depending on the chronic demands. While in these examples one might argue that more is always better, in reality there is always a tread off. Let's face the obvious first: Too many red blood cells might make the blood to thick, especially under additional heat stress and loss of body water. Bigger muscles are costly. They take up a lot of energy, which is a major drawback from a evolutionary point of view. In case of bigger cardiac muscles, it seems to depend on the circumstances. Pathological changes of the myocard look different than athletic hearts. But even here, essentially the size itself matters. Athletic hearts (typically, but not always) just do not grow as much as under pathological situations [@bollinImpactIntensePhysical2025]. There might also be more nuanced trade-offs with some seemingly positive adaptations. These are less debated in the literature but are certainly plausible.
+
+## Point of deminishing returns
+Back in 2005-2010, when I was competitively training Karate, my coach advice me not to do any strength training out of fear I would get "heavy and slow". Surely, if my coach (who I still admire and respect) had read the literature of that time, he would have known better. Nevertheless, it was a popular oppinion. Today, there seems to be the opposite trend. The first intervention that many coaches and students associate with improved speed and explosive power is in fact resistance training. This approach could certainly be called evidence based ([see upcoming article on evidence based training](@ebt1.qmd)). There are probably thousands of intervention studies plus a sound physiological explanation why resistance training improves sprint times, kicking speed or jump height [@swintonDoseResponseModelling2024; @lesinskiEffectsDoseResponse2016] [^1]. But if we take a closer look, there must be at least a point of diminishing returns! We do not know where this point lies. Most studies work with more or less "ecologically valid" training programs. Which means that they use a training appraoch that could be used in practice. So we see a lot of studies that use frequencies of 2-3 times per week, for 8-16 weeks. Its hard to find a lot of work on way higher or lower volume. Even the literature on non-functional overreaching and over training can not answer that question definitely. These have completely different intentions and have to take the health of the athletes into account. But we know that there is too much training (for a given structure and in relation to the recovery processes) [@meeusenPreventionDiagnosisTreatment2013; @grandouOvertrainingResistanceExercise2020].
+You can see the idea depicted in @fig-deminish. You can get a lot out of small small investments. A set of push-ups a day come a long way. But doing 10 sets each day might only give you a small advantage over doing only 9 sets. 
+-->
+
+```{r, warning=FALSE}
+#| label: fig-deminish
+#| fig-cap: "Reduced return of investment with increasing input." 
+
+library(ggplot2)
+library(dplyr)
+
+input = seq(-10, 10)
+output = -(input^2) + 80
+df = data.frame("input" = input, "output" = output)
+
+df %>% 
+  ggplot(aes(x = input, y = output))+ 
+  geom_line(size = 1) +
+  theme_classic()+
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank())+
+  ggtitle("Deminishing Returns") +
+  geom_hline(yintercept = 0) +
+  #annotate("rect", xmin = -8, xmax = -4, ymin = 12, ymax = 70, alpha = 0.3, color = "magenta")+
+  xlim(c(-8, 0.5))+
+  ylim(c(10, 100))+
+  geom_hline(yintercept = 80, color = "magenta", linetype = "dashed")
+
+```
+
+
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+input = seq(-10, 10)
+output = -(input^2) + 80
+df = data.frame("input" = input, "output" = output)
+
+df %>% 
+  ggplot(aes(x = input, y = output))+ 
+  geom_line(size = 1) +
+  theme_classic()+
+  theme(axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        axis.line.x = element_blank())+
+  ggtitle("Inverted-U Function") +
+  geom_hline(yintercept = 0) +
+  annotate("rect", xmin = -7, xmax = -2, ymin = 20, ymax = 90, alpha = 0.3, color = "magenta")
+  
+
+```
+
+
+
+[^1]: Take a look at the excellent meta from @swintonDoseResponseModelling2024 to understand the magnitude of the effect and the certainty around it. It's not that strong as some might think to begin with.

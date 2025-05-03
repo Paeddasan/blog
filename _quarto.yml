@@ -19,6 +19,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-bibliography: blog_Paeddasan.bib
+bibliography: Blog_Paeddasan.bib
+bibliographystyle: apa.csl
 editor: visual
 
