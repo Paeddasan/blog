@@ -1,7 +1,7 @@
 ---
 title: "The Non-functionality of Exercise"
 author: "Peter Raidl"
-date: "2024-05-03"
+date: "2025-05-03"
 categories: [training, exercise, meaning, motivation]
 #image: "Training.png"
 ---
