@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Peter Raidl">
+<meta name="dcterms.date" content="2025-06-08">
 
-<title>The Moving Science Blog</title>
+<title>An Experiment on Attention – The Moving Science Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +22,45 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +88,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<meta name="quarto:status" content="draft">
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="The Moving Science Blog" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Draft</div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">The Moving Science Blog</span>
     </a>
   </div>
@@ -149,7 +112,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -163,7 +126,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -175,266 +138,104 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">An Experiment on Attention</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Peter Raidl </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 8, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(2)</span></div><div class="category" data-category="collaboration">collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="concept">concept <span class="quarto-category-count">(1)</span></div><div class="category" data-category="exercise">exercise <span class="quarto-category-count">(3)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meaning">meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="motivation">motivation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="science">science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="training">training <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="MovingScienceBlog.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Logo" width="300"></p>
-</figure>
-</div>
+
+<p>Today, I want to share a form of <a href="https://themovingscienceblog.netlify.app/posts/nonfunctionaltraining/nonfunctionaltraining">movement practice</a> I engage in regularly. I want to emphasize that this is not completely separate from a <a href="https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining">training</a> perspective, but primarily it is a practice for me. It hopefully serves as an example of the more theoretical, philosophical articles I have posted so far.</p>
+<p>The practice I do is based on the idea of willingly switching between <em>internal and external focus</em> during repeated exercises or movements. It is actually quite simple - which does not make it easy.</p>
+<section id="short-introduction-on-focus-and-movement" class="level2">
+<h2 class="anchored" data-anchor-id="short-introduction-on-focus-and-movement">Short introduction on focus and movement</h2>
+<p>When we have an <strong>external focus</strong> during movement, we direct our attention to the information we get from and the effects we have on the external world. It is about the soccer goal, or the cup of tea we want to reach for. It is also the more “natural” state during everyday movements. With an <strong>internal focus</strong>, on the other hand, we bring our attention to our breathing, heartbeat, or the way we use our muscles and joints when reaching for that cup. The internal focus directs our attention to the feedback we get from our body or the effects we have on it <span class="citation" data-cites="schmidtMotorControlLearning2019">(<a href="#ref-schmidtMotorControlLearning2019" role="doc-biblioref">Schmidt et al. 2019, 367</a>)</span>.</p>
+<p>In research on motor control and learning, internal and external focus have been of interest for decades now. Most research points to a superiority of an external focus when it comes to learning and performance <span class="citation" data-cites="chuaSuperiorityExternalAttentional2021">(<a href="#ref-chuaSuperiorityExternalAttentional2021" role="doc-biblioref">Chua et al. 2021</a>)</span>. On the other hand, there is something to say about an internal focus, too. Many embodied practices (or mind-body practices) like Yoga, traditional martial arts, and some contemporary dance arts use this form of attention <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. Also, the modern mindfulness movement has a strong emphasis on internal processes. Some applied philosophies use internal focus to train “right attention” or get a better understanding of <em>reality</em>. In a more utilitarian sense, conscious attention on internal processes is thought to improve our <em>understanding</em> of bodily sensations. As emotions probably emerge as interpretations of bodily sensations coupled with environmental cues supporting behavioral changes [<span class="citation" data-cites="craigInteroceptionSensePhysiological2003">Craig (<a href="#ref-craigInteroceptionSensePhysiological2003" role="doc-biblioref">2003</a>)</span>; @damasioEmotionsFeelingsNeurobiological2004], this helps us process and be aware of our emotions and feelings.</p>
+</section>
+<section id="as-practice" class="level2">
+<h2 class="anchored" data-anchor-id="as-practice">As practice</h2>
+<p>But it is not so much the scientific, <em>exoteric</em> promises of the practice. In contrast, I want to arouse your curiosity about what happens during such a practice for <strong>YOU</strong>! To use a word some might find provocative - I see it as a completely esoteric practice. What I mean by that is to find out about your own internal reality, instead of what is generally known to others <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>. So, when I now describe the practice, make sure to understand that the explicit knowledge about <em>what it should be</em> is not of interest. It is about your <em>participatory knowing</em> of <em>what it is to you right now</em>! I want to invite you to try it out - playful but serious. This means you have to try it out more than once while staying open-minded, without waiting for a spectacular effect to arise. <!-- # crossref to tryit out N > 1 --></p>
+</section>
+<section id="the-practice" class="level2">
+<h2 class="anchored" data-anchor-id="the-practice">The practice</h2>
+<p>Before starting the practice, make sure to warm up properly and prepare your space and equipment. Do whatever you need to feel ready.</p>
+<p>To start, you need a quiet space and preferably some implement to do a strength-related exercise with. Use one or two exercises you already know. I personally trained with kettlebells a couple of years ago and still use them for this kind of practice. So I do swings and push-ups on some days while alternating between presses and rows on other days. Look for a challenging weight that you can move about 8 to 20 times with “good form”. You will do about three to six sets of the exercise without ever going to failure. To limit my mental load about rest, I set a timer that signals the start of each new set. I would recommend 60 to 180 seconds, depending on the relative load and the movement. For starters: the heavier the implement, the longer the rest time. There is no need for more details here. Lastly, make sure that your phone is in airplane mode! This is crucial for many people. You don’t want to get sucked into something else during that time. After you have everything set up, you can start the practice. Every time the signal goes off, start your set. In between sets, walk a bit or just sit down. So far it is not different from some workouts you might have already done.</p>
+<p>The essential thing about this kind of practice is how you direct your attention. When you do your exercise, your focus should be very narrow and specific. Focus on the movement of the implement by envisioning either a target you want to move it towards or something you want to move it away from. For example, while lifting an object from the ground, you can focus on getting it away from the ground as fast and forcefully as possible. In a similar way, you could focus on pressing a barbell up towards the ceiling or getting it away from your shirt. The idea is to have an external focus and a clear intention that can be expressed in an image if you like (“forceful”, “powerful”, “like a crane”, “like a rocket”…). The moment you finish the set, you flip a switch and bring your attention to your bodily sensations. Notice how long it takes till your muscles “turn off”, how your blood pressure drops, and how breathing regulates. I want to remind you to stay open. There are thousands of regulatory processes going on, and some of them are observable if you take your time. Wait for the next signal to go off and repeat that pattern - That’s it.</p>
+</section>
+<section id="further-recommendations" class="level2">
+<h2 class="anchored" data-anchor-id="further-recommendations">Further recommendations</h2>
+<p>I started with a recommendation of preparation and warm-up and recommended getting ready for practice. Nevertheless, this does not mean you have to be in your <em>individual zone of optimal functioning</em>, ingest caffeine or be fully rested. It is also interesting to play around with your arousal and your level of fatigue. But at least you should be ready enough to feel safe.</p>
+<p>Keep the practice as simple as possible and try it out multiple times. Maybe you can really embrace the simplicity. It is neither super exciting nor entertaining. If you feel bored during the session, stay with the boredom. It is completely fine. Just flip a switch during the next set and focus on the performance of the set.</p>
+<p>Later, you can definitely change the exercise selection up by using bodyweight exercises, stretching, or even everyday movements like making coffee. You can play around with more challenging environments, too. But for the beginning, you might stick to my initial recommendation.</p>
+<p>There is no reason not to also turn the whole concept on its head. Especially if you have the possibility to do this outside, I would recommend you also play with an internal focus during the set and bring your attention to your exteroceptive input (like sight and sounds) or some specific objects like clouds, animals or buildings.</p>
+</section>
+<section id="summary-of-the-practice" class="level2">
+<h2 class="anchored" data-anchor-id="summary-of-the-practice">Summary of the practice</h2>
+<ul>
+<li><p>Set an interval timer to 60 - 180s for 3 to 6 sets</p></li>
+<li><p>Decide on one or two exercises you want to do. Use exercises you have some experience with, and use moderately heavy weights</p></li>
+<li><p>Every time the alarm goes off, you do a set of the exercise without going to failure. Leave 1 to 2 reps in the tank.</p></li>
+<li><p>During the set, your full attention is focused on an external goal of the movement</p></li>
+<li><p>You switch to your internal sensation when you put down the implement and stick to it during the whole rest period</p></li>
+<li><p>Do not add anything to the practice before trying it out at least two to three times.</p></li>
+<li><p>Embrace the simplicity and use your curiosity without leaning into any expectations of what the result of the practice will be.</p></li>
+<li><p>Enjoy</p></li>
+</ul>
 
 
 
+</section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1749333600000" data-listing-file-modified-sort="1749382544523" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1454">
-<div class="thumbnail">
-<p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a></p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
-<p><img loading="lazy" src="./posts/Experiment on Attention/Attention.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">An Experiment on Attention</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">Today, I want to share a form of movement practice I engage in regularly. I want to emphasize that this is not completely separate from a training perspective, but primarily…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="training,exercise,meaning,motivation" data-listing-date-sort="1746223200000" data-listing-file-modified-sort="1746292164007" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
-<div class="thumbnail">
-<p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a></p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">The Non-functionality of Exercise</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('meaning'); return false;">
-meaning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('motivation'); return false;">
-motivation
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">In the early 2000s, the term <em>Functional Training</em> was in widespread use. The pioneers who brought functional training to the broader community (mostly known are probably…<span class="citation" data-cites="ideThereAnyNonfunctional2021 dominskiFunctionalFitnessTraining2022"></span><em></em><em></em><strong></strong><em></em><strong></strong><strong></strong></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">
-<div class="listing-date">
-May 3, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="training,exercise,AI" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1744640601888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="534">
-<div class="thumbnail">
-<p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a></p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">
-<p><img loading="lazy" src="./posts/AI and Training/TP_CoachingSteps.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">Exercise Program by AI</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">At the beginning of each semester, I ask students what they expect learning in the seminar <em>Training Processes</em> that I teach at the University of Vienna. The answer I hear…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">
-<div class="listing-date">
-Apr 14, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="blog,science,training,exercise,concept" data-listing-date-sort="1744063200000" data-listing-file-modified-sort="1746291362633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1409">
-<div class="thumbnail">
-<p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<p><img loading="lazy" src="./posts/A discussion on Training/modelA.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">A discussion of Training</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('concept'); return false;">
-concept
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with <em>…</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<div class="listing-date">
-Apr 8, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="news,blog,science,collaboration" data-listing-date-sort="1743890400000" data-listing-file-modified-sort="1743959482325" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
-<div class="thumbnail">
-<p><a href="./posts/Outside Science/Outside Science.html" class="no-external"></a></p><a href="./posts/Outside Science/Outside Science.html" class="no-external">
-<p class="card-img-top"><img src="posts\Outside Science\academia_industry.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/Outside Science/Outside Science.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">Outside Academia</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('collaboration'); return false;">
-collaboration
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">As I have written on the front page, science and scholarship are activities of leisure. However, scientists must also live on something. Many of the known scientists of the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">
-<div class="listing-date">
-Apr 6, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="news,intro" data-listing-date-sort="1728770400000" data-listing-file-modified-sort="1743954014811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
-<div class="thumbnail">
-<p><a href="./posts/welcome/welcome.html" class="no-external"></a></p><a href="./posts/welcome/welcome.html" class="no-external">
-<p><img loading="lazy" src="./posts/welcome/Science_inProgress.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/welcome/welcome.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/welcome.html" class="no-external">Welcome to the Moving Science Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/welcome.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/welcome.html" class="no-external">What’s special about that blog? Honestly, I do not know yet! Maybe nothing, except that written blogs run out of fashion. I expect nobody to read it. This reduces the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/welcome.html" class="no-external">
-<div class="listing-date">
-Oct 13, 2024
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-chuaSuperiorityExternalAttentional2021" class="csl-entry" role="listitem">
+Chua, Lee-Kuen, Judith Jimenez-Diaz, Rebecca Lewthwaite, Taewon Kim, and Gabriele Wulf. 2021. <span>“Superiority of External Attentional Focus for Motor Performance and Learning: <span>Systematic</span> Reviews and Meta-Analyses.”</span> <em>Psychological Bulletin</em> 147 (6): 618–45. <a href="https://doi.org/10.1037/bul0000335">https://doi.org/10.1037/bul0000335</a>.
+</div>
+<div id="ref-craigInteroceptionSensePhysiological2003" class="csl-entry" role="listitem">
+Craig, AD Bud. 2003. <span>“Interoception: The Sense of the Physiological Condition of the Body.”</span> <em>Current Opinion in Neurobiology</em> 13 (4): 500–505. <a href="https://doi.org/10.1016/S0959-4388(03)00090-4">https://doi.org/10.1016/S0959-4388(03)00090-4</a>.
+</div>
+<div id="ref-schmidtMotorControlLearning2019" class="csl-entry" role="listitem">
+Schmidt, Richard A., Timothy Donald Lee, Carolee J. Winstein, Gabriele Wulf, and Howard N. Zelaznik. 2019. <em>Motor Control and Learning: <span>A</span> Behavioral Emphasis</em>. Sixth edition. Champaign, IL: Human Kinetics.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>I use attention and focus interchangeably. In motor learning literature it is common to call it internal and external “focus of attention”. Attention could be described as the process of directing your mental processes towards something, while focus is more about sustaining the attention on something.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>The word esoteric has many different meanings. Originally it was used as a differentiation from exoteric philosophies and it means something like “secret” or “inner” philosophy. Coming from a time when philosophy and science were two sides of the same coin, esoteric can mean something like the knowledge (or wisdom) that reveals itself only to the experts or the knowledge (or wisdom) that is only attainable through insight into ones’ own nature of reality.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Peter Raidl">
 
-<title>The Moving Science Blog</title>
+<title>Try it out - N &gt; 1 – The Moving Science Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +67,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="The Moving Science Blog" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">The Moving Science Blog</span>
     </a>
   </div>
@@ -149,7 +90,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -163,7 +104,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -175,266 +116,49 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Try it out - N &gt; 1</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Peter Raidl </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(2)</span></div><div class="category" data-category="collaboration">collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="concept">concept <span class="quarto-category-count">(1)</span></div><div class="category" data-category="exercise">exercise <span class="quarto-category-count">(3)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meaning">meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="motivation">motivation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="science">science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="training">training <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="MovingScienceBlog.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Logo" width="300"></p>
-</figure>
-</div>
+
+<ul>
+<li><p>WE have to try things out more often then once to understand it and feel it</p></li>
+<li><p>It is not enough to do something once and decide.</p></li>
+<li><p>Most direct / ACUTE Effects to not have anything to do with long term effects</p></li>
+<li><p>Learning and performance are not the same</p></li>
+</ul>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1749333600000" data-listing-file-modified-sort="1749382544523" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1454">
-<div class="thumbnail">
-<p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a></p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
-<p><img loading="lazy" src="./posts/Experiment on Attention/Attention.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">An Experiment on Attention</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">Today, I want to share a form of movement practice I engage in regularly. I want to emphasize that this is not completely separate from a training perspective, but primarily…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="training,exercise,meaning,motivation" data-listing-date-sort="1746223200000" data-listing-file-modified-sort="1746292164007" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
-<div class="thumbnail">
-<p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a></p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">The Non-functionality of Exercise</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('meaning'); return false;">
-meaning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('motivation'); return false;">
-motivation
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">In the early 2000s, the term <em>Functional Training</em> was in widespread use. The pioneers who brought functional training to the broader community (mostly known are probably…<span class="citation" data-cites="ideThereAnyNonfunctional2021 dominskiFunctionalFitnessTraining2022"></span><em></em><em></em><strong></strong><em></em><strong></strong><strong></strong></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">
-<div class="listing-date">
-May 3, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="training,exercise,AI" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1744640601888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="534">
-<div class="thumbnail">
-<p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a></p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">
-<p><img loading="lazy" src="./posts/AI and Training/TP_CoachingSteps.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">Exercise Program by AI</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">At the beginning of each semester, I ask students what they expect learning in the seminar <em>Training Processes</em> that I teach at the University of Vienna. The answer I hear…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">
-<div class="listing-date">
-Apr 14, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="blog,science,training,exercise,concept" data-listing-date-sort="1744063200000" data-listing-file-modified-sort="1746291362633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1409">
-<div class="thumbnail">
-<p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<p><img loading="lazy" src="./posts/A discussion on Training/modelA.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">A discussion of Training</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('training'); return false;">
-training
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('exercise'); return false;">
-exercise
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('concept'); return false;">
-concept
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">Most of my extensive (formal and informal) education falls into the realm of training science. So I want to start right there and give you a introduction to what I mean with <em>…</em></a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
-<div class="listing-date">
-Apr 8, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="news,blog,science,collaboration" data-listing-date-sort="1743890400000" data-listing-file-modified-sort="1743959482325" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
-<div class="thumbnail">
-<p><a href="./posts/Outside Science/Outside Science.html" class="no-external"></a></p><a href="./posts/Outside Science/Outside Science.html" class="no-external">
-<p class="card-img-top"><img src="posts\Outside Science\academia_industry.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/Outside Science/Outside Science.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">Outside Academia</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
-blog
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('science'); return false;">
-science
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('collaboration'); return false;">
-collaboration
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">As I have written on the front page, science and scholarship are activities of leisure. However, scientists must also live on something. Many of the known scientists of the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/Outside Science/Outside Science.html" class="no-external">
-<div class="listing-date">
-Apr 6, 2025
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="news,intro" data-listing-date-sort="1728770400000" data-listing-file-modified-sort="1743954014811" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
-<div class="thumbnail">
-<p><a href="./posts/welcome/welcome.html" class="no-external"></a></p><a href="./posts/welcome/welcome.html" class="no-external">
-<p><img loading="lazy" src="./posts/welcome/Science_inProgress.png" class="thumbnail-image"></p>
-</a><p><a href="./posts/welcome/welcome.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/welcome.html" class="no-external">Welcome to the Moving Science Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/welcome.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/welcome.html" class="no-external">What’s special about that blog? Honestly, I do not know yet! Maybe nothing, except that written blogs run out of fashion. I expect nobody to read it. This reduces the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/welcome.html" class="no-external">
-<div class="listing-date">
-Oct 13, 2024
-</div>
-<div class="listing-author">
-Peter Raidl
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

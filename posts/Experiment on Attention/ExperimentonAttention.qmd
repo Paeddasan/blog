@@ -1,28 +1,64 @@
 ---
 title: "An Experiment on Attention"
 author: "Peter Raidl"
-date: "2025-05-31"
-draft: True
+date: "2025-06-08"
+image: "Attention.png"
 ---
 
-Today I want to share a form of [movement practice](<https://themovingscienceblog.netlify.app/posts/nonfunctionaltraining/nonfunctionaltraining>) I engage in regularly.
-I want to emphazise that this is not completely separate from a [training](https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining) perspective, but primarily I am trying to see it as a practice. As you might already have realized, this is a very personal article. It hopefully serves as an example to the more theoretical, philosophical articles I posted so far.
+Today, I want to share a form of [movement practice](https://themovingscienceblog.netlify.app/posts/nonfunctionaltraining/nonfunctionaltraining) I engage in regularly. I want to emphasize that this is not completely separate from a [training](https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining) perspective, but primarily it is a practice for me. It hopefully serves as an example of the more theoretical, philosophical articles I have posted so far.
 
-The practice I do is based on the idea of willingly switching between internal and external focus during repeated exercises or movements. It is actually quite simple - which does not make it easy.
+The practice I do is based on the idea of willingly switching between *internal and external focus* during repeated exercises or movements. It is actually quite simple - which does not make it easy.
 
 ## Short introduction on focus and movement
 
-When we have an external focus during movement, we direct our cognitive processes on the information we get and the effects we have on the external world. It is about the soccer goal, or the cup of tee we want to reach for. With an internal focus, on the other hand, we focus on our breathing, heartbeat or the way we use our muscles and joints when reaching for that cup. 
+When we have an **external focus** during movement, we direct our attention to the information we get from and the effects we have on the external world. It is about the soccer goal, or the cup of tea we want to reach for. It is also the more "natural" state during everyday movements. With an **internal focus**, on the other hand, we bring our attention to our breathing, heartbeat, or the way we use our muscles and joints when reaching for that cup. The internal focus directs our attention to the feedback we get from our body or the effects we have on it [@schmidtMotorControlLearning2019, pp. 367].
 
-In research on motor control and learning internal and external focus have been of interest for decades now.
-Most research points to a superiority of an external focus when it comes to learning and performance (<SOURCE>). On the other hand, there is something to say about an internal focus too. Many body-mind practices like Yoga, traditional martial arts and some contemporary dance arts use this form of attention[^1]. Also the modern mindfulness movement has a strong emphasis on internal processes. The conscious attention on internal processes is thought to improve our "understanding" of bodily sensations. This in turn improves our own understanding of emotions and feelings, because, as some prominent theories point out, emotions are interpretations of the feedback we get from our body coupled with situational cues.
+In research on motor control and learning, internal and external focus have been of interest for decades now. Most research points to a superiority of an external focus when it comes to learning and performance [@chuaSuperiorityExternalAttentional2021]. On the other hand, there is something to say about an internal focus, too. Many embodied practices (or mind-body practices) like Yoga, traditional martial arts, and some contemporary dance arts use this form of attention [^1]. Also, the modern mindfulness movement has a strong emphasis on internal processes. Some applied philosophies use internal focus to train "right attention" or get a better understanding of *reality*. In a more utilitarian sense, conscious attention on internal processes is thought to improve our *understanding* of bodily sensations. As emotions probably emerge as interpretations of bodily sensations coupled with environmental cues supporting behavioral changes [@craigInteroceptionSensePhysiological2003; \@damasioEmotionsFeelingsNeurobiological2004], this helps us process and be aware of our emotions and feelings.
 
-[^1]: I use attention and focus interchangeably. But there might be a difference. Attention could be described as the process of directing your mental processes towards something, while focus is more about sustaining the attention on something.
+[^1]: I use attention and focus interchangeably. In motor learning literature it is common to call it internal and external "focus of attention". Attention could be described as the process of directing your mental processes towards something, while focus is more about sustaining the attention on something.
 
 ## As practice
-But it is not so much the scientific, exoteric promises of that practice. In contrast I want to arouse your curiosity about what happens during such a practice in YOU! To use a word some might find provocative - it is an esoteric practice - or to use the meaning of the word more specifically - it is about what you can find out about your own, individual reality, not what is generally known for a population [^2].
-So when I now describe the practice make sure to understand that the explicit knowledge about *what it should be* is not of interest. It is about your *participatory knowing* and *what it is to you*. So I want to invite you to try it out - playful but seriously. Try it out a couple of times to really understand it  
 
-[^2]: the word esoteric has many different meanings. Originally it was used as a differentiation from exoteric philosophies and it means something like "secret" or "inner" philosophy. Coming from a time when philosophy and science were two sides of the same coin, esoteric can mean something like the knowledge (or wisdom) that reveals itself only to the experts or the knowledge (or wisdom) that is only attainable through insight into onse own nature of reality.
+But it is not so much the scientific, *exoteric* promises of the practice. In contrast, I want to arouse your curiosity about what happens during such a practice for **YOU**! To use a word some might find provocative - I see it as a completely esoteric practice. What I mean by that is to find out about your own internal reality, instead of what is generally known to others [^2]. So, when I now describe the practice, make sure to understand that the explicit knowledge about *what it should be* is not of interest. It is about your *participatory knowing* of *what it is to you right now*! I want to invite you to try it out - playful but serious. This means you have to try it out more than once while staying open-minded, without waiting for a spectacular effect to arise. <!-- # crossref to tryit out N > 1 -->
 
+[^2]: The word esoteric has many different meanings. Originally it was used as a differentiation from exoteric philosophies and it means something like "secret" or "inner" philosophy. Coming from a time when philosophy and science were two sides of the same coin, esoteric can mean something like the knowledge (or wisdom) that reveals itself only to the experts or the knowledge (or wisdom) that is only attainable through insight into ones' own nature of reality.
 
+## The practice
+
+Before starting the practice, make sure to warm up properly and prepare your space and equipment. Do whatever you need to feel ready.
+
+To start, you need a quiet space and preferably some implement to do a strength-related exercise with. Use one or two exercises you already know. I personally trained with kettlebells a couple of years ago and still use them for this kind of practice. So I do swings and push-ups on some days while alternating between presses and rows on other days. Look for a challenging weight that you can move about 8 to 20 times with "good form". You will do about three to six sets of the exercise without ever going to failure. To limit my mental load about rest, I set a timer that signals the start of each new set. I would recommend 60 to 180 seconds, depending on the relative load and the movement. For starters: the heavier the implement, the longer the rest time. There is no need for more details here. Lastly, make sure that your phone is in airplane mode! This is crucial for many people. You don't want to get sucked into something else during that time. After you have everything set up, you can start the practice. Every time the signal goes off, start your set. In between sets, walk a bit or just sit down. So far it is not different from some workouts you might have already done.
+
+The essential thing about this kind of practice is how you direct your attention. When you do your exercise, your focus should be very narrow and specific. Focus on the movement of the implement by envisioning either a target you want to move it towards or something you want to move it away from. For example, while lifting an object from the ground, you can focus on getting it away from the ground as fast and forcefully as possible. In a similar way, you could focus on pressing a barbell up towards the ceiling or getting it away from your shirt. The idea is to have an external focus and a clear intention that can be expressed in an image if you like ("forceful", "powerful", "like a crane", "like a rocket"...). The moment you finish the set, you flip a switch and bring your attention to your bodily sensations. Notice how long it takes till your muscles "turn off", how your blood pressure drops, and how breathing regulates. I want to remind you to stay open. There are thousands of regulatory processes going on, and some of them are observable if you take your time. Wait for the next signal to go off and repeat that pattern - That's it.
+
+## Further recommendations
+
+I started with recommending a preparation and warm-up before practice. Nevertheless, this does not mean you have to be in your *individual zone of optimal functioning*, ingest caffeine, or be fully rested. It is also interesting to play around with your arousal and your level of fatigue. But at least you should be ready enough to feel safe.
+
+Keep the practice as simple as possible and try it out multiple times. Maybe you can really embrace the simplicity. It is neither super exciting nor entertaining. If you feel bored during the session, stay with the boredom. It is completely fine. Just flip a switch during the next set and focus on the performance of the set. Then boredom might arise again or not. Both are fine.
+
+Later, you can play around with the exercise selection by using bodyweight exercises, stretching, or even everyday movements like making coffee. You can play around with more challenging environments, too. But for the beginning, you might stick to my initial recommendation.
+
+There is no reason not to also turn the whole concept on its head. Switch to an internal focus of attention during the set and bring your attention to your exteroceptive input (like sight and sounds). For this, I typically use more of a broad/open awareness to contrast the narrow focus of the set.
+
+## Summary of the practice
+
+-   Find an environment without many distractions.
+
+-   Set an interval timer to 60 to 180 seconds for 3 to 6 sets.
+
+-   Decide on one or two exercises you want to do. Use exercises you have some experience with, and use moderately heavy weights.
+
+-   Warm up appropriately.
+
+-   Every time the alarm goes off, you do a set of the exercise without going to failure. Leave 1 to 3 reps in the tank.
+
+-   During the set, your full attention is focused on an external goal of the movement.
+
+-   You switch to internal sensations when you put down the implement and stick to it during the whole rest period.
+
+-   Do not add anything to the practice before trying it out at least two to three times.
+
+-   Embrace the simplicity and use your curiosity without leaning into any expectations of what the result of the practice will be.
+
+-   Enjoy!
