@@ -1,0 +1,30 @@
+---
+title: "Defining Terms"
+author: "Peter Raidl"
+draft: TRUE
+---
+
+At least since Kant raised the idea that the nebula might be full of stars and planets, people have been interested in alien life.\
+Are there other species in the universe? What would they look like? What are they made of? Can we communicate with them?\
+While the exploration of those questions was oftentimes more hypothetical and intertwined with pseudoscience and myths, today, astrobiology is seriously looking for biological signals in outer space. One of the big challenges of this search for alien life is how to identify it when finding it! It's not that trivial because we do not know how close these hypothetical life forms might be to what we know. When we go up to another planet, we may identify something as alive that is actually not, or think something is dead that is actually a living being. A solution to that problem would be to define what life actually means beforehand. That way, we can classify our encounters with *alien stuff* accordingly. As easy as this sounds, we run into some serious issues with this approach. What if our definition is wrong? No matter what the core of the definition is (movement, reproduction, metabolism, chemical structure, etc.), in the end, it might misrepresent some life forms. One could now argue that the definition was just wrong, and we have to find a better definition in the first place. But there is more to it. The moment we pick any definition, we will build our scientific and ethical questions, as well as our search instruments, based on that specific definition. If we arbitrarily decide that life must be water-based, we will look for water. Living beings that are non-water-based will not be found or, if they do get found, will not count as alive. While this example might still sound vague, it represents an issue that is all too present in other domains of science.
+
+## The introduction of terms
+
+Some of my published and unpublished posts try to clarify terms before going into more detail on concepts and practical applications. That is a standard way that many textbooks and teaching materials follow. Ludwig Wittgenstein (whose major work is barely understandable once you pass the foreword) was of the opinion that most misunderstandings and conflicts are rooted in a lack of common definitions and language in general. Only after a terminological basis is created, further contemplation and discussion on a given topic are possible. I want to start by giving some examples of when this is a helpful procedure. But I also want to challenge this view, discussing alternative roots towards a deeper understanding of a topic.
+
+## What is a disease?
+
+Diseases and disorders have, for the most part, internationally accepted definitions to give health professionals and political decision makers a foundation for treatment plans for the population and individuals. The two most accepted systems are the *International Classification of Diseases* (ICD), published by the WHO, and the *Diagnostic and Statistical Manual of Mental Disorders* (DSM), published by the APA. Coming up with those definitions is no easy task. That is why hundreds of experts work for years before a new version of the ICD can be released. They have to find consensus and synthesize research findings while also keeping an eye on political regulations and social developments. That is why every definition of a disease is influenced by the current *Zeitgeist*. For example, homosexuality was part of the DSM up until 1973 [^1], and today there are new issues when it comes to gender differences. In this delicate domain, a clear diagnostic terminology can mean both a stigma and a clear regulation for medical support that might be needed.
+
+[^1]: The APA voted on that decision. It was a close call, with 58% voting against homosexuality being a pathology. SodrescherQueerDiagnosesRevisited2015, you might guess how long it takes till everyone in the professional community agrees with that decision[@drescherQueerDiagnosesRevisited2015].
+
+## Definitions follow an agenda
+
+Ultimately, it seems to be more of a political, ethical and social topic than a pure objective call. Besides, history and tradition can not be disected from the idealised objectivity in science. In an entertaining article Zachar and Kendler \[-\@zacharRemovalPlutoClass2012\] compare the removal of homosexuality from the list of disorders to the removal of Pluto from the list of planets in our solar system. While the term medical disorder does have an effect on the life of millions of people, calling Pluto a planet does not. It does not change any of its physical properties of the object Pluto. Everyone had some investment - papers, books published or funded research programs. So, the definition of planets was a bitter controversy fought out through organisations and authorities in the field.
+
+There was probably less drama and media presents when in 2010 the European Working Group on Sarcopenia in Older People (EWGSOP) proposed an updated consensus on the definition and diagnosis of Sarcopenia [@cruz-jentoftSarcopeniaEuropeanConsensus2010]. Briefly, sarcopenia is known as pathological loss of muscle mass and function in elderly and is considered to play a major role in overall health and indipendence of older individuals. The loss of metabolically active tissue and functional abilities create a downward spiral leading to social exclusion and comorbidities.\
+The 2010 definition of the EWGSOP was not the first outlined. Different groups came up with different criteria to identify sarcopenia. In a 2013 study (based on data before 2010), eight definitions were tested against each other on a data set of 4984 older people. Depending on the definitions used, the prevalence of sarcopenia was somewhere around 4.4 % an 83 % for men and 3.6 and 94% in women \[\@batsisVariationPrevalenceSarcopenia2013\].
+
+With a strong definition, like @cruz-jentoftSarcopeniaEuropeanConsensus2010, at least there should be some consensus.
+
+@stuckComparingPrevalenceSarcopenia2023
