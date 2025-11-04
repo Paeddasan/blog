@@ -3,6 +3,7 @@ title: "An Experiment on Attention"
 author: "Peter Raidl"
 date: "2025-06-08"
 image: "Attention.png"
+draft: True
 ---
 
 Today, I want to share a form of [movement practice](https://themovingscienceblog.netlify.app/posts/nonfunctionaltraining/nonfunctionaltraining) I engage in regularly. I want to emphasize that this is not completely separate from a [training](https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining) perspective, but primarily it is a practice for me. It hopefully serves as an example of the more theoretical, philosophical articles I have posted so far.
