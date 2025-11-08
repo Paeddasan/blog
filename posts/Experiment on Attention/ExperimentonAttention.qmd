@@ -2,7 +2,7 @@
 title: "An Experiment on Attention"
 author: "Peter Raidl"
 date: "2025-06-08"
-#image: "Attention.png"
+image: "Attention.png"
 draft: True
 ---
 
