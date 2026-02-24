@@ -1,30 +1,13 @@
 [
   {
-    "listing": "/welcome.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
-      "/posts/Coaching Spiral/Coaching_spiral1.html",
-      "/posts/DefiningTerms/Definingterms.html",
-      "/posts/Stress Allostasis Training/Stress_Allostasis_Training.html",
-      "/posts/Too much of a good thing/innerMediocracy.html",
-      "/posts/try more often/tryitoutNof1.html",
       "/posts/Intervene_when_bored/InterveneWhenBored.html",
-      "/posts/Experiment on Attention/ExperimentonAttention.html",
       "/posts/nonfunctionalTraining/nonfunctionalTraining.html",
       "/posts/AI and Training/AI_as_a_coach.html",
       "/posts/A discussion on Training/WhatsTraining.html",
       "/posts/Outside Science/Outside Science.html",
-      "/posts/welcome/welcome.html",
-      "/posts/Play and Stress/Play and stress.html",
-      "/posts/Stress_in_Rehab/Adress_Stress_in_Rehab.html",
-      "/posts/What is evidence based training/ebt1.html",
-      "/posts/blogging_science/WritingScience.html"
+      "/posts/welcome/welcome.html"
     ]
   }
 ]

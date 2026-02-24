@@ -10,8 +10,6 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/Paeddasan
-      - icon: twitter
-        href: https://x.com/peterraidl
       - icon: rss
         href: index.xml
 license: "CC BY 4.0"

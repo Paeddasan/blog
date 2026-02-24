@@ -3,7 +3,7 @@ title: "Playing is Stressful"
 author: "Peter Raidl"
 date: "2024-10-01"
 categories: [blog, science, stress, learning, play]
-draft: True
+draft: true
 #image: "Training.png"
 ---
 

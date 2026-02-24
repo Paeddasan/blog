@@ -3,7 +3,6 @@ title: "Intervene When Necessary - Not When Bored"
 author: "Peter Raidl"
 date: "2026-02-24"
 image: "Watch_do.png"
-draft: False
 ---
 
 Coaches regularly introduce fancy exercise variations or new, complex programs, even when there is no objective reason to do so. If the old program works well and produces results, why change?
