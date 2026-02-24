@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,7 +114,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -139,6 +140,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">The Moving Science Blog</span>
     </a>
@@ -181,7 +184,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QUk=">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YmxvZw==">blog <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29sbGFib3JhdGlvbg==">collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uY2VwdA==">concept <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZXhlcmNpc2U=">exercise <span class="quarto-category-count">(3)</span></div><div class="category" data-category="aW50cm8=">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWVhbmluZw==">meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bW90aXZhdGlvbg==">motivation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(2)</span></div><div class="category" data-category="c2NpZW5jZQ==">science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dHJhaW5pbmc=">training <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(16)</span></div><div class="category" data-category="QUk=">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YmxvZw==">blog <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Y29sbGFib3JhdGlvbg==">collaboration <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29uY2VwdA==">concept <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZXhlcmNpc2U=">exercise <span class="quarto-category-count">(5)</span></div><div class="category" data-category="aGVhbHRo">health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGVhbHRoY2FyZQ==">healthcare <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50cm8=">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGVhcm5pbmc=">learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWVhbmluZw==">meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bW90aXZhdGlvbg==">motivation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(3)</span></div><div class="category" data-category="cGxheQ==">play <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVoYWI=">rehab <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2NpZW5jZQ==">science <span class="quarto-category-count">(6)</span></div><div class="category" data-category="c3RyZXNz">stress <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dHJhaW5pbmc=">training <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -199,7 +202,178 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dHJhaW5pbmclMkNleGVyY2lzZSUyQ21lYW5pbmclMkNtb3RpdmF0aW9u" data-listing-date-sort="1746223200000" data-listing-file-modified-sort="1762593678237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1762593678000" data-listing-reading-time-sort="5" data-listing-word-count-sort="811">
+<div class="thumbnail"><a href="./posts/Coaching Spiral/Coaching_spiral1.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Coaching Spiral/Coaching_spiral1.html" class="no-external">Coaching spiral 1: Where to start</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/Coaching Spiral/Coaching_spiral1.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Coaching Spiral/Coaching_spiral1.html" class="no-external">
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1762593678000" data-listing-reading-time-sort="5" data-listing-word-count-sort="936">
+<div class="thumbnail"><a href="./posts/DefiningTerms/Definingterms.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/DefiningTerms/Definingterms.html" class="no-external">Defining Terms</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/DefiningTerms/Definingterms.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/DefiningTerms/Definingterms.html" class="no-external">
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="c2NpZW5jZSUyQ3RyYWluaW5nJTJDZXhlcmNpc2UlMkNjb25jZXB0" data-listing-file-modified-sort="1762593678000" data-listing-reading-time-sort="2" data-listing-word-count-sort="260">
+<div class="thumbnail"><a href="./posts/Stress Allostasis Training/Stress_Allostasis_Training.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Stress Allostasis Training/Stress_Allostasis_Training.html" class="no-external">Training Stress Allostasis</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZQ=='); return false;">science</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('dHJhaW5pbmc='); return false;">training</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZXhlcmNpc2U='); return false;">exercise</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29uY2VwdA=='); return false;">concept</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Stress Allostasis Training/Stress_Allostasis_Training.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Stress Allostasis Training/Stress_Allostasis_Training.html" class="no-external">
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1762593678000" data-listing-reading-time-sort="5" data-listing-word-count-sort="860">
+<div class="thumbnail"><a href="./posts/Too much of a good thing/innerMediocracy.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Too much of a good thing/innerMediocracy.html" class="no-external">Finding Inner Mediocracy</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/Too much of a good thing/innerMediocracy.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Too much of a good thing/innerMediocracy.html" class="no-external">
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1762593678000" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<div class="thumbnail"><a href="./posts/try more often/tryitoutNof1.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/try more often/tryitoutNof1.html" class="no-external">Try it out - N &gt; 1</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/try more often/tryitoutNof1.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/try more often/tryitoutNof1.html" class="no-external">
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1771887600000" data-listing-file-modified-sort="1771927966413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
+<div class="thumbnail"><a href="./posts/Intervene_when_bored/InterveneWhenBored.html" class="no-external">
+
+<img loading="lazy" src="./posts/Intervene_when_bored/Watch_do.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Intervene_when_bored/InterveneWhenBored.html" class="no-external">Intervene When Necessary - Not When Bored</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/Intervene_when_bored/InterveneWhenBored.html" class="no-external">
+Coaches regularly introduce fancy exercise variations or new, complex programs, even when there is no objective reason to do so. If the old program works well and produces…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Intervene_when_bored/InterveneWhenBored.html" class="no-external">
+<div class="listing-date">
+Feb 24, 2026
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1749333600000" data-listing-file-modified-sort="1762593844000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1454">
+<div class="thumbnail"><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
+
+<img loading="lazy" src="./posts/Experiment on Attention/Attention.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">An Experiment on Attention</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
+Today, I want to share a form of movement practice I engage in regularly. I want to emphasize that this is not completely separate from a training perspective, but primarily…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Experiment on Attention/ExperimentonAttention.html" class="no-external">
+<div class="listing-date">
+Jun 8, 2025
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="dHJhaW5pbmclMkNleGVyY2lzZSUyQ21lYW5pbmclMkNtb3RpdmF0aW9u" data-listing-date-sort="1746223200000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
 <div class="thumbnail"><a href="./posts/nonfunctionalTraining/nonfunctionalTraining.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -235,7 +409,7 @@ Peter Raidl
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="dHJhaW5pbmclMkNleGVyY2lzZSUyQ0FJ" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1762593678221" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="534">
+<div class="quarto-post image-right" data-index="8" data-categories="dHJhaW5pbmclMkNleGVyY2lzZSUyQ0FJ" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="534">
 <div class="thumbnail"><a href="./posts/AI and Training/AI_as_a_coach.html" class="no-external">
 
 <img loading="lazy" src="./posts/AI and Training/TP_CoachingSteps.png" class="thumbnail-image">
@@ -269,7 +443,7 @@ Peter Raidl
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="YmxvZyUyQ3NjaWVuY2UlMkN0cmFpbmluZyUyQ2V4ZXJjaXNlJTJDY29uY2VwdA==" data-listing-date-sort="1744063200000" data-listing-file-modified-sort="1762593678221" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1409">
+<div class="quarto-post image-right" data-index="9" data-categories="YmxvZyUyQ3NjaWVuY2UlMkN0cmFpbmluZyUyQ2V4ZXJjaXNlJTJDY29uY2VwdA==" data-listing-date-sort="1744063200000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1409">
 <div class="thumbnail"><a href="./posts/A discussion on Training/WhatsTraining.html" class="no-external">
 
 <img loading="lazy" src="./posts/A discussion on Training/modelA.png" class="thumbnail-image">
@@ -307,7 +481,7 @@ Peter Raidl
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3cyUyQ2Jsb2clMkNzY2llbmNlJTJDY29sbGFib3JhdGlvbg==" data-listing-date-sort="1743890400000" data-listing-file-modified-sort="1762593678237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
+<div class="quarto-post image-right" data-index="10" data-categories="bmV3cyUyQ2Jsb2clMkNzY2llbmNlJTJDY29sbGFib3JhdGlvbg==" data-listing-date-sort="1743890400000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1034">
 <div class="thumbnail"><a href="./posts/Outside Science/Outside Science.html" class="no-external">
 
 <p class="card-img-top"><img src="posts\Outside Science\academia_industry.jpg"  class="thumbnail-image card-img"/></p>
@@ -343,7 +517,7 @@ Peter Raidl
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="bmV3cyUyQ2ludHJv" data-listing-date-sort="1728770400000" data-listing-file-modified-sort="1762593678253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
+<div class="quarto-post image-right" data-index="11" data-categories="bmV3cyUyQ2ludHJv" data-listing-date-sort="1728770400000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
 <div class="thumbnail"><a href="./posts/welcome/welcome.html" class="no-external">
 
 <img loading="lazy" src="./posts/welcome/Science_inProgress.png" class="thumbnail-image">
@@ -368,6 +542,154 @@ What’s special about that blog? Honestly, I do not know yet! Maybe nothing, ex
 <a href="./posts/welcome/welcome.html" class="no-external">
 <div class="listing-date">
 Oct 13, 2024
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="YmxvZyUyQ3NjaWVuY2UlMkNzdHJlc3MlMkNsZWFybmluZyUyQ3BsYXk=" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="840">
+<div class="thumbnail"><a href="./posts/Play and Stress/Play and stress.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Play and Stress/Play and stress.html" class="no-external">Playing is Stressful</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZQ=='); return false;">science</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c3RyZXNz'); return false;">stress</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGVhcm5pbmc='); return false;">learning</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cGxheQ=='); return false;">play</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Play and Stress/Play and stress.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Play and Stress/Play and stress.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="aGVhbHRoY2FyZSUyQ3N0cmVzcyUyQ3JlaGFiJTJDaGVhbHRo" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1746">
+<div class="thumbnail"><a href="./posts/Stress_in_Rehab/Adress_Stress_in_Rehab.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/Stress_in_Rehab/Adress_Stress_in_Rehab.html" class="no-external">How should we address Stress in Rehabilitation and Health Care</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('aGVhbHRoY2FyZQ=='); return false;">healthcare</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c3RyZXNz'); return false;">stress</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cmVoYWI='); return false;">rehab</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('aGVhbHRo'); return false;">health</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/Stress_in_Rehab/Adress_Stress_in_Rehab.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/Stress_in_Rehab/Adress_Stress_in_Rehab.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="YmxvZyUyQ3NjaWVuY2UlMkN0cmFpbmluZyUyQ2V4ZXJjaXNlJTJDY29uY2VwdA==" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<div class="thumbnail"><a href="./posts/What is evidence based training/ebt1.html" class="no-external">
+
+<img loading="lazy" src="./posts/What is evidence based training/Training.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/What is evidence based training/ebt1.html" class="no-external">Evidence based Training</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZQ=='); return false;">science</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('dHJhaW5pbmc='); return false;">training</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZXhlcmNpc2U='); return false;">exercise</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29uY2VwdA=='); return false;">concept</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/What is evidence based training/ebt1.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/What is evidence based training/ebt1.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+<div class="listing-author">
+Peter Raidl
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="bmV3cyUyQ2Jsb2clMkNzY2llbmNlJTJDY29sbGFib3JhdGlvbg==" data-listing-date-sort="1726264800000" data-listing-file-modified-sort="1762593678000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1278">
+<div class="thumbnail"><a href="./posts/blogging_science/WritingScience.html" class="no-external">
+
+<img loading="lazy" src="./posts/blogging_science/Freud_Hysterie.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/blogging_science/WritingScience.html" class="no-external">On Scientific Writing and Blogs</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZQ=='); return false;">science</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29sbGFib3JhdGlvbg=='); return false;">collaboration</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/blogging_science/WritingScience.html" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/blogging_science/WritingScience.html" class="no-external">
+<div class="listing-date">
+Sep 14, 2024
 </div>
 <div class="listing-author">
 Peter Raidl
@@ -429,13 +751,14 @@ Peter Raidl
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
