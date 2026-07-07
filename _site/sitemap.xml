@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/nonfunctionalTraining/nonfunctionalTraining.html</loc>
-    <lastmod>2025-11-08T09:21:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</loc>
-    <lastmod>2025-11-08T09:21:18.000Z</lastmod>
+    <loc>https://themovingscienceblog.netlify.app/about.html</loc>
+    <lastmod>2026-02-24T10:29:05.000Z</lastmod>
   </url>
   <url>
     <loc>https://themovingscienceblog.netlify.app/index.html</loc>
+    <lastmod>2026-07-07T17:18:37.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://themovingscienceblog.netlify.app/posts/welcome/welcome.html</loc>
     <lastmod>2025-11-08T09:21:18.000Z</lastmod>
   </url>
   <url>
-    <loc>https://themovingscienceblog.netlify.app/about.html</loc>
-    <lastmod>2026-02-24T10:29:05.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/A discussion on Training/WhatsTraining.html</loc>
+    <loc>https://themovingscienceblog.netlify.app/posts/Outside Science/Outside Science.html</loc>
     <lastmod>2025-11-08T09:21:18.000Z</lastmod>
   </url>
   <url>
@@ -25,11 +21,11 @@
     <lastmod>2026-07-07T16:37:23.319Z</lastmod>
   </url>
   <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/Outside Science/Outside Science.html</loc>
+    <loc>https://themovingscienceblog.netlify.app/posts/A discussion on Training/WhatsTraining.html</loc>
     <lastmod>2025-11-08T09:21:18.000Z</lastmod>
   </url>
   <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/welcome/welcome.html</loc>
+    <loc>https://themovingscienceblog.netlify.app/posts/AI and Training/AI_as_a_coach.html</loc>
     <lastmod>2025-11-08T09:21:18.000Z</lastmod>
   </url>
   <url>
@@ -37,7 +33,7 @@
     <lastmod>2026-07-07T17:09:56.650Z</lastmod>
   </url>
   <url>
-    <loc>https://themovingscienceblog.netlify.app/posts/Coaching Spiral/Coaching_spiral1.html</loc>
+    <loc>https://themovingscienceblog.netlify.app/posts/nonfunctionalTraining/nonfunctionalTraining.html</loc>
     <lastmod>2025-11-08T09:21:18.000Z</lastmod>
   </url>
 </urlset>
