@@ -1,15 +1,1 @@
----
-#title: "Scientist in progress"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  feed: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
 
-![](MovingScienceBlog.png){fig-alt="Logo" fig-align="center" width="300"}
