@@ -1,1 +1,0 @@
-Sitemap: https://themovingscienceblog.netlify.app/sitemap.xml
