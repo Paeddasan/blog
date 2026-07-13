@@ -1,0 +1,108 @@
+---
+title: "Teaching health-related fitness groups"
+author: "Peter Raidl"
+date: "2024-10-01"
+categories: [teaching, fitness, health, learning]
+draft: true
+#image: "Training.png"
+
+---
+
+# Seminar Fitness and Lifestyle
+
+Last semester, I had the privilege of teaching the course [*Fitness and Lifestyle*](https://ufind.univie.ac.at/en/course.html?lv=350161&semester=2026S) at the *University of Vienna*. Twenty sports and human movement science students attended the course and worked on their teaching and coaching skills in different class settings. I really enjoyed the course because the students applied best-practice exercise science to different populations and came up with creative solutions to keep it fun and engaging. During the semester, we collected several insights that I will share in this post. We realized the strength of good organization, worked on guiding the group's energy, and polished our coaching skills. Our thinking was guided by one overarching question: "Who decides what to do?".
+
+# Organization
+
+## **Have a detailed plan but stay flexible**
+
+Create a fixed schedule for each organizational element, set-up, exercise, and time for integration. We tend to underestimate the time we need for organization and set-up. **Plan an extra 20% time** for the structural tasks of a class, like preparing the exercises or organizing the group.
+
+Especially when you need special equipment or depend on weather conditions, make sure you have a **plan B**. At least have a vague idea of what to do if that specific equipment is unavailable or broken. This will make it so much easier to stay calm and guide the trainees through an alternative.
+
+**What are your non-negotiables?** No matter how well your plan is, sometimes you run short on time, or you have another fifteen minutes to fill. Have something up your sleeve for both instances. Check your structure and decide upfront which elements you need and which you could leave out if necessary. Have one more game or exercise to pull out for the end. Make this additional exercise as easy to implement as possible. I would go for a **variation** of an exercise that you already have in class. Another solution is to combine two prior elements into a **series or a complex**. This would be a good solution if you focus on motor learning. Depending on the class structure, allowing trainees to experiment with any element they like during class is also a valuable approach, **fostering self-efficacy**.
+
+## **Order is your friend**
+
+Sports and training can be chaotic, which is generally a good thing. **Chaos keeps us alert and creative.** That is why good games always induce some form of chaos. Your job as the trainer is to keep the chaos where it belongs. It cannot spill over into the structure and organization of the class. Keeping everything cleaned up is the most important safety rule in many training scenarios - especially when you are working with older adults or children. Equipment that is not in use immediately comes back where it belongs. In my opinion, you can adopt a very loose, easygoing leadership style if that is your thing. Nevertheless, **try to get everyone's buy-in for keeping the movement space clean and tidy.** This can improve safety, responsibility, and group coherence!
+
+## **Explain effectively**
+
+Becoming a good communicator is a key skill in any coaching or training scenario.
+
+Have you ever wondered about the announcements at the underground? They always give you the reason for the delay, even if it is just a standard sentence without any actual content: *"Due to technical failure, there is currently no service between Schottentor and Wien Mitte."* This does not explain much. But it feels more reasonable to us passengers than just saying there is no train coming.
+
+When you explain an exercise, you can use a similar idea.
+
+First, bring up the *Why*. Give your trainees one brief reason *why* this particular game or exercise is important.
+
+Second, the announcement is short. Most coaches talk too much! Maybe they lack precise language (at least I sometimes do). Another reason is an **overemphasis on details.** Find the **minimal valuable information** your trainees need!
+
+For structured exercises, this includes the direct **movement goal** or **intent** (*"Push the bar towards the ceiling"*; *"Land with both feet on the yellow line and find your balance for 3 seconds before stepping down."*) and **one qualitative criterion**, if needed (*"Keep your knees locked the whole time"*; *"Land as silent as a cat."*).
+
+For games, the minimal valuable information consists of the **task** (*"Pass the ball without dropping it to the floor"*), **winning conditions** (*"Your team wins if you pass it ten times before the other team does so."*), the **rule constraints** (*"No player can catch the ball twice in a row. So when A passes to B, B can not pass back to A directly."*) and the **temporo-spatial constraints** (*"You have to stay within this area of the room and the game stops whenever one team reaches the win condition."*).
+
+Adding anything else is overkill for the first round. Let your trainees practice/play and add further conditions or qualitative criteria [^1] for the second set/round.
+
+[^1]: I intentionally used the language of two different learning paradigms here (ecological dynamics and information processing). Adhere to whatever you like best.
+
+When working with minimal valuable information, you risk having too little control. Some trainees will explore solutions you did not intend to. It seems like they are breaking the rules - are they? Maybe try reframing this as **being creative!** Let them explore the movement space and implant further rules or cues if necessary. Oftentimes the group can help you with that. Remember that you gave them the *Why*. So they may be able to find the *How* - **which means you acted as a coach and not merely as an [instructor](https://paeddasan.github.io/PersonalCoaching_Script/4-WhatsPC.html#sec-berufsbild).**
+
+# Energy-flow
+
+## **Target *meaning* and *activation* first**
+
+The ***Why*** I emphasized earlier is an important element for each class and each individual exercise. As a coach, you often work with additional **invisible agendas** too. Each element has a meaning that you may share (*"We do this so you get better at catching yourself before a fall."*) and maybe others that you don't (cooperation, social engagement, fun, ...). You may not be able to pick the one meaning that best suits all your trainees all the time. So, if you have the chance, you can also **invite them to find their meaning.** For example, you can show an exercise and briefly explain the targeted muscular area before asking the group where in their lives or in their sport they might need this movement.
+
+Motivation, meaning, and **activation** are highly interconnected. Activation includes up- and downregulation of psycho-physiological arousal. In my opinion, effective exercise and training must be demanding (to an extent). However, relaxation and recovery are as essential for long-term performance and health.
+
+Having meaning in place will partly take care of activation and motivation. But you can still directly **influence the group's energy level explicitly or implicitly.** Explicit ways to influence activation include games, drills, and direct manipulations such as breathing or awareness exercises. Implicit ways to influence arousal include the way you talk and move and the environment you are in. Use all of them to create an intended flow of energy. Typically you may want to raise the activation during the warm-up, peak for some of the non-negotiable elements of the class, and down-regulate at the end.
+
+<!--# Graph activation/arousal over time of a graph arousal ~ t²; maybe alternatively with a peak at end to "finish strong"... examples.-->
+
+### Explicit manipulation of activation
+
+A wonderful way to get the group going are **fast-paced, interactive games**. Tasks with direct performance feedback work well. This category includes coordinative exercises that are difficult enough so people fail if they don't focus. Competitive elements can be included. However, watch the group's response (especially from the losing party).
+
+**Relaxation techniques** have been a major topic in our seminar. But don't throw them out at your trainees unprepared and expect immediate effects. This would be like training the back squat once and thinking you get stronger immediately. Use them in concert with the general **training principles**. Incorporate relaxation regularly and teach it systematically. Start in a beginner-friendly environment with little distraction. Later you can change the position (seated instead of lying down), the level of distraction (reduce guidance, change the environment), or the timing (create relaxation in an instant instead of guiding through a 20min full-body relaxation exercise). But all of this has to be learned!
+
+### Implicit manipulation of activation
+
+Whatever energy you express during the class may be taken up by the trainees. The way you coach, your posture, voice, and movement - all are important. You can use these as tools to guide the trainees. Speak more slowly and calmly during cool-downs, or more loudly and energetically when you want to push the class. Think about your position in the room and how you walk or demonstrate a movement. As an example I sometimes find myself showing an exercise to my trainees without the intention and preparation I expect from them. This often leds to similarly loose preparation when they perform the movement. Whenever I do the opposite and, for example, show the whole set-up of a deadlift as if I would go for a demanding working set, the trainees also tend to approach the exercise with a similar focus and intention. No explanations needed.
+
+Also, the environment - music, lighting, people watching - can make a difference. I found dance teachers but also some yoga teachers being the masters of this. The music is not a background element but systematically supports the activity and guides through the class. Some additional caveats should be given here: Obviously, you can not serve every music taste. Just make sure to not violate everyone's eardrums and check your groups overall response. From a commercial perspective, the type of music might be part of what defines you as a coach and maybe attract the type of people you like. This is a question of setting and you can not hope for free market to rule when your setting is at a kindergarten or a foster home. Just be reasonable. There is also a legal perspective to playing your [Spotify](https://support.spotify.com/de/article/spotify-public-commercial-use/) music in a class. This is also true for other streaming platforms! Finally, think about attention and focus when playing music. If you want to avoid distraction [^2], limit vocals and fast changing structure and style within a song. Both pulls attention away from the movement or your coaching. Even if you, yourself can focus while playing heavy metal, your trainees might not.
+
+[^2]: Sometimes you want to use distraction either to make it more difficult (mentally) or easier (experiance physical strain).
+
+## Outsource time and timing
+
+<!--# **Nutze Timer und Metronome:** Du solltest dich voll auf den Unterricht und dein Coaching konzentrieren können. Je mehr andere Aspekte du abgibst, desto besser kannst du mit den Teilnehmer\*innen in Kontakt treten. Gib das Zeitmanagement an eine Stoppuhr oder einen Intervalltimer ab. Gib das Timing an ein Metronom ab (z.B. für die Atemübungen oder für den Bewegungsrhythmus). -->
+
+## Environment - Person - Task
+
+<!--# **Setze das Umfeld bewusst ein:** Wir haben mehrfach die Vor- und Nachteile von Outdoor- und Indoortraining erlebt. Indoor ist sicher und abgeschlossen. Erinnere dich daran, wie die Jugendlichen auf der Laufbahn waren, als wir Mobility gemacht haben und ein paar davon "Sprüche geklopft" haben. Du fandest das vielleicht lustig und okey. Für manche Trainierende kann das jedoch äußerst unangenehm werden. Im KO3 konnte uns das nicht passieren - dafür war es stickig und dunkel. Wir haben gelernt, wie "Green exercises" das Anstrengungsempfinden modulieren und die Stimmung verbessern können. Am Ende bleibt es ein Abwiegen: Luftqualität, UV-Strahlung (gut und schlecht; Vit-D...), Ablenkungen, Sauberkeit/Hygiene und nächste Erste-Hilfe-Versorgung.-->
+
+# Coaching
+
+## Everyone is a coach
+
+<!--# **Ermächtige deine Teilnehmer\*innen:** Wir haben immer wieder die Trainierenden eingeladen, als Coaches zu fungieren. Sie unterstützen sich gegenseitig bei Formchecks, beim Spotting und motivational. Das erzeugt Gemeinschaftsgefühl und verbessert auch die Technik aller Teilnehmenden rascher. Ein Aspekt, den ich diesbezüglich nicht angesprochen habe, ist der Aspekt des Lernens am Modell: In der Literatur sehen wir, dass Modell-lernen besser geht, wenn mir das Modell ähnelt. Frauen können sich Bewegungen besser von Frauen absehen, ältere Personen von anderen Älteren usw. Du als junge, fitte Sportwissenschafter\*innen bist für viele der Trainierenden im Gesundheitssport kein gutes Modell - aber die anderen Teilnehmer\*innen sind es. -->
+
+Instead of overemphasizing explanations, add clear **visual examples**. Show them what you want them to do. You can either show the exercise yourself or have a model do it. From a learning perspective, the model is often the better option. Briefly, a model more similar to the trainee can be more effective for skill acquisition and motivation. For example, it might give an older person a better perspective of the movement if they see it done by another older person instead of their fit, 25-year-old trainer (more on this [here](https://paeddasan.github.io/PersonalCoaching_Script/11-MotorLearning.html#bildliches-lernen)).
+
+Alternatively, you can give a mental picture. In our seminar, we saw that during kids' classes. Students came up with the idea of performing exercises as superheroes. This gives the kids not only a technical perspective but also the attitude with which the exercise should be performed. Don't shy away from implementing mental pictures with adults too. It can be really effective!
+
+## Concrete, honest feedback
+
+```{=html}
+<!--#
+**Individuelles Feedback geben:** Wenn wir die bisher angeführten Ideen nutzen, schaufeln wir uns von akuten, organisatorischen Entscheidungen frei. damit wird es uns auch leichter gelingen, individuell auf die Teilnehmer\*innen einzugehen. Gib nun ehrliches und direktes Feedback. *Was läuft gerade gut? Welche eine Sache kann die teilnehmende Person verbessern und wie?* Allgemeines Feedback (*"Super! Ihr macht das toll!"*) sollten wir spärlicher verwenden. Es kann künstlich wirken. -->
+```
+
+## Who is in the center?
+
+<!--# Die richtige Ansprache: "Wir", "Ihr" oder "Du"? Wir haben die Ansprache der Teilnehmerinnen ein paar Mal reflektiert. Eine Ansprache mit "Wir" kann das Gemeinschaftsgefühl stärken. Alle machen etwas gemeinsam! Aber achte darauf, dass du auch selbst etwas beiträgst. Wenn du als Trainer*in nicht teilnimmst, ist die Ansprache mit "Ihr" vielleicht besser. Sollten sich die Teilnehmer*innen auf sich selbst konzentrieren und möchtest du Vergleiche vermeiden, kannst du die direkte Ansprache mit "Du"* wählen. Du kannst auch zwischen den Ansprachen wechseln, wenn es zum Konzept passt.-->
+
+## Check your own energy
+
+<!--# Auch du brauchst vielleicht mal Pause: Du merkst, dass du dich neu sammeln musst, die Abfolge durcheinanderbringst oder kurz darüber nachdenken musst, was du umstellen möchtest? Schick deine Teilnehmer*innen in eine kurze Trinkpause oder lass sie etwas ausprobieren, bei dem du kein Feedback geben musst (explorative Übungen; Partnerübungen mit direktem Knowledge of Performance). Nutze die 2-3 Minuten, um dich nochmal neu auszurichten, und dann kann es weitergehen! -->

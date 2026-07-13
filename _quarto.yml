@@ -2,14 +2,16 @@ project:
   type: website
 
 website:
-  title: "The Moving Science Blog"
-  site-url: "https://embodymate.com/blog/"
+  title: "embodymate"
+  site-url: "https://paeddasan.github.io/blog/"
   description: "Blog on the Science of Human Movement by Peter Raidl"
   navbar:
     left:
       - text: "Home"
         href: "https://paeddasan.github.io/"
     right:
+      - text: "The Moving Science Blog"
+        href: "/"
       - icon: github
         href: https://github.com/Paeddasan/blog
       - icon: rss
