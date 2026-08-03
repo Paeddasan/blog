@@ -912,6 +912,86 @@
             "volume": "50"
         },
         {
+            "ISSN": "15241602",
+            "abstract": "ONE OF THE MOST IMPORTANT JOBS A STRENGTH COACH CAN PERFORM IS THE TEACHING OF PROPER EXERCISE TECHNIQUE, WHICH CONTRIBUTES TO THE OVERALL SAFETY OF THE ATHLETES INVOLVED. IN ADDITION, PROPERLY LEARNED TECHNIQUE INCREASES THE EFFECTIVENESS OF THE TRAINING EXERCISES AND METHODS BEING USED. HOWEVER, MANY COACHES ROUTINELY MAKE COMMON MISTAKES WHEN TEACHING EXERCISES. THE COMMON COACHING ERROR DISCUSSED IN THIS ARTICLE IS THAT OF USING FAR TOO MANY COACHING CUES AND/OR TOO MUCH FEEDBACK WHEN TEACHING AT THE EXPENSE OF TRAINING TIME. THIS PHENOMENON IS REFERRED TO AS OVERCOACHING. [PUBLICATION ABSTRACT]",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Janz",
+                    "given": "Jonathan"
+                }
+            ],
+            "container-title": "Strength and Conditioning Journal",
+            "id": "janzOvercoachingWeightRoom2009",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "Athletes,Coaches & managers,Exercise,Learning,Physical activity,Physical Fitness,Room,Sports training,Strength training,Teaching methods,Weight,Weight training",
+            "language": "en-US",
+            "page": "86-90",
+            "publisher": "Lippincott Williams & Wilkins Ovid Technologies",
+            "publisher-place": "Lawrence, United States",
+            "title": "Overcoaching in the Weight Room",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "DOI": "10.3390/ijerph15030445",
+            "ISSN": "1660-4601",
+            "PMCID": "PMC5876990",
+            "PMID": "29510520",
+            "abstract": "Background: Over half of the world’s population now lives in urban areas, and this proportion is expected to increase. While there have been numerous reviews of empirical studies on the link between nature and human health, very few have focused on the urban context, and most have examined almost exclusively cross-sectional research. This review is a first step toward assessing the possibility of causal relationships between nature and health in urban settings. Methods: Through systematic review of published literature, we explored the association between urban green space and human health. Results: We found consistent negative association between urban green space exposure and mortality, heart rate, and violence, and positive association with attention, mood, and physical activity. Results were mixed, or no association was found, in studies of urban green space exposure and general health, weight status, depression, and stress (via cortisol concentration). The number of studies was too low to generalize about birth outcomes, blood pressure, heart rate variability, cancer, diabetes, or respiratory symptoms. Conclusions: More studies using rigorous study design are needed to make generalizations, and meta-analyses, of these and other health outcomes possible. These findings may assist urban managers, organizations, and communities in their efforts to increase new or preserve existing green space.",
+            "author": [
+                {
+                    "family": "Kondo",
+                    "given": "Michelle C."
+                },
+                {
+                    "family": "Fluehr",
+                    "given": "Jaime M."
+                },
+                {
+                    "family": "McKeon",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Branas",
+                    "given": "Charles C."
+                }
+            ],
+            "container-title": "International Journal of Environmental Research and Public Health",
+            "id": "kondoUrbanGreenSpace2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "Blood Pressure,Cross-Sectional Studies,Depression,Environment Design,Exercise,Female,green space,health,Humans,Hydrocortisone,Male,nature,Nature,urban,Urban Health,violence",
+            "language": "en-US",
+            "page": "445",
+            "title": "Urban Green Space and Its Impact on Human Health",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
             "DOI": "10.1207/s15430421tip4104_2",
             "ISSN": "0040-5841",
             "author": [
@@ -974,6 +1054,51 @@
             "volume": "26"
         },
         {
+            "DOI": "10.3389/fspor.2024.1449059",
+            "ISSN": "2624-9367",
+            "PMCID": "PMC11611549",
+            "PMID": "39629224",
+            "abstract": "The present review critically assesses the nexus between physical activity, nature exposure and health benefits by analysing environmental measures in green exercise research. A Cochrane-inspired review of systematic studies exposes methodological gaps, emphasising the scarcity of long-term research and the lack of rigorous designed studies. It calls for more robust, varied research designs and improved environmental metrics. The findings advocate for longitudinal research to better comprehend the mental and physical health benefits of exposure to nature. Embracing an ecological-dynamic perspective is recommended to advance our understanding of the intricate connections between activity, environment, and well-being.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Laezza",
+                    "given": "Luca"
+                },
+                {
+                    "family": "De Dominicis",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Brondino",
+                    "given": "Margherita"
+                }
+            ],
+            "container-title": "Frontiers in Sports and Active Living",
+            "id": "laezzaReassessingGreenExercise2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        11
+                    ]
+                ]
+            },
+            "page": "1449059",
+            "title": "Reassessing green exercise research: Unveiling methodological gaps and pathways for progress",
+            "title-short": "Reassessing green exercise research",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
             "DOI": "10.1136/bjsports-2015-095497",
             "ISSN": "0306-3674, 1473-0480",
             "PMID": "26851290",
@@ -1021,6 +1146,50 @@
             "title-short": "Effects and dose–response relationships of resistance training on physical performance in youth athletes",
             "type": "article-journal",
             "volume": "50"
+        },
+        {
+            "DOI": "10.3389/fpubh.2026.1831073",
+            "ISSN": "2296-2565",
+            "PMCID": "PMC13253268",
+            "PMID": "42293588",
+            "abstract": "Background Physical activity is a proven intervention for depression and anxiety, but the optimal environment for exercising remains debated. While “green exercise” (in nature) is theorized to offer superior mental health benefits to indoor exercise, a comprehensive quantitative ranking of these modalities against a no-exercise control is lacking. We aimed to determine the comparative efficacy of green exercise, indoor exercise, and control conditions for improving mental health outcomes. Methods We conducted a systematic review and network meta-analysis of randomized controlled trials (RCTs). We searched PubMed, Embase, Web of Science, and CENTRAL from inception to December 2024 for RCTs comparing at least two of the following: green exercise, indoor exercise, or a no-exercise/standard care control group in adults. The primary outcome was a composite measure of mental health, including symptoms of depression, anxiety, and psychological distress. A random-effects network meta-analysis was performed to calculate standardized mean differences (SMDs) and rank the interventions using P-scores. The protocol was registered with PROSPERO (CRD420261279222). Results Fifteen RCTs involving 809 participants were included. The network of evidence formed a closed three-node loop. Compared to control, green exercise showed a large and statistically significant effect on improving mental health (SMD = -0.96, 95% CI: -1.66 to -0.25). Indoor Exercise showed a small, non-significant beneficial trend (SMD = -0.21, 95% CI: -1.08 to 0.67). In direct comparison, green exercise was significantly superior to indoor exercise (SMD = -0.75, 95% CI: -1.32 to -0.18). Ranking analysis confirmed green exercise as the most effective intervention with near certainty (p-score = 0.99). The superior effect of green exercise was maintained in a subgroup analysis of clinical populations. Conclusion Green exercise is a highly effective intervention for improving mental health, demonstrating benefits significantly greater than both indoor exercise and no-exercise control conditions. These findings strongly support the integration of nature-based physical activity into clinical practice and public health strategies for mental wellness. Systematic review registration PROSPERO, CRD420261279222.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Liang",
+                    "given": "Yun"
+                },
+                {
+                    "family": "Wei",
+                    "given": "Da-Yuan"
+                },
+                {
+                    "family": "Min",
+                    "given": "Su"
+                }
+            ],
+            "container-title": "Frontiers in Public Health",
+            "id": "liangComparativeEfficacyGreen2026",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026
+                    ]
+                ]
+            },
+            "page": "1831073",
+            "title": "Comparative efficacy of green exercise versus indoor exercise for depression and anxiety: A systematic review and network meta-analysis",
+            "title-short": "Comparative efficacy of green exercise versus indoor exercise for depression and anxiety",
+            "type": "article-journal",
+            "volume": "14"
         },
         {
             "DOI": "10.1080/17461391.2012.730061",
