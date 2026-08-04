@@ -2,16 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Ingorantia/Ignorantia.html",
-      "/posts/Learnings_FaL_S2026/Learnings_from_FaL2026.html",
-      "/posts/Experiment on Attention/ExperimentonAttention.html",
-      "/posts/Intervene_when_bored/InterveneWhenBored.html",
-      "/posts/nonfunctionalTraining/nonfunctionalTraining.html",
-      "/posts/AI and Training/AI_as_a_coach.html",
-      "/posts/A discussion on Training/WhatsTraining.html",
-      "/posts/Outside Science/Outside Science.html",
-      "/posts/welcome/welcome.html",
-      "/posts/Embodymate_das eigene Weltbild/ebm_weltbild_archive.html"
+      "/posts/Ignorantia.html",
+      "/posts/Learnings_from_FaL2026.html",
+      "/posts/ExperimentonAttention.html",
+      "/posts/InterveneWhenBored.html",
+      "/posts/nonfunctionalTraining.html",
+      "/posts/AI_as_a_coach.html",
+      "/posts/WhatsTraining.html",
+      "/posts/Outside Science.html",
+      "/posts/welcome.html",
+      "/posts/ebm_weltbild_archive.html"
     ]
   }
 ]
