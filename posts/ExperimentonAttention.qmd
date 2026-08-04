@@ -3,18 +3,20 @@ title: "An Experiment on Attention"
 author: "Peter Raidl"
 date: "2026-07-07"
 image: "Attention.png"
-draft: false
 ---
 
-Today, I want to share a form of [movement practice](https://themovingscienceblog.netlify.app/posts/nonfunctionaltraining/nonfunctionaltraining) I regularly engage in. This is not completely separate from a [training](https://themovingscienceblog.netlify.app/posts/a%20discussion%20on%20training/whatstraining) perspective, but I primarily think of it as a form of *practice*. Hopefully, it serves as an example that balances the more theoretical, philosophical articles I have posted so far.
+Today, I want to share a form of [Movement Practice](nonfunctionalTraining.qmd#sec-movement-practice) I like. It is not so much a form of [training](WhatsTraining.qmd#sec-what-is-training) as it is a experience driven experiment with myself.
 
-The practice I do is based on the idea of willingly switching between *internal and external focus* during repeated exercises or movements. It is actually quite simple - which does not make it easy.
+This practice is based on the idea of willingly switching between *internal and external focus* during repeated exercises or movements. It is quite simple - which does not make it easy.
 
 ## Short introduction on focus and movement
 
-When we have an **external focus** during movement, we direct our attention to the information we get from and the effects we have on the external world. It is about where the ball goes, or the cup of tea we want to reach for. It is the more "natural" state during everyday movements. With an **internal focus**, on the other hand, we bring our attention to our breathing, heartbeat, or the way we use our muscles and joints when reaching for that cup. The internal focus directs our attention to the feedback we get from our body or the effects we have on it [@schmidtMotorControlLearning2019, pp. 367].
+In everyday life one typically focuses on the results of a movement and to the effects to the external world. This is about the trajectory of the ball, or the cup of tea we want to reach for. In the science of motor control is called an **external focus**. When one keeps the attention on the movement of the body this is called an **internal focus**. The mover focuses on the knee angle, contractions of the working muscle or the own heartbeat. The internal focus directs our attention to the feedback we get from our body or the effects we have on it [@schmidtMotorControlLearning2019, pp. 367].
 
-In research on motor control and learning, internal and external focus have been of interest for decades now. Most research points to a superiority of an external focus when it comes to learning and performance [@chuaSuperiorityExternalAttentional2021]. On the other hand, there is something to say about an internal focus, too. Many embodied practices (or mind-body practices) like Yoga, traditional martial arts, and some contemporary dance arts use this form of attention [^1]. Also, the modern mindfulness movement has a strong emphasis on internal processes. Some applied philosophies use internal focus to train *right attention* or get a better understanding of *reality*. In a more utilitarian sense, conscious attention on internal processes is thought to improve our *understanding* of bodily sensations. As emotions probably emerge as interpretations of bodily sensations coupled with environmental cues supporting behavioral changes [@craigInteroceptionSensePhysiological2003; @damasioEmotionsFeelingsNeurobiological2004], this helps us process and be aware of our emotions and feelings.
+When performing difficult tasks, under time pressure, during dual tasks, most people will automatically concentrate on the external effects of their movement. However, if the stakes are low movers can also shift their attention towards the movement of their body.
+
+
+The focus of attention has been studied for decades now. When it comes to learning and performance most research points to a superiority of an external compared to an internal focus [@chuaSuperiorityExternalAttentional2021]. But, there is something to say about an internal focus, too. Many embodied practices (or mind-body practices) like Yoga, traditional martial arts, and some contemporary dance arts use this form of attention [^1]. Also, the modern mindfulness movement has a strong emphasis on internal processes. Some applied philosophies use internal focus to train *right attention* or get a better understanding of *reality*. In a more utilitarian sense, conscious attention on internal processes is thought to improve our *understanding* of bodily sensations. As emotions probably emerge as interpretations of bodily sensations coupled with environmental cues supporting behavioral changes [@craigInteroceptionSensePhysiological2003; @damasioEmotionsFeelingsNeurobiological2004], this helps us process and be aware of our emotions and feelings.
 
 [^1]: I use attention and focus interchangeably. In motor learning literature it is common to call it internal and external "focus of attention". Attention could be described as the process of directing your mental processes towards something, while focus is more about sustaining the attention on something.
 
@@ -46,22 +48,22 @@ A similar idea is Joseph Bartz's [Low Sugar Training](https://josephbartz.de/you
 
 ## Summary of the practice
 
--   Find a distraction-free environment.
+- Find a distraction-free environment.
 
--   Warm up appropriately.
+- Warm up appropriately.
 
--   Decide on one or two exercises you want to do. Use exercises you have some experience with, and use moderately heavy weights.
+- Decide on one or two exercises you want to do. Use exercises you have some experience with, and use moderately heavy weights.
 
--   Set an interval timer to 60-180 seconds for 3-6 sets.
+- Set an interval timer to 60-180 seconds for 3-6 sets.
 
--   Every time the alarm goes off, you do a set of the exercise without going to failure. Leave 1-3 reps in the tank.
+- Every time the alarm goes off, you do a set of the exercise without going to failure. Leave 1-3 reps in the tank.
 
--   During the set, your full attention is focused on an external goal of the movement.
+- During the set, your full attention is focused on an external goal of the movement.
 
--   You switch to full awareness of internal sensations the moment you put down the implement and stick with it throughout the rest period.
+- You switch to full awareness of internal sensations the moment you put down the implement and stick with it throughout the rest period.
 
--   Do not add anything to the practice before trying it out at least two to three times.
+- Do not add anything to the practice before trying it out at least two to three times.
 
--   Embrace simplicity and use your curiosity without leaning into any expectations about what the practice will yield.
+- Embrace simplicity and use your curiosity without leaning into any expectations about what the practice will yield.
 
--   Enjoy!
+- Enjoy!
