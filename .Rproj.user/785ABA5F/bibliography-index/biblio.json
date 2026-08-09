@@ -523,6 +523,48 @@
             "type": "article-journal"
         },
         {
+            "DOI": "10.1177/1745691612460685",
+            "ISSN": "1745-6916",
+            "abstract": "Dual-process and dual-system theories in both cognitive and social psychology have been subjected to a number of recently published criticisms. However, they have been attacked as a category, incorrectly assuming there is a generic version that applies to all. We identify and respond to 5 main lines of argument made by such critics. We agree that some of these arguments have force against some of the theories in the literature but believe them to be overstated. We argue that the dual-processing distinction is supported by much recent evidence in cognitive science. Our preferred theoretical approach is one in which rapid autonomous processes (Type 1) are assumed to yield default responses unless intervened on by distinctive higher order reasoning processes (Type 2). What defines the difference is that Type 2 processing supports hypothetical thinking and load heavily on working memory.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Evans",
+                    "given": "Jonathan St. B. T."
+                },
+                {
+                    "family": "Stanovich",
+                    "given": "Keith E."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "evansDualProcessTheoriesHigher2013",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "223-241",
+            "publisher": "SAGE Publications Inc",
+            "title": "Dual-Process Theories of Higher Cognition: Advancing the Debate",
+            "title-short": "Dual-Process Theories of Higher Cognition",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
             "ISSN": "1089-2680",
             "abstract": "Scientific concepts are defined by metaphors. These metaphors determine what attention is and what count as adequate explanations of the phenomenon. The authors...",
             "accessed": {
@@ -617,6 +659,22 @@
             "title": "Ignorance: How It Drives Science",
             "title-short": "Ignorance",
             "type": "book"
+        },
+        {
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "id": "FullArticleAdaptation",
+            "publisher": "https://www-tandfonline-com.uaccess.univie.ac.at/doi/full/10.1080/1750984X.2026.2703512",
+            "title": "Full article: Adaptation in sport: Development of frameworks and refinements",
+            "title-short": "Full article",
+            "type": ""
         },
         {
             "DOI": "10.2165/00007256-199111050-00003",
@@ -975,6 +1033,31 @@
             "volume": "31"
         },
         {
+            "DOI": "Daniel",
+            "ISBN": "978-0-14-103357-0",
+            "author": [
+                {
+                    "family": "Kahneman",
+                    "given": "Daniel"
+                }
+            ],
+            "collection-title": "Penguin psychology",
+            "id": "kahnemanThinkingFastSlow2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "/unread",
+            "publisher": "Penguin Books",
+            "publisher-place": "London",
+            "title": "Thinking, fast and slow",
+            "type": "book"
+        },
+        {
             "DOI": "10.3390/ijerph15030445",
             "ISSN": "1660-4601",
             "PMCID": "PMC5876990",
@@ -1309,6 +1392,48 @@
             "type": ""
         },
         {
+            "ISSN": "0031-8248",
+            "URL": "https://www.jstor.org/stable/184878",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        12,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Rosenblueth",
+                    "given": "Arturo"
+                },
+                {
+                    "family": "Wiener",
+                    "given": "Norbert"
+                },
+                {
+                    "family": "Bigelow",
+                    "given": "Julian"
+                }
+            ],
+            "container-title": "Philosophy of Science",
+            "id": "rosenbluethBehaviorPurposeTeleology1943",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1943
+                    ]
+                ]
+            },
+            "page": "18-24",
+            "publisher": "[Cambridge University Press, The University of Chicago Press, Philosophy of Science Association]",
+            "title": "Behavior, Purpose and Teleology",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
             "DOI": "10.1136/bmj.312.7023.71",
             "ISSN": "0959-8138",
             "PMCID": "PMC2349778",
@@ -1353,6 +1478,51 @@
             "title-short": "Evidence based medicine",
             "type": "article-journal",
             "volume": "312"
+        },
+        {
+            "DOI": "10.1080/1750984X.2026.2703512",
+            "ISSN": "1750-984X",
+            "abstract": "Athletes operate within a dynamic global sport environment that offers growth opportunities while simultaneously presenting unprecedented challenges. Adaptation – and the cultivation of an adaptive mindset – is critical for sustaining development, performance, and well-being. Yet the mechanisms underlying athletes’ adaptation remain partially understood. This review advances current adaptation conceptualizations by integrating theoretical perspectives and empirical findings in both momentary performance contexts and career transitions. We first outline the evolution of adaptation research in sport, emphasizing contributions from stress–coping theories, ecological dynamics, and expertise development. We then elaborate on the Meta-Model of Adaptation in Sport (MAS model), which conceptualizes adaptation as a probabilistic process driven by athletes’ evaluations of situational demands relative to their perceived ability to meet them. This framework differentiates between fast adaptation during performance events and prolonged adaptation during career change events. We extend the MAS model by proposing that adaptation is shaped by dual-processing mechanisms involving the interaction between automatic Type 1 and deliberate Type 2 cognitive processing. Expertise is reflected in (a) robust Type 1 processes, (b) the capacity to intentionally activate Type 2 processes when needed, and (c) the ability to efficiently return to automatic processing. Applied implications and future research directions are discussed.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Samuel",
+                    "given": "Roy David"
+                },
+                {
+                    "family": "Filho",
+                    "given": "Edson"
+                },
+                {
+                    "family": "Englert",
+                    "given": "Chris"
+                }
+            ],
+            "container-title": "International Review of Sport and Exercise Psychology",
+            "id": "samuelAdaptationSportDevelopment2026",
+            "issue": "0",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        7
+                    ]
+                ]
+            },
+            "page": "1-27",
+            "publisher": "Routledge",
+            "title": "Adaptation in sport: Development of frameworks and refinements",
+            "title-short": "Adaptation in sport",
+            "type": "article-journal",
+            "volume": "0"
         },
         {
             "ISBN": "978-1-4925-4775-4",

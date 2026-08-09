@@ -5,65 +5,77 @@ date: "2026-07-07"
 image: "Attention.png"
 ---
 
-Today, I want to share a form of [Movement Practice](nonfunctionalTraining.qmd#sec-movement-practice) I like. It is not so much a form of [training](WhatsTraining.qmd#sec-what-is-training) as it is a experience driven experiment with myself.
 
-This practice is based on the idea of willingly switching between *internal and external focus* during repeated exercises or movements. It is quite simple - which does not make it easy.
+In previous posts, I describe the difference between *[Training](WhatsTraining.qmd#sec-what-is-training)* and [Movement Practice](nonfunctionalTraining.qmd#sec-movement-practice). The goal of training is to drive very specific adaptations with as much input as necessary but as little as possible. Training is an efficiency game. Movement practices are less goal-directed and more experience-oriented. They are not driven by efficiency. The difference comes down to the intention of each session and the overall process.
 
-## Short introduction on focus and movement
+This post dives into **attention** during human movement. First, I discuss a connection between **dual-processing theory** and **top-down motor control**. Then I lay out a movement practice to explore **shifting attention**. It is based on willingly switching between *internal and external focus of attention* [^1]. I like the presented practice because of its simplicity. It can help break up patterns and find new ways to engage with movement.
 
-In everyday life one typically focuses on the results of a movement and to the effects to the external world. This is about the trajectory of the ball, or the cup of tea we want to reach for. In the science of motor control is called an **external focus**. When one keeps the attention on the movement of the body this is called an **internal focus**. The mover focuses on the knee angle, contractions of the working muscle or the own heartbeat. The internal focus directs our attention to the feedback we get from our body or the effects we have on it [@schmidtMotorControlLearning2019, pp. 367].
+[^1]: In motor learning literature, it is common to call it internal and external "focus of attention". But this is somewhat imprecise, and some fields distinguish clearly between attention and focus. Attention can be described as the process of directing your mental processes towards something, while focus is the sustained (more narrow) attention on something.
 
-When performing difficult tasks, under time pressure, during dual tasks, most people will automatically concentrate on the external effects of their movement. However, if the stakes are low movers can also shift their attention towards the movement of their body.
+## Attention drives Movement - Movement drives Attention
+
+When I think of human movement, my intuition is to think of manipulating the relationship between the body, or its segments, and the environment. But this is only a small fraction of human movement. Human movement is a broad spectrum of changes in shape and position. It ranges from the microscopic folding of proteins, contraction of blood vessels, and the expansion of the lungs to whole-body rearrangements in space.
+
+Movement is **purposeful** when it all serves the system's goals - like preserving life - but there are also **random** elements to it  [@rosenbluethBehaviorPurposeTeleology1943]. <!--#Movement is essential to biology. Definitions of life can be built around autonomic, goal-directed (i.e., purposeful) movements. --> There are *qualia* to many, but not all of our movements. Some internal states are closed to conscious experience or allegedly only available to the most experienced yogis. Most experientially accessible movements have a bidirectional relation with attention. The purpose and intention of movement direct attention. Solutions emerge through this interplay. Attention is active and causal to action. At the same time, attention can be passive when it is affected by movement and its sensory feedback [@fernandez-duqueCauseEffectTheories2002].
 
 
-The focus of attention has been studied for decades now. When it comes to learning and performance most research points to a superiority of an external compared to an internal focus [@chuaSuperiorityExternalAttentional2021]. But, there is something to say about an internal focus, too. Many embodied practices (or mind-body practices) like Yoga, traditional martial arts, and some contemporary dance arts use this form of attention [^1]. Also, the modern mindfulness movement has a strong emphasis on internal processes. Some applied philosophies use internal focus to train *right attention* or get a better understanding of *reality*. In a more utilitarian sense, conscious attention on internal processes is thought to improve our *understanding* of bodily sensations. As emotions probably emerge as interpretations of bodily sensations coupled with environmental cues supporting behavioral changes [@craigInteroceptionSensePhysiological2003; @damasioEmotionsFeelingsNeurobiological2004], this helps us process and be aware of our emotions and feelings.
 
-[^1]: I use attention and focus interchangeably. In motor learning literature it is common to call it internal and external "focus of attention". Attention could be described as the process of directing your mental processes towards something, while focus is more about sustaining the attention on something.
+Organization of movement is based on multiple parallel and serial processes. One of these processes is based on purpose- and intention-based attention. But its activity use depends on the situation. As popularized by Daniel Kahneman, **Dual-processing theories** distinguish between *System 1* ("thinking fast") and *System 2* ("thinking slow"), [-@kahnemanThinkingFastSlow2012] [^2]. According to this theory, there are two *modes* or *systems* of cognition. *System 1* is the fast, intuitive, automatic mode. Under *System 1*, action is built on heuristics and learned associations. *System 2* is the slow mode of argumentation and logic. System 2 is not error-free or morally "better", but it helps break up patterns and find new solutions, in case our typical responses don't work. Dividing cognition into two distinct systems as a strong simplification [@evansDualProcessTheoriesHigher2013], but it's useful in describing decisions. Samuel et al. [-@samuelAdaptationSportDevelopment2026] apply this framework to a broad range of psychological "adaptations"[^3]. Here I will specifically apply it to movement solutions in space.  
 
-## As practice
+[^2]: Some authors reject the term system and prefer dual types or dual processes [@evansDualProcessTheoriesHigher2013]
+[^3]: Their use of the word adaptations overlaps partly with mine, but is not fully congruent.
 
-But it is not so much the scientific, *exoteric* promises of the practice. In contrast, I want to raise your curiosity about what happens during such a practice for **YOU**! To use a word some might find provocative - I see it as a completely ***esoteric practice***. It's a search into your own internal reality, instead of what is generally known to others [^2]. So, when I now describe the practice, make sure to understand that the explicit knowledge about *what it should be* is not of interest. It is about your *participatory knowing* of *what it is to you right now*! I want to invite you to try it out - playful but serious. This means you have to try it out more than once while staying open-minded, without waiting for a spectacular effect to arise.
+If the task is hard, the mover is under time pressure or high (cognitive) load, *System 1* kicks into full gear and it involves a focus on the external effect of the movement. This is called **external focus of attention** [@schmidtMotorControlLearning2019].
 
-[^2]: The word esoteric has many different meanings. Originally it was used as a differentiation from exoteric philosophies and it means something like "secret" or "inner" philosophy. Coming from a time when philosophy and science were two sides of the same coin, esoteric can mean something like the knowledge (or wisdom) that reveals itself only to the experts or the knowledge (or wisdom) that is only attainable through insight into ones' own nature of reality.
+*System 2* is only available if there are enough resources available. In our context, this may be possible during reflection, explicit coaching, or trying to cognitively solve a movement puzzle, as well as under low-stakes or slow movements. This is the "slow" top-down mode, which comes with the freedom of willingly directing attention. Under *System 2*, one can place attention on internal processes of the body (as well as on cognition and emotion). During this **internal focus of attention**, the mover can be focusing on the knee angle, contractions of the working muscle, or their heartbeat. It is about the feedback from the body or the effects on it.
 
-## The practice
+The two types of focus have been studied for decades now, and most scientists agree that when it comes to learning and performance, an external focus should be preferred [@chuaSuperiorityExternalAttentional2021]. So if one has the goal of learning or teaching a motor skill, attention should be brought to the external effects of the movement. Typically, this may be the default (system 1) path anyway. But under the control of *System 2*, some movers start worrying a lot about internal processes. 
 
-Before starting the practice, make sure to warm up properly and prepare your space and equipment. Do whatever you need to feel ready.
+Internal focus of attention has its place. Many embodied practices (mind-body practices) like yoga, traditional martial arts, and some contemporary dancing schools use internal cues in their teachings. The modern *mindfulness* trend has a strong emphasis on internal processes, and some applied philosophies use internal focus to train *right attention* or get a better understanding of *reality*. By placing attention on the internal feedback of the body, one can improve their *understanding* of bodily sensations. Some theories describe emotions as interpretations of bodily sensations coupled with environmental cues [@craigInteroceptionSensePhysiological2003; @damasioEmotionsFeelingsNeurobiological2004]. Embodied practices could, therefore, support behavioral changes by improved processing and awareness of emotions and feelings.
 
-To start, you need a quiet space and, preferably, some equipment to do a strength-related exercise with. Use one or two exercises you already know. I personally trained with kettlebells a couple of years ago and still use them for this kind of practice. So I do swings and push-ups on some days and alternate between presses and rows on others. Look for a challenging weight that you can move about 8 to 20 times with "good form". You will do about three to six sets of the exercise without ever going to failure. I typically set a timer that signals the start of each new set so I can focus on my actual practice. Try 60 to 180-second intervals, depending on the relative load and the movement. For starters: the heavier the implement, the longer the rest time. There is no need for more details here. Lastly, make sure that your phone is in airplane mode! This is crucial. You don't want to get sucked into something else during that time. Once everything is set up, you can start the practice. Every time the signal goes off, start your set. In between sets, walk a bit or just sit down. So far, it might not be so different from your typical training.
 
-The essential thing about this kind of practice is **how you direct your attention**. When you do your exercise, your focus should be very narrow and specific. Focus on the movement of the implement by envisioning either a target you want to move it towards or something you want to move it away from. For example, while lifting an object from the ground, you can focus on getting it away from the ground as fast and forcefully as possible. Similarly, you could focus on pressing a barbell up towards the ceiling or moving it away from your shirt. Use an external focus and a clear intention that can be expressed in an image ("forceful", "powerful", "like a crane", "like a rocket"...). The moment you finish the set, you flip a switch and bring your attention to your bodily sensations. Notice how long it takes for your muscles to "turn off", how your blood pressure drops, and how breathing regulates. Stay open to whatever rises to consciousness. There are thousands of regulatory processes going on, and some of them are observable if you take your time. Wait for the next signal to go off and repeat that pattern - That's it.
+
+## Attention Practice - Let's get Esoteric
+
+This post it is not just about the scientific, **exoteric** promises of the practice. It's about raising curiosity about what is happening to you personally during the proposed practice. In this sense is an **esoteric practice**, which means that it is research on one's own internal reality [^4]. So in this case, the explicit knowledge about **what it should be like** is not of interest. It is about your **participatory knowing** of **what is\*.*
+
+The proposed practice is an invitation to be playful but serious. Try it out at least twice while staying open-minded and without grapsing for a specific effect.
+
+[^4]: The word esoteric has many different meanings. Originally it was used as a differentiation from exoteric philosophies and it means something like "secret" or "inner" philosophy. Coming from a time when philosophy and science were two sides of the same coin, esoteric can mean something like the knowledge (or wisdom) that reveals itself only to the experts or the knowledge (or wisdom) that is only attainable through insight into ones' own nature of reality.
+
+
+
+## The practice - A guide
+
+Before starting, make sure to warm up properly and prepare your space and equipment. Turn off your phone or set it aside completely. Prepare your water upfront, if you need that.  Everything should be set and ready with minimal external distractions.
+
+Use one or two physical exercises or movement patterns you already know well. You can adapt the practice as you like. At the beginning, I would suggest using equipment like weights or balls because it makes the intended switch of attention much easier. I trained with kettlebells for a while and still use them for this kind of practice. I typically alternate between presses and rows. But that is a personal choice. Look for a challenging weight that you can move about 8 to 20 times with good form. You will do about three to six sets of each exercise without ever going to failure.
+
+Set a timer that signals the start of each new set, so you focus on the actual practice. Try 60 to 180-second intervals, depending on the relative load and the movement. For starters: the heavier the implement, the longer the rest time. There is no need for more details here. Once everything is set up, you can start the practice. Every time the signal goes off, start your set. In between sets, walk a bit or just sit down. So far, it might not be so different from your typical exercise session, but here comes the essential part:
+
+Whenever you do your exercise, your focus should be very narrow and specific. Either envision a target you want to move your implement towards or you want to move it away from. For example, while lifting an object from the ground, you can focus on getting it away from the ground as fast and forcefully as possible. Similarly, you could focus on pressing the implement up towards the ceiling or moving it away from your shirt. Use an external focus and a clear intention that can be expressed in an image ("forceful", "powerful", "like a crane", "like a rocket", "rip it off the floor", "throw it far away"...). The moment you finish the exercise, you flip a switch and bring your attention to your bodily sensations. Notice how long it takes for your muscles to "turn off", how your blood pressure drops, and how breathing regulates. Stay open to whatever rises to consciousness. There are thousands of regulatory processes going on, and some of them are observable if you are curious and open. When the signal goes off again, repeat that cycle. That's it.
 
 ## Further recommendations
 
-I started with recommending a preparation and warm-up before practice. Nevertheless, this does not mean you have to be in your *individual zone of optimal functioning*. You don't need a caffeine boost or be fully rested. It is also interesting to play around with your arousal and your level of fatigue. Just be warmed up sufficiently to feel safe with the exercise you choose.
+I recommend a warm up before practice. Nevertheless, this does not mean you have to be optimally prepared. You don't need a caffeine boost or be fully rested. It is also interesting to play around with your arousal and your level of fatigue. Just be warmed up sufficiently to feel safe with the exercise you choose.
 
-Keep the practice as simple as possible and try it out multiple times. Maybe you can really embrace the simplicity. It is neither super exciting nor entertaining. If you feel bored during the session, stay with the boredom. It is completely fine. Just flip a switch during the next set and focus on the performance during the lift. Then boredom might arise again or not. Both are fine.
+Keep the practice as simple as possible and try it out multiple times. Maybe you can embrace the simplicity. If you feel bored during the session, stay with the boredom. It is fine. Just flip a switch during the next set and focus on the performance during the lift. Then boredom might arise again or not. Both are fine.
 
-Later, you can play around with the exercise selection by using bodyweight exercises, stretching, or even everyday movements like making coffee. You can play around with more challenging environments, too. For now, you might stick to my initial recommendation.
+Later, you can play around with the exercise selection by using bodyweight exercises, stretching, or even everyday movements like making coffee. You can play around with more challenging environments, too. For now, you might stick to my initial recommendations - equipment to move, medium intensity, and minimal external distractions.
 
-There is no reason not to turn the whole concept on its head. Switch to an internal focus of attention during the set, and bring your attention to your exteroceptive input (like sight and sounds) during rest. I typically use a broader, more open awareness to contrast with the set's narrow focus.
+You can turn the whole concept on its head. Switch to an internal focus of attention during the set, and bring your attention to your exteroceptive input (like sight and sounds) during rest. I typically use a broader, more open awareness to contrast with the set's narrow focus.
 
-A similar idea is Joseph Bartz's [Low Sugar Training](https://josephbartz.de/youtube/lowsugar.html). He makes it even more raw. I personally think that some extra instructions help. If you have ever experimented with improvisations, you may know how hard it is to move freely without any guidance or boundaries.
+For comparison, a similar idea is Joseph  Bartz's [Low Sugar Training](https://josephbartz.de/youtube/lowsugar.html). He makes it even more raw. But I personally think that some extra instructions help. If you have ever experimented with dance or musical improvisations, you may know by heart how hard it is to move freely without any guidance or boundaries.
 
 ## Summary of the practice
 
 - Find a distraction-free environment.
-
-- Warm up appropriately.
-
-- Decide on one or two exercises you want to do. Use exercises you have some experience with, and use moderately heavy weights.
-
+- Warm-up appropriately.
+- Decide on one or two exercises. Use exercises you have some experience with, and use moderately heavy weights.
 - Set an interval timer to 60-180 seconds for 3-6 sets.
-
-- Every time the alarm goes off, you do a set of the exercise without going to failure. Leave 1-3 reps in the tank.
-
+- Every time the alarm goes off, you do a set of the exercise without going to failure. Leave about 1-3 reps in the tank.
 - During the set, your full attention is focused on an external goal of the movement.
-
 - You switch to full awareness of internal sensations the moment you put down the implement and stick with it throughout the rest period.
-
 - Do not add anything to the practice before trying it out at least two to three times.
-
 - Embrace simplicity and use your curiosity without leaning into any expectations about what the practice will yield.
-
 - Enjoy!
