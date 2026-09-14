@@ -1,0 +1,30 @@
+---
+title: "Warming-up is overrated - Warm-ups are underrated"
+author:
+    - "Peter Raidl"
+date: "2026-09-12"
+categories: [blog, knowledge, learning, education]
+image: "warmup.png"
+---
+
+Warm-ups are an integral part of sports. But many coaches don’t use them effectively. This results in wasted time, during which athletes go through the motions without clear intention. Understanding how and why warm-ups work opens up a whole new world for structuring and organizing training.
+
+## Not everyone needs the same warm-up
+
+Young athletes can often do without any warm-up. I remember being fifteen or sixteen, rolling out of bed and doing a set of push-ups without issue. Now, being 39, this is not on the table anymore. In general, beginners also need less warm-up compared to advanced athletes. This is especially true for strength and power sports, where, anecdotally, some high performers take up to an hour to reach peak performance. Beginners, not being able to recruit as much of their absolute capacity, typically reach their optimal state much earlier and start fatiguing with longer build-ups.
+
+Those are the extremes. Most athletes are well advised to warm up for about 20 minutes before practice and competition to improve performance. The mechanisms for increased performance include psychological effects, autonomic regulation, thermal effects on mechanical properties and chemical reactions, hormonal and neurotransmitter changes, and more. Well-balanced warm-ups target the different mechanisms through multiple components. They should include some modality to increase heart rate and body temperature, muscular work for the prime movers, moving joints through full range of motion, and some high-intent movements. For optimal performance, warm-ups are unavoidable. Especially when preparing for competition, athletes must spend time figuring out their optimal individual warm-up routines. These must be tried, tested, and evaluated under comp-simulations and build-up matches.
+
+## Regular practice is not competition
+
+During regular training, optimal performance is less important than during competition. Especially in complex, technical sports and movement practices, it's not always desirable to go all out or to rely on physicality rather than technique. From this perspective, warm-ups may just take up time that should be spent on learning.
+
+But there is another reason for doing warm-ups. Many coaches and athletes do them to reduce the risk of injury during the session. However, the research is not as robust as one might think. A recent consensus paper did not reach a definitive conclusion on this topic. The experts did not agree that warming up would reduce the risk of injuries during that immediate session [@boullosaInternationalExpertConsensus2026]. There is some speculation about why this is the case. First, it might be that researching rare events is hard, and many published studies lack statistical power. Intervention studies may also use suboptimal warm-up routines or bad controls. But it is also possible that the acute effect of warming up on injury risk is just smaller than we think [@afonsoDoesWarmupReally2026; @fradkinDoesWarmingPrevent2006].
+
+Let's bring together what we have so far. Warm-ups are an effective way to increase performance, and athletes should take the time to figure out their optimal routine for competition. This routine must be practiced in advance to feel competent and confident with it. But for daily practice, optimal physical performance may be less important, and the acute effects on injury risk are debated (not necessarily zero).
+
+## Not for acute effects but for training
+
+Warming up may be overrated in the short term. But effective injury prevention programs have been implemented in many sports. The most famous is the FIFA11+, which has been shown to reduce lower-extremity injuries among soccer players [@thorborgEffectSpecificExercisebased2017]. The protocols take about 20-30 minutes and are typically used at the beginning of every session. The athletes may think of these protocols as warm-ups, but they are training programs. They focus on long-term improvements instead of transient effects. These programs include fundamental movement skills, basic technical elements, flexibility and strength exercises. They are not just routines with fixed exercises that stay the same over time. Because they are designed for training and learning, they often incorporate programming and periodization with changing intensities and exercises.
+
+Knowing that opens up a new world for structuring sessions. I would still advise doing a general warm-up. But the main focus shifts. Warm-ups are a great place to teach athletes movement skills, train sport-specific structures, or include compensatory exercises. You don't have to do these at the beginning of the session. It might be just as effective to do them at the end or in a separate block. This gives some flexibility and each sport or team may come up with their solution to improve performance and keeping athletes safe and healthy.

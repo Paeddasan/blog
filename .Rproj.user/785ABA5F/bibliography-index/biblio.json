@@ -1,6 +1,110 @@
 {
     "sources": [
         {
+            "DOI": "10.1016/j.jsams.2025.09.013",
+            "ISSN": "1440-2440",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Afonso",
+                    "given": "José"
+                },
+                {
+                    "family": "Warneke",
+                    "given": "Konstantin"
+                },
+                {
+                    "family": "Lohmann",
+                    "given": "Lars H."
+                },
+                {
+                    "family": "Pizzari",
+                    "given": "Tania"
+                },
+                {
+                    "family": "Boullosa",
+                    "given": "Daniel"
+                }
+            ],
+            "container-title": "Journal of Science and Medicine in Sport",
+            "id": "afonsoDoesWarmupReally2026",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        3
+                    ]
+                ]
+            },
+            "page": "259-261",
+            "title": "Does the warmup really reduce injury risk? Why we need new approaches to confidently answer this question",
+            "title-short": "Does the warmup really reduce injury risk?",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "DOI": "10.1007/s40279-026-02425-4",
+            "ISSN": "0112-1642, 1179-2035",
+            "abstract": "In this Current Opinion, we revisit key terminological distinctions in sports sciences, emphasizing the implications of conflating related but distinct concepts, particularly range of motion (ROM) versus flexibility and flexibility training versus stretching. While often used interchangeably, these terms represent nuanced constructs with distinct physiological and practical implications. ROM encompasses both modifiable (e.g., soft tissue extensibility, neural control) and non-modifiable factors (e.g., bone structure), whereas flexibility is only one of several trainable components of ROM, largely referring to the extensibility of periarticular soft tissues. Misunderstanding these distinctions risks erroneous assessments and inappropriate exercise prescriptions. We also challenge the common practice of equating flexibility training with stretching. While stretching is effective to enhance flexibility, other methods, such as strength training at long muscle lengths and foam rolling, produce comparable chronic ROM gains. Furthermore, stretching has a diverse array of effects that extend beyond flexibility, including strength development and neural modulation. Mischaracterizing flexibility training as synonymous with stretching perpetuates myths and constrains innovation in training practices. By differentiating these terms, we advocate for clearer language in research and practice to avoid miscommunication and ensure effective training interventions. In summary, we propose that flexibility is only one component of ROM, and that flexibility training and stretching should not be equated. We hope this Current Opinion paper generates a healthy discussion within the sports science and medicine communities.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        20
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Afonso",
+                    "given": "José"
+                },
+                {
+                    "family": "Blazevich",
+                    "given": "Anthony J."
+                },
+                {
+                    "family": "Behm",
+                    "given": "David George"
+                },
+                {
+                    "family": "Tilp",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Warneke",
+                    "given": "Konstantin"
+                }
+            ],
+            "container-title": "Sports Medicine",
+            "id": "afonsoOneTheseThings2026",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1869-1875",
+            "title": "One of These Things Is Not Like the Others: Disentangling the Concepts of Range of Motion Versus Flexibility, and Flexibility Training Versus Stretching",
+            "title-short": "One of These Things Is Not Like the Others",
+            "type": "article-journal",
+            "volume": "56"
+        },
+        {
             "abstract": "Cell Press is committed to meeting the growing demand for open access and new publishing model options. Explore your open access options with Cell Press.",
             "accessed": {
                 "date-parts": [
@@ -16,6 +120,23 @@
             "publisher": "https://www.cell.com/open-access, https://www.cell.com/open-access",
             "title": "APC Cell Journal",
             "type": ""
+        },
+        {
+            "abstract": "In this paper, we outline an ecological approach to training in mixed martial arts (MMA) to support coaches in helping fighters coordinate skilled movement solutions to the ever-changing problems t...",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        23
+                    ]
+                ]
+            },
+            "container-title": "Sports Coaching Review",
+            "id": "ApplyingEcologicalDynamics",
+            "language": "en-US",
+            "title": "Applying an ecological dynamics framework to mixed martial arts training",
+            "type": "article-journal"
         },
         {
             "DOI": "10.3389/fnetp.2021.794392",
@@ -68,6 +189,102 @@
             "title": "Overtraining Syndrome as a Complex Systems Phenomenon",
             "type": "article-journal",
             "volume": "1"
+        },
+        {
+            "DOI": "10.51222/injoma.2024.03.9.27",
+            "ISSN": "2287-8599",
+            "abstract": "Grappling sports, such as freestyle, catch, and greco-roman wrestling, have featured in the Olympic Games for over 100 years. However, no published injury-prevention warm-up (IPW) has been shown to lower injury incident rates within the three sports. Other grappling sports, such as Brazilian jiujitsu (BJJ), sambo, and traditional jiu-jitsu, also currently have no established IPW available. The aim of this review is to appraise the injury prevention practices and injury trends in grappling sports and use the findings to design an IPW that could be implemented across grappling sports. The TeamSport Injury Prevention (TIP) cycle was used as a guideline to establish epidemiology, aetiology, and risk factors within each grappling sport. We found that the knee is the most injured site in freestyle wrestling, BJJ, sambo and traditional jiu-jitsu and the leading time loss injury in judo. Ligament strains were reported as the leading injury type in freestyle wrestling, BJJ and judo and second in traditional jiu-jitsu. In greco-roman wrestling and Judo competitions, the grappling sports that do not allow leg attacks, such as the head, neck, and trunk, are the leading injury sites. Assessing the barriers and facilitators of previous IPW, a deficiency of coach knowledge, lack of time, costs, scheduling, and equipment are the main obstacles to coach and athlete compliance. A knowledge group consisting of the authorship team, external medical practitioners, and coaches used the results of the TIP cycle to design an evidence-based IPW. Exercises with research confirming their effectiveness in lowering knee, shoulder and head injuries were selected. Where possible, the exercises selected were currently used in grappling warm-ups or strength and conditioning programmes. Future intervention studies are now needed to evaluate the efficacy of the IPW amongst grappling athletes.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bell",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Johnson",
+                    "given": "Mark I."
+                },
+                {
+                    "family": "Friesen",
+                    "given": "Kenzie"
+                },
+                {
+                    "family": "Falahati",
+                    "given": "Saam"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Ashley"
+                }
+            ],
+            "container-title": "International Journal of Martial Arts",
+            "id": "bellEvidencebasedInjuryPrevention2024",
+            "issue": "0",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        3
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "27-49",
+            "title": "An evidence-based injury prevention warm-up in grappling sports",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.47206/ijsc.v6i1.537",
+            "ISSN": "2634-2235",
+            "abstract": "Purpose: This study aimed to estimate the incidence, prevalence, type, and mechanism of injuries among grappling athletes in the United Kingdom (UK) across the following disciplines: Brazilian Jiu-Jitsu (BJJ), Judo, Catch Wrestling, Sambo, and Mixed Martial Arts (MMA). Methods: A retrospective, self-reported survey, delivered via JISC online survey software, was used to record the following information for all injuries sustained over the previous 12-month period: mechanism of injury, environment, severity, recurrence and body region. Additionally, injury diagnosis was reported where possible. Injury incidence for training exposure was calculated based on hours trained per week, while competition exposure was based on the number of bouts participated in during the year. One variable chi-square tests (X2) were used to calculate if observed values were significantly different from expected values. Results: A total of 341 grappling athletes, 243 males and 97 females, with one participant preferring not to state gender  (32  9.3 years), completed the study over a 3-month period. The competition incident rates (IR) (24.16/1000 AE) were significantly higher than training (2.97/1000 AE). The knee was the most frequently injured site (24.5%). Ligament sprains were the most commonly diagnosed injury (24.3%). Most injuries occurred during practice sparring (65.8%), with the leading mechanisms being submission attempts and takedowns. Major injuries (&gt;28 days recovery) accounted for 49.5% of all cases. BJJ exhibited the highest injury rate (3.49/1000 AE); patterns varied by discipline and gender. Conclusion: Grappling sports pose a substantial risk of injury, particularly to the knee. Structured training, medical support, and tailored injury risk reduction programs should now be explored to enhance athlete safety.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bell",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Travis",
+                    "given": "Eleanor"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Ashley"
+                }
+            ],
+            "container-title": "International Journal of Strength and Conditioning",
+            "id": "bellRetrospectiveSelfReportedAudit2026",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        2
+                    ]
+                ]
+            },
+            "keyword": "Athletic injury,BJJ,Brazilian jiu-jitsu,epidemiology,Epidemiology,Grappling,injury audit",
+            "language": "en-US",
+            "title": "A Retrospective Self-Reported Audit of Injuries Amongst Grappling Athletes Competing in the United Kingdom",
+            "type": "article-journal",
+            "volume": "6"
         },
         {
             "DOI": "10.12775/QS.2025.40.59786",
@@ -142,6 +359,130 @@
             "volume": "40"
         },
         {
+            "DOI": "10.1123/ijspp.2025-0647",
+            "ISSN": "1555-0273",
+            "PMID": "42476526",
+            "abstract": "PURPOSE: To present the first international consensus on warm-up in sport. METHODS: Twenty-three experts from 12 countries worldwide participated in a 3-round Delphi process, including an online open asynchronous discussion. A total of 122 initial statements were evaluated across 4 domains: (1) definitions and nomenclature; (2) objectives and structure; (3) exercises, performance enhancement, and mechanisms; and (4) health and injury prevention. RESULTS: Consensus ($\\geq$80% agreement) was achieved for 72 statements (60%). The panel defined the warm-up as a structured and purposeful preparatory intervention aimed at optimizing physiological responses and readiness in both training and competitive settings with a combination of both active and passive strategies. Experts identified a 3-layer model comprising general and specific exercises and conditioning activities, with the latter being voluntary contractions of sufficient volume and intensity to induce postactivation performance enhancement. Athletes’ readiness and fatigue can be monitored during warm-up protocols with different tools. The comprehensiveness of a warm-up protocol is a key factor associated with its effectiveness. Warm-ups were recognized as context- and sport-dependent, integrating diverse goals depending on the sport’s contextual factors and individual characteristics. While inclusion of some type of exercises in the warm-up may reduce long-term injury risk, as in other periods of the training session, there is no support for acute injury protection. CONCLUSION: This consensus confirms that warm-ups are structured, multifactorial interventions integrating active and passive components to enhance readiness for training and competition. This framework serves to inform research design and effective evidence-informed warm-up strategies across sports disciplines.",
+            "author": [
+                {
+                    "family": "Boullosa",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Gil-Calvo",
+                    "given": "Marina"
+                },
+                {
+                    "family": "Xenofondos",
+                    "given": "Anthi"
+                },
+                {
+                    "family": "Patikas",
+                    "given": "Dimitris A."
+                },
+                {
+                    "family": "Blazevich",
+                    "given": "Anthony J."
+                },
+                {
+                    "family": "Afonso",
+                    "given": "José"
+                },
+                {
+                    "family": "Loturco",
+                    "given": "Irineu"
+                },
+                {
+                    "family": "Behm",
+                    "given": "David"
+                },
+                {
+                    "family": "Xu",
+                    "given": "Kai"
+                },
+                {
+                    "family": "Babault",
+                    "given": "Nicolas"
+                },
+                {
+                    "family": "Bishop",
+                    "given": "David"
+                },
+                {
+                    "family": "Cuenca-Fernández",
+                    "given": "Francisco"
+                },
+                {
+                    "family": "Fernandez-Fernandez",
+                    "given": "Jaime"
+                },
+                {
+                    "family": "Franchini",
+                    "given": "Emerson"
+                },
+                {
+                    "family": "Doma",
+                    "given": "Kenji"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Andrew M."
+                },
+                {
+                    "family": "McGowan",
+                    "given": "Courtney"
+                },
+                {
+                    "family": "Nakamura",
+                    "given": "Fábio"
+                },
+                {
+                    "family": "Prieske",
+                    "given": "Olaf"
+                },
+                {
+                    "family": "Racinais",
+                    "given": "Sebastien"
+                },
+                {
+                    "family": "Schumann",
+                    "given": "Moritz"
+                },
+                {
+                    "family": "Zagatto",
+                    "given": "Alessandro"
+                },
+                {
+                    "family": "Sandbakk",
+                    "given": "Øyvind"
+                },
+                {
+                    "family": "Foster",
+                    "given": "Carl"
+                },
+                {
+                    "family": "Pyne",
+                    "given": "David B."
+                }
+            ],
+            "container-title": "International Journal of Sports Physiology and Performance",
+            "id": "boullosaInternationalExpertConsensus2026",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        7
+                    ]
+                ]
+            },
+            "keyword": "conditioning activities,injury risk,postactivation performance enhancement,postactivation potentiation,priming exercises,strength and conditioning",
+            "language": "en-US",
+            "page": "1-14",
+            "title": "International Expert Consensus on Warm-Up Protocols for Athletes: A Delphi Study",
+            "title-short": "International Expert Consensus on Warm-Up Protocols for Athletes",
+            "type": "article-journal"
+        },
+        {
             "DOI": "10.1123/ijspp.2018-0722",
             "ISSN": "1555-0273",
             "PMID": "31484159",
@@ -177,6 +518,63 @@
             "title": "Perspectives and Determinants for Training-Intensity Distribution in Elite Endurance Athletes",
             "type": "article-journal",
             "volume": "14"
+        },
+        {
+            "ISBN": "978-1-76100-002-7",
+            "author": [
+                {
+                    "family": "Brukner",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Khan",
+                    "given": "Karim"
+                }
+            ],
+            "edition": "6th edition",
+            "editor": [
+                {
+                    "family": "Ardern",
+                    "given": "Clare"
+                },
+                {
+                    "family": "Blazey",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Cools",
+                    "given": "Ann"
+                },
+                {
+                    "family": "Crossley",
+                    "given": "Kay"
+                },
+                {
+                    "family": "Forster",
+                    "given": "Bruce"
+                },
+                {
+                    "family": "Hutchinson",
+                    "given": "Mark R."
+                },
+                {
+                    "family": "Lasinsky",
+                    "given": "Anne"
+                }
+            ],
+            "id": "bruknerBruknerKhansClinical2026",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "publisher": "McGraw Hill Education",
+            "publisher-place": "Australia",
+            "title": "Brukner & Khan’s Clinical sports medicine. Managing injuries",
+            "type": "book"
         },
         {
             "DOI": "10.1152/physrev.1929.9.3.399",
@@ -338,6 +736,26 @@
             "volume": "51"
         },
         {
+            "author": [
+                {
+                    "family": "Costa",
+                    "given": "Pablo B"
+                },
+                {
+                    "family": "Afonso",
+                    "given": "José"
+                },
+                {
+                    "family": "Warneke",
+                    "given": "Konstantin"
+                }
+            ],
+            "id": "costaDoesPreExerciseStretching",
+            "language": "en-US",
+            "title": "Does Pre-Exercise Stretching Prevent Injuries?",
+            "type": "article-journal"
+        },
+        {
             "DOI": "10.1016/S0959-4388(03)00090-4",
             "ISSN": "0959-4388",
             "abstract": "Converging evidence indicates that primates have a distinct cortical image of homeostatic afferent activity that reflects all aspects of the physiological condition of all tissues of the body. This interoceptive system, associated with autonomic motor control, is distinct from the exteroceptive system (cutaneous mechanoreception and proprioception) that guides somatic motor activity. The primary interoceptive representation in the dorsal posterior insula engenders distinct highly resolved feelings from the body that include pain, temperature, itch, sensual touch, muscular and visceral sensations, vasomotor activity, hunger, thirst, and “air hunger”. In humans, a meta-representation of the primary interoceptive activity is engendered in the right anterior insula, which seems to provide the basis for the subjective image of the material self as a feeling (sentient) entity, that is, emotional awareness.",
@@ -448,6 +866,68 @@
             "title": "The feeling of what happens: Body and emotion in the making of consciousness",
             "title-short": "The feeling of what happens",
             "type": "book"
+        },
+        {
+            "DOI": "10.3390/ijerph19106336",
+            "ISSN": "1661-7827",
+            "PMCID": "PMC9140806",
+            "PMID": "35627873",
+            "abstract": "Sports participation by children and adolescents often results in injuries. Therefore, injury prevention warm-up programs are imperative for youth sports safety. The purpose of this paper was to assess the effectiveness of Warm-up Intervention Programs (WIP) on upper and lower limb sports injuries through a systematic review and meta-analysis. Searches for relevant studies were performed on PubMed, EMBASE, Web of Science, SPORTDiscus, and Cochrane databases. Studies selected met the following criteria: original data; analytic prospective design; investigated a WIP and included outcomes for injury sustained during sports participation. Two authors assessed the quality of evidence using Furlan’s criteria. Comprehensive Meta-Analysis 3.3 software was used to process and analyze the outcome indicators of the literature. Across fifteen studies, the pooled point estimated injury rate ratio (IRR) was 0.64 (95% CI = 0.54–0.75; 36% reduction) while accounting for hours of risk exposure. Publication bias assessment suggested a 6% reduction in the estimate (IRR = 0.70, 95% CI = 0.60–0.82), and the prediction interval intimated that any study estimate could still fall between 0.34 and 1.19. Subgroup analyses identified one significant moderator that existed in the subgroup of compliance (p $<$ 0.01) and might be the source of heterogeneity. Compared with the control group, WIPs significantly reduced the injury rate ratio of upper and lower limb sports injuries in children and adolescents.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        28
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Ding",
+                    "given": "Liyi"
+                },
+                {
+                    "family": "Luo",
+                    "given": "Jianfeng"
+                },
+                {
+                    "family": "Smith",
+                    "given": "Daniel M."
+                },
+                {
+                    "family": "Mackey",
+                    "given": "Marcia"
+                },
+                {
+                    "family": "Fu",
+                    "given": "Haiqing"
+                },
+                {
+                    "family": "Davis",
+                    "given": "Matthew"
+                },
+                {
+                    "family": "Hu",
+                    "given": "Yanping"
+                }
+            ],
+            "container-title": "International Journal of Environmental Research and Public Health",
+            "id": "dingEffectivenessWarmUpIntervention2022",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5
+                    ]
+                ]
+            },
+            "page": "6336",
+            "title": "Effectiveness of Warm-Up Intervention Programs to Prevent Sports Injuries among Children and Adolescents: A Systematic Review and Meta-Analysis",
+            "title-short": "Effectiveness of Warm-Up Intervention Programs to Prevent Sports Injuries among Children and Adolescents",
+            "type": "article-journal",
+            "volume": "19"
         },
         {
             "ISSN": "2624-9367",
@@ -661,6 +1141,82 @@
             "type": "book"
         },
         {
+            "DOI": "10.1016/j.jsams.2006.03.026",
+            "ISSN": "1440-2440",
+            "PMID": "16679062",
+            "abstract": "BACKGROUND: The practice of warming up prior to exercise is advocated in injury prevention programs, but this is based on limited clinical evidence. It is hypothesised that warming up will reduce the number of injuries sustained during physical activity. METHODS: A systematic review was undertaken. Relevant studies were identified by searching Medline (1966-April 2005), SPORTDiscus (1966-April 2005) and PubMed (1966-April 2005). This review included randomised controlled trials that investigated the effects of warming up on injury risk. Studies were included only if the subjects were human, and only if they utilised other activities than simply stretching. Studies reported in languages other than English were not included. The quality of included studies was assessed independently by two assessors. RESULTS: Five studies, all of high quality (7-9 (mean=8) out of 11) reported sufficient data (quality score$>$7) on the effects of warming up on reducing injury risk in humans. Three of the studies found that performing a warm-up prior to performance significantly reduced the injury risk, and the other two studies found that warming up was not effective in significantly reducing the number of injuries. CONCLUSIONS: There is insufficient evidence to endorse or discontinue routine warm-up prior to physical activity to prevent injury among sports participants. However, the weight of evidence is in favour of a decreased risk of injury. Further well-conducted randomised controlled trials are needed to determine the role of warming up prior to exercise in relation to injury prevention.",
+            "author": [
+                {
+                    "family": "Fradkin",
+                    "given": "A. J."
+                },
+                {
+                    "family": "Gabbe",
+                    "given": "B. J."
+                },
+                {
+                    "family": "Cameron",
+                    "given": "P. A."
+                }
+            ],
+            "container-title": "Journal of Science and Medicine in Sport",
+            "id": "fradkinDoesWarmingPrevent2006",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        6
+                    ]
+                ]
+            },
+            "keyword": "Athletic Injuries,Exercise,Humans,Muscle Contraction,Muscle Relaxation,Muscle Skeletal,Randomized Controlled Trials as Topic",
+            "language": "en-US",
+            "page": "214-220",
+            "title": "Does warming up prevent injury in sport? The evidence from randomised controlled trials?",
+            "title-short": "Does warming up prevent injury in sport?",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1519/JSC.0b013e3181c643a0",
+            "ISSN": "1533-4287",
+            "PMID": "19996770",
+            "abstract": "The value of warming-up is a worthy research problem because it is not known whether warming-up benefits, harms, or has no effect on individuals. The purpose of this study was to review the evidence relating to performance improvement using a warm-up. A systematic review and meta-analysis were undertaken. Relevant studies were identified by searching Medline, SPORTDiscus, and PubMed (1966-April 2008). Studies investigating the effects of warming-up on performance improvement in physical activities were included. Studies were included only if the subjects were human and only if the warm-up included activities other than stretching. The quality of included studies was assessed independently by 2 assessors using the Physiotherapy Evidence Database scale. Thirty-two studies, all of high quality (6.5-9 [mean = 7.6] of 10) reported sufficient data (quality score $>$6) on the effects of warming-up on performance improvement. Warm-up was shown to improve performance in 79% of the criterions examined. This analysis has shown that performance improvements can be demonstrated after completion of adequate warm-up activities, and there is little evidence to suggest that warming-up is detrimental to sports participants. Because there were few well-conducted, randomized, controlled trials undertaken, more of these are needed to further determine the role of warming-up in relation to performance improvement.",
+            "author": [
+                {
+                    "family": "Fradkin",
+                    "given": "Andrea J."
+                },
+                {
+                    "family": "Zazryn",
+                    "given": "Tsharni R."
+                },
+                {
+                    "family": "Smoliga",
+                    "given": "James M."
+                }
+            ],
+            "container-title": "Journal of Strength and Conditioning Research",
+            "id": "fradkinEffectsWarmingupPhysical2010",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        1
+                    ]
+                ]
+            },
+            "keyword": "Athletic Performance,Exercise,Humans,Muscle Stretching Exercises",
+            "language": "en-US",
+            "page": "140-148",
+            "title": "Effects of warming-up on physical performance: A systematic review with meta-analysis",
+            "title-short": "Effects of warming-up on physical performance",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
             "accessed": {
                 "date-parts": [
                     [
@@ -810,6 +1366,59 @@
             "volume": "50"
         },
         {
+            "DOI": "10.1007/s40279-019-01136-3",
+            "ISSN": "1179-2035",
+            "abstract": "Recent scientific evidence supports the use of a low-volume strength–power “resistance priming” session prior to sporting competition in an effort to enhance neuromuscular performance. Though research evidence relating to this strategy is presently limited, it has been shown to be effective in improving various measures of neuromuscular performance within 48 h. Post-activation potentiation strategies have previously been shown to enhance strength–power performance within 20 min of completing maximal or near-maximal resistance exercise. Comparably, a delayed potentiation effect has been demonstrated following “resistance priming” at various times between 1 and 48 h in upper- and lower-body performance measures. This may have significant implications for a range of athletes when preparing for competition. Various exercise protocols have been shown to improve upper- and lower-body neuromuscular performance measures in this period. In particular, high-intensity resistance exercise through high loading ($\\geq$ 85% 1 repetition maximum) or ballistic exercise at lower loads appears to be an effective stimulus for this strategy. Although current research has identified the benefits of resistance priming to some physical qualities, many questions remain over the application of this type of session, as well as the effects that it may have on a range of specific sporting activities. The aims of this brief review are to assess the current literature examining the acute effects (1–48 h) of resistance exercise on neuromuscular performance and discuss potential mechanisms of action as well as provide directions for future research.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Harrison",
+                    "given": "Peter W."
+                },
+                {
+                    "family": "James",
+                    "given": "Lachlan P."
+                },
+                {
+                    "family": "McGuigan",
+                    "given": "Mike R."
+                },
+                {
+                    "family": "Jenkins",
+                    "given": "David G."
+                },
+                {
+                    "family": "Kelly",
+                    "given": "Vincent G."
+                }
+            ],
+            "container-title": "Sports Medicine",
+            "id": "harrisonResistancePrimingEnhance2019",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        10
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1499-1514",
+            "title": "Resistance Priming to Enhance Neuromuscular Performance in Sport: Evidence, Potential Mechanisms and Directions for Future Research",
+            "title-short": "Resistance Priming to Enhance Neuromuscular Performance in Sport",
+            "type": "article-journal",
+            "volume": "49"
+        },
+        {
             "ISBN": "978-3-7853-1967-3",
             "abstract": "Literaturverzeichnis: Seite 356-405",
             "author": [
@@ -845,6 +1454,29 @@
             "publisher-place": "Wiebelsheim",
             "title": "Einführung in die Trainingswissenschaft",
             "type": "book"
+        },
+        {
+            "abstract": "Effects of participant-target distance and perceived handstriking efficiency on emergent behavior in the martial art of boxing were investigated, revealing affordance-controlled nonlinear dynamical effects (i.e. bifurcations) within the participant – target system. Results established the existence of critical values of scaled distances for emergence of first time excitations and annihilations of a diverse range of boxing actions i.e. on the appearance and dissolution of jabs, hooks and uppercuts. Reasons for the action diversity were twofold: (a) topological discontinuous changes (bifurcations) in the number of possible handstrikes, i.e. motor solutions to the hitting task; (b) fine modification of probabilities of emergence of striking patterns. Exploitation of a “strikeability” affordance available in scaled distanceto-target information by boxers led to a diversity of emergent actions through a cascade of bifurcations in the task perceptual-motor work space. Data suggested that perceived efficiency (E) of an action changed as a function of scaled distance (D) and was correlated with the probability of occurrence of action patterns (P), exhibiting the following dependence P = P(E(D)). The implication is that probability of occurrence (P) depends on efficiency (E), which in turn depends on scaled distance (D) to the target. Accordingly, scaled distance-dependent perceived efficiency seems a viable candidate for a contextual (control) parameter to describe the nonlinear dynamics of striking actions in boxing.",
+            "author": [
+                {
+                    "family": "Hristovski",
+                    "given": "Robert"
+                }
+            ],
+            "container-title": "Nonlinear Dynamics, Psychology, and Life Sciences",
+            "id": "hristovskiAffordancecontrolledBifurcationsAction",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Affordance-controlled bifurcations of action patterns in martial arts",
+            "type": "article-journal",
+            "volume": "10"
         },
         {
             "DOI": "10.3389/fspor.2021.803366",
@@ -1033,6 +1665,79 @@
             "volume": "31"
         },
         {
+            "DOI": "10.1530/EOR-23-0035",
+            "ISSN": "2058-5241",
+            "PMCID": "PMC10646517",
+            "PMID": "37909692",
+            "abstract": "Distal biceps tendon (DBT) is a relatively rare injury mainly occurring in middle-aged men while in eccentric biceps muscle contraction.Clinical appearance with proximal avulsion of the muscle and specific clinical tests are most of the time sufficient for diagnosing DBT, but if needed ultrasonography and MRI, most often in FABS view, can be used to ensure diagnosis of DBT and partial DBT.Surgical anatomical reinsertion has shown to be a successful method of treatment, although conservative treatment can be initiated in older patients.Two different approaches are described in literature: single- and double-incision techniques with different fixation methods proving to have similarly good results.Major complications of surgical intervention are posterior interosseous nerve palsy and symptomatic heterotropic ossification.Overall outcome of surgical intervention has shown high subjective satisfaction with slight weakness in flexion and supination but mostly without loss in range of motion.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Jaschke",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Rekawek",
+                    "given": "Krzysztof"
+                },
+                {
+                    "family": "Sokolowski",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Kolodziej",
+                    "given": "Lukasz"
+                }
+            ],
+            "container-title": "EFORT Open Reviews",
+            "id": "jaschkeDistalBicepsTendon2023",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11
+                    ]
+                ]
+            },
+            "page": "865-873",
+            "title": "Distal biceps tendon rupture: A comprehensive overview",
+            "title-short": "Distal biceps tendon rupture",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "abstract": "While some elements of the strength and conditioning portfolio have yet to achieve acceptance in the preparation of athletes in all sports, one area of practice which is almost universally accepted is the principle of the warm-up. Today, few athletes at any level train or compete without some attempt at a \" warm-up \". However, while the general principles surrounding the need to warm-up remain valid, a large body of evidence is building up which both questions some of our current practices, and provides possible opportunities to improve practice. This article looks at current practice, and presents a model around which to construct effective warm-ups",
+            "author": [
+                {
+                    "family": "Jeffreys",
+                    "given": "Ian"
+                }
+            ],
+            "container-title": "Professional Strength and Conditioning",
+            "id": "jeffreysWarmupRevisitedRamp2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "page": "12-18",
+            "title": "Warm-up revisited: The ramp method of optimizing performance preparation",
+            "title-short": "Warm-up revisited",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
             "DOI": "Daniel",
             "ISBN": "978-0-14-103357-0",
             "author": [
@@ -1207,6 +1912,54 @@
             "volume": "6"
         },
         {
+            "abstract": "Injuries effect the performance of athletes. Severity of injuries is determined by time loss and sporting performance reduction. To treat injuries adequately, it is necessary to get an overview of varied injuries types in different sports disciplines. In a retrospective study 7.809 athletes from Germany, Switzerland and Austria competing in competitive or recreational levels of sports were included. Injury prevalence was highest in team sports (75 %), followed by combat (64 %), racquet (54 %) and track and field (51 %). Knee (28 %) and shoulder (14 %) were the most at risk joints. Time loss in sporting activity after injury was longest in the region of knee (26 weeks). Of all reported injuries, 48 % were accompanied by a reduced level of performance. The highest injury prevalence occurred in the year 2016 (45 %). More injuries occurred during training (58 %) compared to competition (42 %). Across Olympic disciplines, a large number of injuries occurred during training sessions. Injury frequency increased as the Olympic games drew closer. Knee and shoulder injuries were the most severe injuries with respect to time loss and reduction sporting performance.",
+            "author": [
+                {
+                    "family": "Lambert",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Ritzmann",
+                    "given": "Ramona"
+                },
+                {
+                    "family": "Akoto",
+                    "given": "Ralph"
+                },
+                {
+                    "family": "Lambert",
+                    "given": "Maxime"
+                },
+                {
+                    "family": "Pfeiffer",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Wolfarth",
+                    "given": "Bernd"
+                },
+                {
+                    "family": "Lachmann",
+                    "given": "Danlel"
+                },
+                {
+                    "family": "Shafizadeh",
+                    "given": "Sven"
+                }
+            ],
+            "id": "lambertEpidemiologyInjuriesOlympic2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "title": "Epidemiology of Injuries in Olympic Sports Epidemiologie von Verletzungen im olympischen Sport",
+            "type": "article-journal"
+        },
+        {
             "DOI": "10.1136/bjsports-2015-095497",
             "ISSN": "0306-3674, 1473-0480",
             "PMID": "26851290",
@@ -1300,6 +2053,47 @@
             "volume": "14"
         },
         {
+            "DOI": "10.1111/j.1600-0838.2009.01058.x",
+            "ISSN": "1600-0838",
+            "abstract": "Stretching is commonly practiced before sports participation; however, effects on subsequent performance and injury prevention are not well understood. There is an abundance of literature demonstrating that a single bout of stretching acutely impairs muscle strength, with a lesser effect on power. The extent to which these effects are apparent when stretching is combined with other aspects of a pre-participation warm-up, such as practice drills and low intensity dynamic exercises, is not known. With respect to the effect of pre-participation stretching on injury prevention a limited number of studies of varying quality have shown mixed results. A general consensus is that stretching in addition to warm-up does not affect the incidence of overuse injuries. There is evidence that pre-participation stretching reduces the incidence of muscle strains but there is clearly a need for further work. Future prospective randomized studies should use stretching interventions that are effective at decreasing passive resistance to stretch and assess effects on subsequent injury incidence in sports with a high prevalence of muscle strains.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "McHugh",
+                    "given": "M. P."
+                },
+                {
+                    "family": "Cosgrave",
+                    "given": "C. H."
+                }
+            ],
+            "container-title": "Scandinavian Journal of Medicine & Science in Sports",
+            "id": "mchughStretchNotStretch2010",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "keyword": "muscle stiffness,muscle strain,muscle strength,stretch-induced strength loss",
+            "language": "en-US",
+            "page": "169-181",
+            "title": "To stretch or not to stretch: The role of stretching in injury prevention and performance",
+            "title-short": "To stretch or not to stretch",
+            "type": "article-journal",
+            "volume": "20"
+        },
+        {
             "DOI": "10.1080/17461391.2012.730061",
             "ISSN": "1746-1391",
             "abstract": "Successful training must involve overload, but also must avoid the combination of excessive overload plus inadequate recovery. Athletes can experience short-term performance decrement, without severe psychological, or lasting other negative symptoms. This Functional Overreaching (FOR) will eventually lead to an improvement in performance after recovery. When athletes do not sufficiently respect the balance between training and recovery, Non-Functional Overreaching (NFOR) can occur. The distinction between NFOR and the Overtraining Syndrome (OTS) is very difficult and will depend on the clinical outcome and exclusion diagnosis. The athlete will often show the same clinical, hormonal and other signs and symptoms. A keyword in the recognition of OTS might be “prolonged maladaptation” not only of the athlete, but also of several biological, neurochemical, and hormonal regulation mechanisms. It is generally thought that symptoms of OTS, such as fatigue, performance decline and mood disturbances, are more severe than those of NFOR. However, there is no scientific evidence to either confirmor refute this suggestion. One approach to understanding the aetiology of OTS involves the exclusion of organic diseases or infections and factors such as dietary caloric restriction (negative energy balance) and insufficient carbohydrate and/or protein intake, iron deficiency, magnesium deficiency, allergies, etc., together with identification of initiating events or triggers. In this paper, we provide the recent status of possible markers for the detection of OTS. Currently several markers (hormones, performance tests, psychological tests, biochemical and immune markers) are used, but none of them meets all criteria to make its use generally accepted.",
@@ -1372,6 +2166,143 @@
             "title-short": "Prevention, diagnosis and treatment of the overtraining syndrome",
             "type": "article-journal",
             "volume": "13"
+        },
+        {
+            "DOI": "10.1080/13573322.2022.2160701",
+            "ISSN": "1357-3322, 1470-1243",
+            "abstract": "The purpose of this insight article is to explore the relevance and value of some of Bruce Lee’s ideas that influenced his coaching philosophy, (re)viewed through the lens of contemporary discussions in movement skill acquisition. To achieve this aim, we highlight empirical and anecdotal examples of many of the important concepts that support Bruce Lee’s interpretation of martial arts, Jeet Kune Do (JKD). We contend that Lee’s approach to coaching and skill refinement was deeply aligned with ideas that underpin an ecological dynamics framework. Central to the philosophy of Bruce Lee and JKD is the need for coaches, practitioners, and athletes to embrace and express more water-like adaptability throughout their practice. Examining the various, nuanced insights of Bruce Lee, we can observe many practical lessons which have stood the test of time, remaining highly applicable to athletes of today seeking to move skillfully in sports.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Myszka",
+                    "given": "Shawn"
+                },
+                {
+                    "family": "Yearby",
+                    "given": "Tyler"
+                },
+                {
+                    "family": "Davids",
+                    "given": "Keith"
+                }
+            ],
+            "container-title": "Sport, Education and Society",
+            "id": "myszkaBeingWaterHow2024",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "451-467",
+            "title": "<i>Being</i> <i>Water</i> : How key ideas from the practice of Bruce Lee align with contemporary theorizing in movement skill acquisition",
+            "title-short": "<i>Being</i> <i>Water</i>",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "DOI": "10.1093/analys/anp165",
+            "ISSN": "0003-2638, 1467-8284",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        20
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Nanay",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Analysis",
+            "id": "nanayAttentionPerceptualContent2010",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "263-270",
+            "title": "Attention and perceptual content",
+            "type": "article-journal",
+            "volume": "70"
+        },
+        {
+            "DOI": "10.5114/jhk/204371",
+            "ISSN": "1640-5544",
+            "PMCID": "PMC12360937",
+            "PMID": "40837515",
+            "abstract": "Improving the competitive level of elite athletes is always a considerable challenge for coaches, regardless of the sport discipline or a training phase. From this perspective, researchers and sport scientists continuously seek more effective training methods, capable of inducing acute changes or long-term adaptations in athletes with diverse training backgrounds. Recently, priming exercises have emerged as a promising approach to enhance athletic performance over short periods of time, either before sport-specific training sessions or official competitions. By incorporating different priming protocols into their regular practices—including sets of traditional resistance exercises, ballistic exercises or sprint drills—athletes have consistently achieved significant improvements in their speed and power qualities within time intervals ranging from 2 h to 48 h. This narrative review summarizes and examines the main studies on this topic, while providing practitioners with theoretical perspectives, practical insights, and guidelines for implementing efficient priming protocols in their training routines. In conclusion, priming interventions generally produce positive outcomes, irrespective of the exercise type and athletes’ backgrounds, and may facilitate the transfer of these benefits to certain sport-specific tasks.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        22
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Pereira",
+                    "given": "Lucas A."
+                },
+                {
+                    "family": "Zmijewski",
+                    "given": "Piotr"
+                },
+                {
+                    "family": "Golas",
+                    "given": "Artur"
+                },
+                {
+                    "family": "Kotula",
+                    "given": "Krzysztof"
+                },
+                {
+                    "family": "McGuigan",
+                    "given": "Michael R."
+                },
+                {
+                    "family": "Loturco",
+                    "given": "Irineu"
+                }
+            ],
+            "container-title": "Journal of Human Kinetics",
+            "id": "pereiraPrimingExercisesTheir2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        6
+                    ]
+                ]
+            },
+            "page": "153-168",
+            "title": "Priming Exercises and Their Potential Impact on Speed and Power Performance: A Narrative Review",
+            "title-short": "Priming Exercises and Their Potential Impact on Speed and Power Performance",
+            "type": "article-journal",
+            "volume": "98"
         },
         {
             "ISSN": "1476-4687",
@@ -1567,6 +2498,63 @@
             "type": "book"
         },
         {
+            "DOI": "10.1177/2325967114522184",
+            "ISSN": "2325-9671",
+            "abstract": "Background: Brazilian jiu-jitsu (BJJ) is a unique style of martial arts with rapid growth in the United States and internationally. Although studies have examined injuries in other martial arts and combat sports, to date, no published medical study has examined injuries in BJJ competitions. Purpose: (1) To estimate the incidence of injuries in BJJ competitions and (2) to identify and describe the types and mechanisms of injuries associated with competitive BJJ. Study Design: Descriptive epidemiology study. Methods: Injury data were obtained from records of on-site medical coverage at 8 statewide BJJ tournaments in Hawaii, USA, between 2005 and 2011. Results: The identified injury incidence on the day of matches was 9.2 per 1000 exposures (46 injuries out of 5022 exposures, ie, match participations). Orthopaedic injuries were the most common and accounted for 78% of all injuries (n = 36), followed by costochondral or rib injuries (n = 7) and lacerations requiring medical care (n = 3). The elbow was found to be the joint most commonly injured during BJJ competitions, with the arm bar being the most common mechanism. We propose that this BJJ-specific injury mechanism, the “arm bar,” be recognized as another mechanism of hyperextension injury to the elbow in sports. Conclusion: Comparison of the BJJ injury data with injury data reported for judo, taekwondo, wrestling, and mixed martial arts showed that BJJ competitors were at substantially lower risk of injury compared with these other sports. With orthopaedic injuries being most common and the elbow being the area most vulnerable to injury in BJJ, it is important that participants, referees, and physicians be properly educated about the unique mechanisms of injury that can occur, particularly to the elbow.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        31
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "ScogginIII",
+                    "given": "James F."
+                },
+                {
+                    "family": "Brusovanik",
+                    "given": "Georgiy"
+                },
+                {
+                    "family": "Izuka",
+                    "given": "Byron H."
+                },
+                {
+                    "family": "Zandee van Rilland",
+                    "given": "Eddy"
+                },
+                {
+                    "family": "Geling",
+                    "given": "Olga"
+                },
+                {
+                    "family": "Tokumura",
+                    "given": "Seren"
+                }
+            ],
+            "container-title": "Orthopaedic Journal of Sports Medicine",
+            "id": "scogginiiiAssessmentInjuriesBrazilian2014",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014,
+                        2
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2325967114522184",
+            "publisher": "SAGE Publications Inc",
+            "title": "Assessment of Injuries During Brazilian Jiu-Jitsu Competition",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
             "ISSN": "0068-3027",
             "PMID": "1009491",
             "author": [
@@ -1629,6 +2617,68 @@
             "volume": "24"
         },
         {
+            "DOI": "10.1177/0363546519873270",
+            "ISSN": "0363-5465",
+            "abstract": "Background: Lower extremity injuries are common in high school sports and are costly, and some have poor outcomes. The FIFA 11+ injury prevention program has been shown to decrease injuries in elite athletes by up to 72%. Hypothesis: High schools in which coaches implement the FIFA 11+ injury prevention program in their athletic programs will have a decreased incidence of lower extremity injuries compared with schools using their usual prepractice warm-up. Study Design: Randomized controlled trial; Level of evidence, 1. Methods: Fourteen high schools that employed an athletic trainer were randomly assigned to either the FIFA 11+ group or control group (usual warm-up routine). Exposure to sports and injuries were recorded and used to determine the incidence rates of lower extremity injuries per athlete-exposure (AE). The FIFA 11+ program was implemented by coaches and complicance with the program recorded. Results: There were 196 lower extremity injuries among 1825 athletes in the FIFA 11+ group and 172 injuries among 1786 athletes in the control group (1.59 and 1.47 injuries per 1000 AEs, respectively; P = .771). The distribution of the types of injury in the 2 groups did not differ, but the body locations where the injuries occurred differed somewhat (P = .051). The FIFA 11+ group had larger proportions of thigh and foot injuries, while the control group had higher proportions of knee and ankle injuries. Group differences in injury rates varied with sport (P = .041 for interaction), but there were no significant differences in injury rates between the FIFA 11+ and control groups by sport, level of play, and sex. In the FIFA 11+ group, 62% of the coaches reported that their teams completed the full FIFA 11+ program at least once a week, and 32% reported that they completed it at least twice a week. Conclusion: This study did not demonstrate a reduction in lower extremity injuries in schools randomized to use the FIFA 11+ program compared with schools using their usual prepractice warm-up program. Coach-reported compliance with performing the FIFA 11+ program at least twice a week was low.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        28
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Slauterbeck",
+                    "given": "James R."
+                },
+                {
+                    "family": "Choquette",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Tourville",
+                    "given": "Timothy W."
+                },
+                {
+                    "family": "Krug",
+                    "given": "Mickey"
+                },
+                {
+                    "family": "Mandelbaum",
+                    "given": "Bert R."
+                },
+                {
+                    "family": "Vacek",
+                    "given": "Pamela"
+                },
+                {
+                    "family": "Beynnon",
+                    "given": "Bruce D."
+                }
+            ],
+            "container-title": "The American Journal of Sports Medicine",
+            "id": "slauterbeckImplementationFIFA11+2019",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        10
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "2844-2852",
+            "publisher": "SAGE Publications Inc STM",
+            "title": "Implementation of the FIFA 11+ Injury Prevention Program by High School Athletic Teams Did Not Reduce Lower Extremity Injuries: A Cluster Randomized Controlled Trial",
+            "title-short": "Implementation of the FIFA 11+ Injury Prevention Program by High School Athletic Teams Did Not Reduce Lower Extremity Injuries",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
             "DOI": "10.1007/s40279-024-02006-3",
             "ISSN": "1179-2035",
             "abstract": "Resistance exercise is the most common training modality included within strength and conditioning (S&C) practice. Understanding dose–response relationships between resistance training and a range of outcomes relevant to physical and sporting performance is of primary importance for quality S&C prescription.",
@@ -1672,6 +2722,56 @@
             "title-short": "Dose–Response Modelling of Resistance Exercise Across Outcome Domains in Strength and Conditioning",
             "type": "article-journal",
             "volume": "54"
+        },
+        {
+            "DOI": "10.1136/bjsports-2016-097066",
+            "ISSN": "1473-0480",
+            "PMID": "28087568",
+            "abstract": "OBJECTIVE: To investigate the effect of FIFA injury prevention programmes in football (FIFA 11 and FIFA 11+). DESIGN: Systematic review and meta-analysis. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials comparing the FIFA injury prevention programmes with a control (no or sham intervention) among football players. DATA SOURCES: MEDLINE via PubMed, EMBASE via OVID, CINAHL via Ebsco, Web of Science, SportDiscus and Cochrane Central Register of Controlled Trials, from 2004 to 14 March 2016. RESULTS: 6 cluster-randomised controlled trials had assessed the effect of FIFA injury prevention programmes compared with controls on the overall football injury incidence in recreational/subelite football. These studies included 2 specific exercise-based injury prevention programmes: FIFA 11 (2 studies) and FIFA 11+ (4 studies). The primary analysis showed a reduction in the overall injury risk ratio of 0.75 (95% CI 0.57 to 0.98), p=0.04, in favour of the FIFA injury prevention programmes. Secondary analyses revealed that when pooling the 4 studies applying the FIFA 11+ prevention programme, a reduction in the overall injury risk ratio (incidence rate ratio (IRR) 0.61; 95% CI 0.48 to 0.77, p$<$0.001) was present in favour of the FIFA 11+ prevention programme. No reduction was present when pooling the 2 studies including the FIFA 11 prevention programme (IRR 0.99; 95% CI 0.80 to 1.23, p=0.940). CONCLUSIONS: An injury-preventing effect of the FIFA injury prevention programmes compared with controls was shown in football. This effect was induced by the FIFA 11+ prevention programme which has a substantial injury-preventing effect by reducing football injuries by 39%, whereas a preventive effect of the FIFA 11 prevention programme could not be documented. TRIAL REGISTRATION NUMBER: PROSPERO CRD42015024120.",
+            "author": [
+                {
+                    "family": "Thorborg",
+                    "given": "Kristian"
+                },
+                {
+                    "family": "Krommes",
+                    "given": "Kasper Kühn"
+                },
+                {
+                    "family": "Esteve",
+                    "given": "Ernest"
+                },
+                {
+                    "family": "Clausen",
+                    "given": "Mikkel Bek"
+                },
+                {
+                    "family": "Bartels",
+                    "given": "Else Marie"
+                },
+                {
+                    "family": "Rathleff",
+                    "given": "Michael Skovdal"
+                }
+            ],
+            "container-title": "British Journal of Sports Medicine",
+            "id": "thorborgEffectSpecificExercisebased2017",
+            "issue": "7",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        4
+                    ]
+                ]
+            },
+            "keyword": "Athletic Injuries,Exercises,Football,Humans,Incidence,Injury prevention,Program Evaluation,Randomized Controlled Trials as Topic,Soccer,Warm-Up Exercise",
+            "language": "en-US",
+            "page": "562-571",
+            "title": "Effect of specific exercise-based football injury prevention programmes on the overall injury rate in football: A systematic review and meta-analysis of the FIFA 11 and 11+ programmes",
+            "title-short": "Effect of specific exercise-based football injury prevention programmes on the overall injury rate in football",
+            "type": "article-journal",
+            "volume": "51"
         },
         {
             "DOI": "10.1007/s40279-017-0714-2",
@@ -1762,6 +2862,118 @@
             "volume": "15"
         },
         {
+            "DOI": "10.1016/j.jshs.2025.101067",
+            "ISSN": "20952546",
+            "abstract": "Background: Stretching has wide appeal, but there seems to exist some mismatch between its purported applications and what the evidence shows. There is compelling evidence for some stretching applications, but for others, the evidence seems heterogeneous or unsupportive. The discrepancies even affect some systematic reviews, possibly due to heterogeneous eligibility criteria and search strategies. This consensus paper seeks to unify the divergent findings on stretching and its implications for both athletic performance and clinical practices by delivering evidence-based recommendations. Methods: A panel of 20 experts with a blend of practical experience and scholarly knowledge was assembled. The panel meticulously reviewed existing systematic reviews, defined key terminologies (e.g., consensus definitions for different stretching modes), and crafted guidelines using a Delphi consensus approach (minimum required agreement: 80%). The analysis focused on 8 topics, including stretching’s acute and chronic (long-term) effects on range of motion, strength performance, muscle hypertrophy, stiffness, injury prevention, muscle recovery, posture correction, and cardiovascular health.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        20
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Warneke",
+                    "given": "Konstantin"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Ewan"
+                },
+                {
+                    "family": "Blazevich",
+                    "given": "Anthony J."
+                },
+                {
+                    "family": "Afonso",
+                    "given": "José"
+                },
+                {
+                    "family": "Behm",
+                    "given": "David G."
+                },
+                {
+                    "family": "Marchetti",
+                    "given": "Paulo H."
+                },
+                {
+                    "family": "Trajano",
+                    "given": "Gabriel S."
+                },
+                {
+                    "family": "Nakamura",
+                    "given": "Masatoshi"
+                },
+                {
+                    "family": "Ayala",
+                    "given": "Francisco"
+                },
+                {
+                    "family": "Longo",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Babault",
+                    "given": "Nicolas"
+                },
+                {
+                    "family": "Freitas",
+                    "given": "Sandro R."
+                },
+                {
+                    "family": "Costa",
+                    "given": "Pablo B."
+                },
+                {
+                    "family": "Konrad",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Nordez",
+                    "given": "Antoine"
+                },
+                {
+                    "family": "Nelson",
+                    "given": "Arnold"
+                },
+                {
+                    "family": "Zech",
+                    "given": "Astrid"
+                },
+                {
+                    "family": "Kay",
+                    "given": "Anthony D."
+                },
+                {
+                    "family": "Donti",
+                    "given": "Olyvia"
+                },
+                {
+                    "family": "Wilke",
+                    "given": "Jan"
+                }
+            ],
+            "container-title": "Journal of Sport and Health Science",
+            "id": "warnekePracticalRecommendationsStretching2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        12
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "101067",
+            "title": "Practical recommendations on stretching exercise: A Delphi consensus statement of international research experts",
+            "title-short": "Practical recommendations on stretching exercise",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
             "ISBN": "978-0-8048-3052-2",
             "abstract": "Featuring the edited transcripts of eight talks delivered by Alan Watts from 1965 to 1972, The Philosophies of Asia offers an overview of the major traditions of Eastern thought. Watts addresses the major Asian philosophies – Hinduism, Zen Buddhism, and Taoism – and reveals the common threads of spirituality that weave their way through each of these traditions.",
             "author": [
@@ -1784,6 +2996,172 @@
             "title": "The Tao of Philosophy: The Edited Transcripts",
             "title-short": "The Tao of Philosophy",
             "type": "book"
+        },
+        {
+            "DOI": "10.1080/17470218.2010.523474",
+            "ISSN": "1747-0218",
+            "abstract": "Humans can perceive affordances both for themselves and for others, and affordance perception is a function of perceptual–motor experience involved in playing a sport. Two experiments investigated the enhanced affordance perception of athletes. In Experiment 1, basketball players and nonbasketball players provided perceptual reports for sports-relevant (maximum standing-reach and reach-with-jump heights) and non-sports-relevant (maximum sitting height) affordances for self and other. Basketball players were more accurate at perceiving maximum reach-with-jump for another person than were nonbasketball players, but were no better at perceiving maximum reach or sitting heights. Experiment 2 investigated the informational basis for this enhanced perceptual ability of basketball players by evaluating whether kinematics inform perceivers about action-scaled (e.g., force-production dependent), but not body-scaled (i.e., geometrically determined), affordances for others, and whether basketball experience enhances sensitivity to kinematic information. Only basketball players improved at perceiving an action-scaled affordance (maximum reach-with-jump), but not body-scaled affordances (maximum standing-reach and sit) with exposure to kinematic information, suggesting that action-scaled affordances may be specified by kinematic information to which athletes are already attuned by virtue of their sport experience.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Weast",
+                    "given": "Julie A."
+                },
+                {
+                    "family": "Shockley",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Riley",
+                    "given": "Michael A."
+                }
+            ],
+            "container-title": "Quarterly Journal of Experimental Psychology",
+            "id": "weastInfluenceAthleticExperience2011",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        4
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "689-706",
+            "publisher": "SAGE Publications",
+            "title": "The influence of athletic experience and kinematic information on skill-relevant affordance perception",
+            "type": "article-journal",
+            "volume": "64"
+        },
+        {
+            "DOI": "10.3389/fpsyg.2026.1923989",
+            "ISSN": "1664-1078",
+            "abstract": "Deceptive actions are prevalent in combat sports, yet existing research is limited by a focus on ball sports, fragmented single-level explanations, and a lack of cross-level integration. This paper introduces “Shi” (势)–a concept from Chinese martial arts denoting a dynamic strategic advantage emerging from posture, intention, and momentum–as an analytical lens to address these gaps. We propose an integrative framework in which “Shi” operates across biomechanical, cognitive, and dynamic levels. The framework’s core mechanism is a hypothesized cross-level cascade: deception is proposed to induce bodily imbalance, which is theorized to impair cognitive judgment, which in turn is predicted to undermine psychological momentum, forming a self-reinforcing downward spiral. This cascade mechanism distinguishes the “Shi” framework from existing single-level accounts and offers a novel perspective for understanding deception, anticipation, and decision-making in combat sports, generating empirically testable hypotheses for future research.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Wenfu",
+                    "given": "Zhang"
+                }
+            ],
+            "container-title": "Frontiers in Psychology",
+            "id": "wenfuDeceptiveActionsCombat2026",
+            "issued": {
+                "date-parts": [
+                    [
+                        2026,
+                        8
+                    ]
+                ]
+            },
+            "keyword": "combat sports,deceptive actions,decision-making,psychological momentum,SHI",
+            "language": "en-US",
+            "publisher": "Frontiers",
+            "title": "Deceptive actions in combat sports: An antagonistic decision-making perspective from the lens of “Shi”",
+            "title-short": "Deceptive actions in combat sports",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.2165/00007256-200737120-00006",
+            "ISSN": "1179-2035",
+            "abstract": "Muscular injury is one of the major problems facing today’s athletes, both recreational and professional. Injuries to skeletal muscle represent $>$30% of the injuries seen in sports medicine clinics. As a result, it is imperative to utilise the most effective means to aid in deterring these injuries. However, there are conflicting opinions regarding methods of reducing muscular injury through warm-up and stretching techniques.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        28
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Woods",
+                    "given": "Krista"
+                },
+                {
+                    "family": "Bishop",
+                    "given": "Phillip"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Eric"
+                }
+            ],
+            "container-title": "Sports Medicine",
+            "id": "woodsWarmUpStretchingPrevention2007",
+            "issue": "12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007,
+                        12
+                    ]
+                ]
+            },
+            "keyword": "Hamstring Injury,Muscle Injury,Muscle Strain,Muscle Temperature,Static Stretch",
+            "language": "en-US",
+            "page": "1089-1099",
+            "title": "Warm-Up and Stretching in the Prevention of Muscular Injury",
+            "type": "article-journal",
+            "volume": "37"
+        },
+        {
+            "DOI": "10.1007/s11097-025-10108-0",
+            "ISSN": "1572-8676",
+            "abstract": "How does the body participate in action prediction during sports, and what role does embodied experience play in this process? While action prediction has become a central issue in contemporary sports science, traditional approaches overlook the complexity and subjectivity of athletes’ lived bodily experiences. This paper introduces the Embodied Bayesian Body (EBB) framework, which reconceives athletic anticipation not as brain-centered inference but as prediction emerging directly from the lived body. In contrast to classical Bayesian models that treat proprioceptive and muscular feedback as auxiliary data, EBB positions muscle tone, joint engagement, and proprioceptive calibration as constitutive elements of generative prediction. Athletic gestures—such as a boxer’s slight lean or a goalkeeper’s shifting stance—are not mere responses but bodily enactments of future possibilities. Although maintaining formal Bayesian clarity, EBB relocates predictive logic into the rhythmic, sensorimotor, and ecological world of the body. Here, prediction is not an end product of cognition but the very mode through which embodied agents orient themselves in dynamic contexts. This framework thus reengages with foundational phenomenological commitments to embodiment, situated temporality, and ecologically embedded action, while addressing ontological gaps left by disembodied computational paradigms.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Zhang",
+                    "given": "Zhen"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Xianan"
+                }
+            ],
+            "container-title": "Phenomenology and the Cognitive Sciences",
+            "id": "zhangEmbodiedBayesianNew2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        10
+                    ]
+                ]
+            },
+            "keyword": "Action prediction,Dynamic boundaries,Embodied bayesian,Perception is action",
+            "language": "en-US",
+            "title": "Embodied bayesian: A new philosophical exploration framework of action prediction in sports",
+            "title-short": "Embodied bayesian",
+            "type": "article-journal"
         }
     ],
     "project_biblios": [
